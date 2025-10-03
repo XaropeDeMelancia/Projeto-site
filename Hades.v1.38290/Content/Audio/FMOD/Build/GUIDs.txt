@@ -1,0 +1,2199 @@
+{63690ddb-6b10-41fe-a49e-fb8dee9b19d7} bank:/Ambience
+{18a6137a-41f8-480d-b815-f7b137a07e54} bank:/Asphodel
+{e2f8ce3c-83a5-45ff-a784-1bc3966e048c} bank:/ChaosRealm
+{336b717d-2b40-4341-9718-5f3c67efea06} bank:/DeathArea
+{2c1b1ffc-d94e-4dc9-a690-41fef4c984cc} bank:/Elysium
+{be54ad73-4165-4edb-b4b4-4a3199b5f253} bank:/Enemies
+{0fd8d684-a02f-4151-851b-426ba5d94c1c} bank:/MasterBank
+{97c5f650-d154-0d13-0352-c895542a4a84} bank:/MasterBank.strings
+{3aad05a9-0bc5-4876-a362-4cd67400bf56} bank:/Music
+{4e4fc79f-f5f3-48d9-8c66-54b9926c100c} bank:/Sounds
+{d32c31ba-4a55-428f-9229-eb8cfa101865} bank:/Tartarus
+{a531b196-bb6e-4cd0-b5b3-420e81b5af19} bus:/
+{19aa3403-20f9-441c-8e50-fc7cc900981f} bus:/EMOTES
+{4867c4c3-dc13-465a-ab11-b42c7ad98aa9} bus:/EMOTES/PlayerEmotes
+{9b320436-fb96-4de1-8229-63da4b1d52af} bus:/Game
+{c1dcb592-22be-4983-9a0f-c2c94eba1a09} bus:/Game/In World
+{7030c0dc-5dcc-4ad7-93a7-0bd20262ced4} bus:/Game/In World/Ambience
+{41023ea3-d182-4b47-ae91-7bb00169b0e3} bus:/Game/In World/Ambience/DuckedByEndTheme
+{a86c4b3e-1163-4342-a980-94bac9283684} bus:/Game/In World/Ambience/Mutable Ambience
+{40fcab48-1498-47a2-b03b-b625295a64b9} bus:/Game/In World/Ambience/MutesMusic
+{bc86ed44-03dd-4edc-947a-d1ad9549f9c6} bus:/Game/In World/Ambience/WagonLowPass
+{9401f343-350e-48da-a9d7-cab8ccc2e179} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2
+{3b6af292-59a2-40e7-8dab-8b60523b1846} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2/MUTED BY MUSIC
+{4651042f-415f-479d-9e44-23c0c73d8509} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2/MUTED BY MUSIC/AmbienceMutedByMusic
+{78615009-1233-4fb2-a260-f918caa71f45} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2/Muted by UrsaIdea4
+{9755ebf0-ea53-460a-8079-44f42ede0ffe} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2/MutesStarPickerAmbienceEpilogue
+{9a1d4d0b-4dec-40bb-b55c-cca723272656} bus:/Game/In World/Ambience/WagonLowPass/PAUSE2/OceanDucking
+{5daff66e-e13f-4da4-9b05-e7a813940097} bus:/Game/In World/CerberusLoop
+{cf759208-dffa-463c-9ede-add9d4ea5c8a} bus:/Game/In World/DuckedByAmbience
+{631b5b2d-96ce-49e3-959d-0dfbe9b72eec} bus:/Game/In World/Ducks Music INWORLD
+{a0c48a76-c2bc-49b6-a263-148ccf292e12} bus:/Game/In World/Enemy SFX
+{93fe272d-84fd-4ee7-897f-e6d3f3de50a4} bus:/Game/In World/Enemy SFX/Minotaur Emotes
+{c1615e94-a5f3-4eae-861e-4493df259844} bus:/Game/In World/Enemy SFX/Theseus Emotes
+{c450094e-0ea2-469c-8cfc-86a8d6037536} bus:/Game/In World/HermesSlowLowPass
+{3539574b-33f1-44de-a6ff-ea8c0a23ba20} bus:/Game/In World/LavaBubbleGroup
+{f8c00563-4180-4191-8063-6c28ff34d23d} bus:/Game/In World/MUTED BY VO
+{a0e1b150-4caf-4eb0-bd27-d77a50c4459f} bus:/Game/In World/Match SFX
+{de79694a-93ee-4b3f-9772-49f12984a0d6} bus:/Game/In World/Match SFX/DuckedByBardVocals
+{3c0192ae-b6f0-412a-811a-37208ee38ae3} bus:/Game/In World/Match SFX/Meteors
+{35caf305-62a3-43f6-b594-a8f9742c52e4} bus:/Game/In World/Match SFX/PAUSE4
+{ea273194-8a50-414a-b21a-b8a84919268b} bus:/Game/In World/Misc World
+{b13039cb-1284-4910-8a4b-2edf6324f131} bus:/Game/In World/Old Sounds
+{f108a160-4856-45a5-a1b2-345e8240a191} bus:/Game/In World/PAUSE3
+{1d7436ca-3442-4e6d-bf43-f6998366410e} bus:/Game/In World/Player SFX
+{ae4d22b8-8696-4a4b-89c4-d8b66fd5c0a0} bus:/Game/In World/PostBoss
+{98d3ec21-d067-4790-9b35-4d605c0fc378} bus:/Game/In World/SkellyOnHit
+{06fa4c52-d281-4fde-964d-33583e6e06d0} bus:/Game/In World/WrathLightning
+{8b3c53b3-f676-421d-85c6-33dd684ca492} bus:/Game/In World/ZagreusEmotes
+{fd1875f0-5e9a-406d-baec-19baa7e19191} bus:/Game/ReverbSFX
+{c9722d32-1d79-4355-9a03-4b9d0a82a23b} bus:/Game/Stingers
+{541da1e8-c9c6-4a09-84a2-6515c269d444} bus:/Game/WrathDucksMusicALittle
+{a5565b77-a8e8-44da-8cc3-bbe97c659c77} bus:/MenuMusic
+{764b5aef-b84a-486a-8484-b80b26a6cfb7} bus:/Music
+{566f73af-62c0-4b14-8a2e-e2433c939f39} bus:/Music/BardVocals
+{896fdb8f-b50d-46b8-8221-89533fc123ca} bus:/Music/Ducks MusicNonVocals and Pause
+{fefb1c69-535f-47fe-8510-dfe87fc31e6c} bus:/Music/Ducks Other Music
+{837ae5af-d2e1-423d-bde4-42ac2884cf0f} bus:/Music/MUSIC PLAYER
+{ad9df5db-7e67-4497-a95d-2f08d09cd3e1} bus:/Music/MainThemeGroup
+{127f0453-9bea-48a6-a9a9-7684bb2faaf2} bus:/Music/Music 3D
+{68f316dd-bb1e-4cfb-8697-16d3b0d7d211} bus:/Music/MusicNonVocals
+{8f411184-ff7d-458d-8140-b27084ea2c0e} bus:/Music/MusicNonVocals/Bass
+{b3bcdeca-da0b-467e-9c2f-7329c2d5f12f} bus:/Music/MusicNonVocals/Drums
+{a6b99a35-83ae-463c-bbb0-c1a2f5697e98} bus:/Music/MusicNonVocals/Guitars
+{c4b4d9a6-59b8-4873-9643-25d9a54d9949} bus:/Music/MusicNonVocals/Keys
+{80ab6b32-1b85-4bd7-b2da-ccf6d1e3fcd7} bus:/Music/MusicNonVocals/Keys 2
+{fc03dfa4-0728-4579-8470-60305a61f52a} bus:/Music/Orpheus Music
+{5ad285c3-bc41-46ee-a9f9-b6980b70d8ce} bus:/Music/PAUSE
+{778a08fb-1158-4638-abc1-5a95086a3ab3} bus:/Music/PAUSE/Mutes StarPickerAmbience
+{8091b5d2-1f79-423f-a751-2d5dcaa5b8e7} bus:/Music/PAUSE/Mutes StarPickerAmbience/MutedByOtherMusic
+{e3a07689-d45e-4e23-aab1-b87a0d2f30e3} bus:/Music/PAUSE/Mutes StarPickerAmbience/MutedByOtherMusic/BossFightMusicDucking
+{a36ce19f-cf01-455e-84d0-be10b8637f10} bus:/Music/PAUSE/Mutes StarPickerAmbience/MutedByOtherMusic/PersephoneMusicGroup
+{a25fa3aa-51db-49ca-866d-bfad4f5772ab} bus:/Music/PAUSE/MutesOvermapIntro
+{cf56fd42-8f01-4ee1-9ab6-8aa5fb1d6f84} bus:/Music/PAUSE/MutesOvermapIntro/Ducks Ambience a bit
+{96d660b3-c30c-4cef-8941-32d8a27a8e08} bus:/Music/RivalBardVocals
+{494ca8da-9980-4c5e-89a4-871b1bbb5798} bus:/Music/VictoryStinger
+{d8d76cd6-e6e0-467a-8cbd-6d4935404f30} bus:/Music/Vocals
+{ef475135-7928-4bfe-b8ea-552dd34bad17} bus:/Music/VocalsFocus
+{950111af-cd1c-4db4-9a15-5558c1072bb0} bus:/Silent
+{5fad7c0d-8ada-4d65-b7c6-649f1b143d81} bus:/Silent/Controller
+{88dd0b07-cd53-4a93-9812-72f643e15169} bus:/Silent/Lighting
+{65ee33ee-ce7d-4e78-a8dd-5af11b8a3a66} bus:/Silent/VisualVOcontrol
+{65f090a4-916f-4b5e-9d0b-474cad7e2273} bus:/Silent/VisualVOcontrol/ZagreusVO
+{451b7b5f-ba20-4fe2-8952-5dcb6be607dd} bus:/Silent/VisualVOcontrol/ZagreusVO/Minotaur VO
+{368c1a9a-fe80-492a-8ae2-33ca2bc739fa} bus:/Silent/VisualVOcontrol/ZagreusVO/OrpheusVO
+{91acfba6-d4d9-48b5-a7c9-a9ee11d9e78d} bus:/Silent/VisualVOcontrol/ZagreusVO/Storyteller
+{bb7ea055-39c1-41ee-8478-5032b99317f4} bus:/Silent/VisualVOcontrol/ZagreusVO/Theseus VO
+{6d7a8c1a-7b2b-4728-aa68-8c4e529fa1e5} bus:/Silent/VisualVOcontrol/ZagreusVO/ZagreusControl
+{ac3cc5f7-7db8-4d31-b6a1-e298731d458c} bus:/SilentBardVocals
+{30b6f7ba-1ed3-4994-9f31-fe8554991a2e} bus:/UI
+{550504d4-92bf-4be7-b525-80520a6f8ac4} bus:/UI/BiomeMovement
+{6ab49b70-ea75-4841-95db-2f5283fa3439} bus:/UI/Ducked By Emotes
+{f4e06288-8acd-4639-8b86-1bd54b9e7e09} bus:/UI/DuckedByBardVox
+{5d71cc87-1343-483c-94af-5578e1908b8d} bus:/UI/Ducks Music and Game
+{b241cb4f-8464-45b6-8a0c-dbeb792cdb38} bus:/UI/DucksMainTheme
+{454b1ce5-0429-4545-90e3-698a758d2c9b} bus:/UI/Pause5
+{029a988e-8e1c-4f5c-a239-30ad2201d324} bus:/VO
+{92cf11f9-ce28-4a75-9ef8-37e497092dbb} bus:/VO/AltVO
+{e9bb3b8d-e28e-4145-864e-5e2b5c20a5d3} bus:/VO/AltVO/NPCs
+{d606ad9c-0c5d-4de9-9e48-7a15598cf9cb} bus:/VO/AltVO/NPCs/CerberusWhine
+{d4ff8f28-d952-4c1c-9dd7-48ef7a31d4cc} bus:/VO/AltVO/NPCs/HADES GROUP
+{2934b958-ea49-4f6e-b658-dcfb0495e8fc} bus:/VO/AltVO/NPCs/HADES GROUP/Hades VO
+{aa3f0dff-a3fb-4f00-9337-c85a112b5325} bus:/VO/AltVO/NPCs/Hades Emotes
+{311f1435-329a-4a1d-af77-93073ec1c24e} bus:/VO/AltVO/NPCs/Skelly
+{28c11500-dbf2-41e7-846d-a013c944b15a} bus:/VO/AltVO/PlayerQuips
+{74a19501-d08e-4418-a6ec-81f6f9260e80} bus:/VO/AltVO/PlayerQuips/ShopKeeper
+{eda2b092-2eb3-4248-b196-ea921e2cb81b} bus:/VO/AltVO/PlayerQuips/ShopKeeperAmbience
+{67e93886-cbb6-47df-bffa-5702173430ed} bus:/VO/AnnouncerVOreturn
+{1d782c11-ee28-4777-a22f-15e60f473639} bus:/VO/INTERCOM Ducks Game Group
+{63919314-61d4-4ad2-9098-b00b6e19e008} bus:/VO/Reverb
+{da0aa846-bb63-4ab6-bba5-3b170b0e2e1c} event:/Ambience/AdministrativeOfficeAmbience
+{24df8b1c-211b-46a1-9611-67fbf36eb427} event:/Ambience/ElysiumAmbientLoop
+{bbc56c0c-6d58-4ea2-8fea-8ef01f2c3fbd} event:/Ambience/ElysiumFogRiverAmbientLoop
+{17fb7673-125f-49d3-9ccb-5a557359c59e} event:/Ambience/FishTankBubblesLoop
+{eadbb02e-72b9-4c8b-bc38-57e757805047} event:/Ambience/FoodCookingLoop
+{26bb4cf4-cc84-40be-8496-b5514b3a58ea} event:/Ambience/LoungeAmbientLoop
+{c95bb519-07cc-45f3-85bf-19e056924d08} event:/Ambience/LoungeKitchenAmbientLoop
+{0fe96652-3d41-44cf-9451-e42c882df3e3} event:/Ambience/MusicExploration4AMBIENCE
+{e8500995-4fe5-4b3b-824c-9289e2ae7dab} event:/Ambience/RemembranceScreenAmbience
+{6d491cac-be7e-4aa9-9e26-3658e39ee367} event:/Ambience/RemembranceScreenAmbience2
+{47810dc1-c33c-430d-be4c-d79c68b9b199} event:/Ambience/TheseusCrowdAmbientLoop
+{65959236-44bb-4444-8097-53505561cfcd} event:/Ambience/TheseusCrowdAmbientLoopMUFFLED
+{623b5843-3d2e-4644-b4b6-cb8c8859f6ab} event:/Blank
+{8069e372-afe4-4d98-b4b8-2bd913804ec6} event:/Control/MixingControl
+{3283a662-6439-4299-9679-cf3816d60f4f} event:/Leftovers/Ambience/Ambience1
+{99d9ba3c-4f73-41d9-8f94-0d77a3b8fd14} event:/Leftovers/Ambience/BoatRainyAmbience
+{c8c57039-dc3c-45f9-9e51-541846a9b185} event:/Leftovers/Ambience/BurningAmbience
+{b597e1cf-e381-4741-995f-245b371451dd} event:/Leftovers/Ambience/CalmBoatWaterAmbience
+{256a48c8-3c2a-4425-b9bd-3159239ffeef} event:/Leftovers/Ambience/CountryAmbience
+{54516f79-4779-4b6b-ad78-ad1e4c882f38} event:/Leftovers/Ambience/CreepyForestAmbience
+{34530617-d03c-4642-a529-35c1dc832ae7} event:/Leftovers/Ambience/CreepyHauntedDrone
+{f4be5e65-8609-431e-a692-f50597e599b2} event:/Leftovers/Ambience/CreepyHauntedWindLoop
+{61e032b8-762b-4ebb-82f7-648bd8b592a0} event:/Leftovers/Ambience/DistantOceanWavesWaterAmbience
+{0b95a904-f806-4a4d-9bec-677cd1d9ebc8} event:/Leftovers/Ambience/FarmAmbience
+{f3dc98a9-7237-42d5-952e-607d4618eee2} event:/Leftovers/Ambience/GentleWavesBeachAmbience2D
+{2e4fdbcb-2c9b-471c-b502-5751d2b0acf3} event:/Leftovers/Ambience/HeavyWindFieldBirdsAmbience
+{01415692-5649-4b9a-9195-d83e9972d37d} event:/Leftovers/Ambience/IntenseWindFieldAmbience
+{8f42472f-fbea-4edf-b53d-254b7a22fc7e} event:/Leftovers/Ambience/LavaEruptRumbleLoop_2D
+{a299ea26-59ea-49d8-a34d-bf00e086638d} event:/Leftovers/Ambience/MatchSiteAAmbience
+{f125e421-283a-403c-8676-80c971f34e90} event:/Leftovers/Ambience/MatchSiteIPoolAmbience
+{b05acc9c-15d3-4d79-acf0-a0e894f50515} event:/Leftovers/Ambience/MatchSiteJWindyPandownAmbience
+{50323064-7568-46c3-a969-d09a9b38e0c0} event:/Leftovers/Ambience/MediumWindFieldLeavesAmbience
+{3770c5b3-0536-474f-ada3-aebf2930d271} event:/Leftovers/Ambience/MediumWindFieldLeavesAmbience_3d
+{1547f3c7-834a-4ea3-8d81-aacf2bb0648c} event:/Leftovers/Ambience/MediumWindFieldLeavesAmbience_BigRadius
+{15693530-907c-4229-b64c-5a936ef0f53c} event:/Leftovers/Ambience/MountainAmbience
+{ff9feef4-9a33-4c38-869a-8e8bb02e36c4} event:/Leftovers/Ambience/NightBugs2D
+{7749af2d-c48d-4842-9a84-2f35b824b3f4} event:/Leftovers/Ambience/NightCrickets2D
+{dcd0c86c-cc5b-4749-82e3-c40a2a881b37} event:/Leftovers/Ambience/OceanWavesWaterAmbience
+{dd813b24-6fbf-44f0-9682-afb56662afbf} event:/Leftovers/Ambience/PrairieAmbience
+{7c977fd5-28c0-4f9f-9a1c-10912def1241} event:/Leftovers/Ambience/RainAmbience
+{72e54bbf-752f-4a73-a011-9cbbbfb4c0e9} event:/Leftovers/Ambience/RiverAmbience
+{0a6023be-abc1-4eb9-9a30-d065a9f66bbe} event:/Leftovers/Ambience/ShopAmbientLoop
+{b566b845-6382-4d2a-b8c0-f05fdf04a87b} event:/Leftovers/Ambience/ShoreAmbienceGentleWind
+{d2798663-fb96-47e9-bb2e-c89c94f540f4} event:/Leftovers/Ambience/StarPickerAmbienceLoop
+{75e74670-b92d-444f-b893-59896b949d65} event:/Leftovers/Ambience/StarPickerAmbienceLoopEpilogue
+{ae6468d9-eef7-432d-a635-7834fa0bd27c} event:/Leftovers/Ambience/StarPickerAmbienceLoopQuiet
+{bbab8c0b-79fd-4f09-ad60-8f7ddf2cbc08} event:/Leftovers/Ambience/StillWaterAmbience
+{a628721c-c92b-4aa4-906c-935761ea9306} event:/Leftovers/Ambience/StillWaterLocalAmbienceBloodPool
+{5691d787-b625-44ec-b76f-95e7b3ba895c} event:/Leftovers/Ambience/StormSwathAmbience
+{c3105ee5-091d-4e07-b1d2-9bdb2825cbca} event:/Leftovers/Ambience/StormyBoatWaterAmbience
+{4c11ada2-1142-4099-8e2b-02389aaf1979} event:/Leftovers/Ambience/SwampAmbience
+{a3df8d8b-cccc-4e63-b6e0-95ba7685b0ec} event:/Leftovers/Ambience/Swath1Ambience
+{5eafebbd-c16c-4285-9805-6cb587534a0c} event:/Leftovers/Ambience/ValleyAmbience
+{ac8afc74-44ef-4c6b-9475-a46dfd77fa49} event:/Leftovers/Ambience/WagonInteriorStormAmbience
+{8b878ef2-eaf5-4a04-9f95-4b24df72b78a} event:/Leftovers/Ambience/WastelandAmbienceQuieter
+{fde90dca-7f21-4fe8-a281-53e79ed77c10} event:/Leftovers/Ambience/WhippingWindLoop
+{07e832c2-e885-4d9a-81f5-d338ed4c0b75} event:/Leftovers/Ambience/WindyForestAmbience
+{2651c345-041b-4283-b589-1f01bc2ca677} event:/Leftovers/Ambience/WindyRooftopAmbience
+{02c8319e-174f-43c8-b19c-e7f8bbf9a4d3} event:/Leftovers/Menu Sounds/AscensionConfirm
+{ea4a2dd9-1965-4a6f-af4e-bfc2f1f101a5} event:/Leftovers/Menu Sounds/BookInteract
+{325c0ef2-8846-4612-9d5a-92dab6a075f9} event:/Leftovers/Menu Sounds/ChoirLoop
+{ff9d4264-e4fa-4a74-9287-be82f04c49f0} event:/Leftovers/Menu Sounds/CoinFlash
+{8b5208a3-56ce-4da4-bb8f-e1e0f008c477} event:/Leftovers/Menu Sounds/CoinLand
+{ec82fd56-0f6b-4af5-a24d-0875500c9752} event:/Leftovers/Menu Sounds/DialogueLoop3
+{a358e7ab-8547-48d3-94ff-643665b9f2e0} event:/Leftovers/Menu Sounds/DialogueLoop4
+{684ea9eb-b82d-4558-ab90-cf5fd3c928b1} event:/Leftovers/Menu Sounds/DialogueLoop5
+{444003ed-8370-48ac-973c-7384584395c1} event:/Leftovers/Menu Sounds/EmoteAffection
+{e3a98534-5979-4073-a336-626e66fd1906} event:/Leftovers/Menu Sounds/EmoteAnger
+{a037045c-fe28-4d64-ae52-10f8d06019fa} event:/Leftovers/Menu Sounds/EmoteAscended
+{3f98f34f-9e6b-49a1-a52d-77c119ff1050} event:/Leftovers/Menu Sounds/EmoteAscendedArthurChoir
+{1d066082-bfe8-489d-b422-a9d2df66cd24} event:/Leftovers/Menu Sounds/EmoteAscendedBeowulfStrings
+{757bc116-906f-4498-8ea6-bd074eb626b5} event:/Leftovers/Menu Sounds/EmoteAscendedDark
+{e886a1c8-4934-4279-8666-f25b49add062} event:/Leftovers/Menu Sounds/EmoteAscendedGilgameshFlute
+{8de2aef5-c2c1-4ed7-ace9-fe1dbfc42f0d} event:/Leftovers/Menu Sounds/EmoteAscendedGuzheng
+{c05e97ce-4afa-4950-829b-38a67c7ef9e7} event:/Leftovers/Menu Sounds/EmoteAscendedLuciferChoir
+{17a139e0-6e90-413f-84ee-dfb8a112cb33} event:/Leftovers/Menu Sounds/EmoteAscendedRamaSitar
+{08f8ac62-996f-4210-a5c6-7501469fccc6} event:/Leftovers/Menu Sounds/EmoteDepressed
+{e310d1d0-8578-4c0c-82d6-4306d2d78360} event:/Leftovers/Menu Sounds/EmoteExcitement
+{d501e194-b9ce-4c99-84d8-3b7bd081e3d0} event:/Leftovers/Menu Sounds/EmoteExcitementShort
+{f582df20-30f1-4a03-9f71-9eddf97f5a17} event:/Leftovers/Menu Sounds/EmoteShocked
+{44ecffb4-f402-4be2-ab36-2358708e15b2} event:/Leftovers/Menu Sounds/EmoteThoughtful
+{12305b38-9ba0-4c2e-8382-cd7dfc5a4a1b} event:/Leftovers/Menu Sounds/GetBallMenu
+{1d107f61-5881-4d1b-b8d7-39ab10f84092} event:/Leftovers/Menu Sounds/InfoPanelInURSA
+{c29574e7-1613-4602-8e98-e1fb8346b3f2} event:/Leftovers/Menu Sounds/InfoPanelOutURSA
+{8b5d1ccd-1118-42de-b1fe-f4edfff8fa72} event:/Leftovers/Menu Sounds/LevelUpFlash
+{149ebe09-3f1d-4d2d-9baa-03e0c1633080} event:/Leftovers/Menu Sounds/MakingMoneyChaChing
+{9b23e6c4-c3c3-4f04-bc30-c429d402e928} event:/Leftovers/Menu Sounds/MenuButtonOn
+{01c6c1f8-b889-424c-b6e7-179fedc893ea} event:/Leftovers/Menu Sounds/MenuButtonOn2
+{a9373f18-d446-4952-a96e-d13262958e1e} event:/Leftovers/Menu Sounds/PageFlip
+{7bf3716c-84dd-4ed3-b93d-6828afb9163e} event:/Leftovers/Menu Sounds/PlayerKilledLong_Large
+{03f517a5-4d05-4216-9112-e3f49a917509} event:/Leftovers/Menu Sounds/PlayerKilledLong_Medium
+{a54353ae-aaa6-4d0c-a197-76ce641297b1} event:/Leftovers/Menu Sounds/PlayerKilledLong_Small
+{cc0bd18c-56b4-42b9-a820-06386803de15} event:/Leftovers/Menu Sounds/RobesInteract
+{1d4dc1e0-3d92-4802-a5b3-417fd5ef0122} event:/Leftovers/Menu Sounds/RosterPickup
+{edf9a49f-3c3a-4e5d-80bd-f9ce75cc8842} event:/Leftovers/Menu Sounds/RosterSelection
+{66a7f57b-3339-4e3d-b1cc-0b9ddd1a4f09} event:/Leftovers/Menu Sounds/SkillUpgradeConfirm
+{37c3ac48-25fb-42be-9b60-90833d552bdb} event:/Leftovers/Menu Sounds/StarSelectConfirm
+{4d222ce4-3684-45d5-85b4-745cbecc0eb3} event:/Leftovers/Menu Sounds/StarSelectConfirmReverseShort
+{67bfa275-f6e4-40bb-8d92-26ea95c282cb} event:/Leftovers/Menu Sounds/StoreBuyingItem
+{5b6ac8ff-834c-43ce-9661-f364c1fe900d} event:/Leftovers/Menu Sounds/StoreSellingItem
+{751452f1-bc41-4831-b53b-90ab451790a6} event:/Leftovers/Menu Sounds/StoryRecapTextAppear
+{0e2463a8-74ef-4677-a2b7-90b79d30397f} event:/Leftovers/Menu Sounds/TalismanGlassDown
+{8715b660-c1eb-4f61-9d60-4076953229ff} event:/Leftovers/Menu Sounds/TalismanJewelDown
+{d825396c-308d-4080-9116-905e9f6f6f20} event:/Leftovers/Menu Sounds/TalismanMetalClankDown
+{cf1208fe-ee2f-4412-a6ff-2c8707169654} event:/Leftovers/Menu Sounds/TalismanPaperEquipLEGENDARY
+{ea9a3291-8f75-4511-8c57-86942b89a480} event:/Leftovers/Menu Sounds/TalismanPowderDownLEGENDARY
+{ee56ad22-608c-4ffb-92db-092c0ddc66d2} event:/Leftovers/Menu Sounds/TalismanPowderUpLEGENDARY
+{40b0e3ec-4a6a-42f1-8643-02e52a339e79} event:/Leftovers/Menu Sounds/TalismanRockUpLEGENDARY
+{d10ac9c6-02f8-4754-8ea9-5fddb3147711} event:/Leftovers/Menu Sounds/TeamWipe
+{c8ef9844-1d31-4f82-8138-f05310c4bc14} event:/Leftovers/Menu Sounds/TeamWipe2
+{0ce69587-507b-41de-a92a-f8698ebb7766} event:/Leftovers/Menu Sounds/TextReveal2
+{8ecc4336-d501-4712-868a-f4d961cf0d09} event:/Leftovers/Menu Sounds/TextReveal2LOUD
+{90e94c79-2cfe-40a0-bb37-d5c08e8258ec} event:/Leftovers/Menu Sounds/TextReveal3
+{b3e5727f-1917-4487-8bad-7b270716fbe8} event:/Leftovers/Menu Sounds/TextReveal3Distance
+{ff6c0171-5a64-4802-9663-297618612e2d} event:/Leftovers/Menu Sounds/TextReveal5FilterSweep
+{be060613-564e-4ce2-b72f-e84846e12525} event:/Leftovers/Menu Sounds/TextReveal5FilterSweepSubtle
+{3b4f66ea-e6a5-455d-a68f-14099fd0844f} event:/Leftovers/Menu Sounds/TitanToggleLong
+{342205e8-3ec9-4e1c-84fb-0857393e32fd} event:/Leftovers/Menu Sounds/TitanToggleShort
+{0e9aabd9-cdc8-49c1-b727-affc0f016444} event:/Leftovers/Menu Sounds/WaxUp
+{db062621-0db7-4eba-b6fc-2b2ddcf48bd3} event:/Leftovers/Menu Sounds/WellPurchase_Crystal
+{2bb6b7ec-30ab-4d32-92d5-6139dab7e66d} event:/Leftovers/Menu Sounds/WellPurchase_Fabric
+{3911a648-dc27-4e08-a818-d7f946974e5c} event:/Leftovers/Menu Sounds/WellPurchase_Jar
+{a7860d5d-2526-44e5-a547-48338d3f878a} event:/Leftovers/Menu Sounds/WellPurchase_Paper
+{99fe68ff-78e8-48a8-87e1-4d5a05b36f06} event:/Leftovers/Menu Sounds/WellPurchase_Ting
+{7cf3d53f-21ff-46cc-92b9-bc712d097818} event:/Leftovers/Object Ambiences/BogAmbience
+{571aadc2-bb1f-46d8-a5a2-e908330e3203} event:/Leftovers/Object Ambiences/BoilingBubbleAmbience
+{3fd56835-7b5d-456d-9683-81515ad94e10} event:/Leftovers/Object Ambiences/ChimesAmbientLoop
+{68d0bba2-2416-4488-90ea-e38788be33cf} event:/Leftovers/Object Ambiences/ChimesAmbientLoop_StarMap
+{a799f4dd-55fb-4985-9995-03c28912bb99} event:/Leftovers/Object Ambiences/CommonwealthAmbience
+{d5fef4d5-8927-4720-ad3d-e32fbb42a81d} event:/Leftovers/Object Ambiences/CreepyHauntedWindLoopMatchSiteGenerator
+{424f20f2-da82-4776-8018-9c9830b7e138} event:/Leftovers/Object Ambiences/CreepyHauntedWindLoop_MatchSiteD
+{2a6e7d8b-450c-4633-80bd-f9b41411c71e} event:/Leftovers/Object Ambiences/CreepyHauntedWindLoop_MatchSiteDNODE
+{7377b12b-edf9-45b1-a03b-8581ca162e22} event:/Leftovers/Object Ambiences/CreepyIslandAmbience
+{3d9d91bb-58d4-4642-a0a3-ab54a10fa475} event:/Leftovers/Object Ambiences/CroakingFrogsAmbience
+{7448aaa8-f1ac-40d1-a620-9d2a59263879} event:/Leftovers/Object Ambiences/DarkThirstAmbience
+{689d2535-149b-4359-8a55-b6d7c14b8e73} event:/Leftovers/Object Ambiences/DrippingWaterAmbience
+{33f5d63a-1308-42ae-84c8-80c37d784861} event:/Leftovers/Object Ambiences/EnchantedGladeAmbienceMatchSiteH
+{543e2f0e-58c2-426e-833b-5562bea8430b} event:/Leftovers/Object Ambiences/EnchantedGladeAmbienceMatchSiteHNODE
+{592a6987-42cf-4c59-92a6-6c94afa0aaa3} event:/Leftovers/Object Ambiences/EnchantedGladeAmbienceMatchSiteHTREE
+{48369fed-601b-4604-b9e6-fa4bbbbafc1c} event:/Leftovers/Object Ambiences/EvilLairAmbienceMatchSiteE
+{0f564801-edc4-4982-a0f2-75adaa64ea66} event:/Leftovers/Object Ambiences/EvilLairAmbienceMatchSiteENODE
+{d0279b01-f48f-4fa4-abfb-7e01cb5ca66f} event:/Leftovers/Object Ambiences/FireAmbientLoop
+{c2b792fd-ad37-40e0-aca2-738366e7e4d3} event:/Leftovers/Object Ambiences/FireAmbientLoop2
+{797bee60-5a50-471e-bd98-fe43752325f6} event:/Leftovers/Object Ambiences/FireAmbientLoop3
+{246fa32f-4486-49b8-a866-874ccad980b5} event:/Leftovers/Object Ambiences/FireAmbientLoopMENU
+{432c47ba-6ff0-438e-a583-d06891c5e94e} event:/Leftovers/Object Ambiences/FireAmbientLoopQuiet
+{42f94fb0-3b20-4afc-9773-f088828890a1} event:/Leftovers/Object Ambiences/FireAmbientLoopTORCHES
+{63052c19-f5c3-41e9-a8b1-9fe5e1a003ef} event:/Leftovers/Object Ambiences/FishJumpSplash
+{648961b3-5064-42d2-8295-01283dd4a999} event:/Leftovers/Object Ambiences/GasTrapLoop
+{a96239ef-212d-44a3-9e51-871a10d01b8a} event:/Leftovers/Object Ambiences/GentleWavesBeachAmbience
+{0a542c15-d8cc-4421-adee-813960736b3e} event:/Leftovers/Object Ambiences/HandAmbience
+{47a455c5-488b-46be-9afe-fa21029f48b0} event:/Leftovers/Object Ambiences/InsectBuzzLoop
+{1b0d136c-c6e2-4417-86c8-72d2e1053d0d} event:/Leftovers/Object Ambiences/LavaAmbience
+{5eecc0f6-d3e1-4f48-8f42-1530182ab142} event:/Leftovers/Object Ambiences/LavaAmbience_Campaign
+{5a24a981-77f5-4c14-9c9b-df211bc408b0} event:/Leftovers/Object Ambiences/LavaAmbience_MatchSiteB
+{4554c04b-b50f-4906-a1fe-88452be42763} event:/Leftovers/Object Ambiences/LavaAmbience_MatchSiteBNODE
+{2c550f80-8edc-48bc-8433-988e9fa49314} event:/Leftovers/Object Ambiences/LavaBubbleLoop1
+{b7443c86-2dd8-4a06-ac84-db679933dd00} event:/Leftovers/Object Ambiences/LavaBubbleLoop1_Campaign
+{b53a69c7-095f-4ea4-a957-4ec7c8453736} event:/Leftovers/Object Ambiences/LavaBubbleLoop2
+{3a334aef-bda3-4e42-8496-40a561f44b6d} event:/Leftovers/Object Ambiences/LavaEruptRumbleLoop
+{1e6cd48a-c00a-41e0-b8be-5600c61af9dc} event:/Leftovers/Object Ambiences/LavaMuffledRumbleLoop
+{5c075bdb-5b99-4c61-9f61-8d7a7c34e257} event:/Leftovers/Object Ambiences/LavaSplash
+{f9c90dcc-4b45-4b1d-997c-69fc78d5ba07} event:/Leftovers/Object Ambiences/MagneticHolyRingsAmbience
+{ae775a5e-2c3e-4a9b-8484-d358f8d93a79} event:/Leftovers/Object Ambiences/MatchSiteAmbience
+{d8cb7036-6f5c-48c1-9694-96a603f0d3b6} event:/Leftovers/Object Ambiences/NightBugs3D
+{766c7cf8-6522-4b52-a6ce-942f74bf7ed4} event:/Leftovers/Object Ambiences/NightCrickets3D
+{bf739ddf-6628-4c5c-ac23-15a6c17cc1a9} event:/Leftovers/Object Ambiences/NightmareSteedAmbienceMatchSiteG
+{c985adc6-e47a-47c9-846e-8970ebfbb919} event:/Leftovers/Object Ambiences/NightmareSteedAmbienceMatchSiteGNODE
+{175944d2-6a97-4679-846e-28cfecc6522f} event:/Leftovers/Object Ambiences/OccultAmbience
+{60c268c7-afe4-4339-90ad-c8004d30711c} event:/Leftovers/Object Ambiences/OccultAmbience_Campaign
+{4f309170-70be-44f5-bafc-4057f3622711} event:/Leftovers/Object Ambiences/OccultAmbience_StarMap
+{a5a94f66-d98a-4aaa-b3fd-7ecfe6482c32} event:/Leftovers/Object Ambiences/OrganChoirASCENSION
+{45fda9cf-1b43-4e9a-bc13-48b767fb192f} event:/Leftovers/Object Ambiences/PawingInSandAmbience
+{2a4239f7-735e-4922-8b7b-d2e6ca4a855b} event:/Leftovers/Object Ambiences/RiverWaterAmbience1
+{95bd5a61-dff3-4418-bb00-afed4502cdfa} event:/Leftovers/Object Ambiences/RiverWaterAmbience2
+{4347a4d7-5839-4778-84f0-c2b29b3c7b47} event:/Leftovers/Object Ambiences/RiverWaterAmbience3
+{3edb2157-0ca9-467b-bc2d-cc7ae9d1f32c} event:/Leftovers/Object Ambiences/RocksFallingLoop
+{bc0c2066-8897-4621-bfba-87a069cfe278} event:/Leftovers/Object Ambiences/ScamperingAmbience
+{2526fa23-60aa-413a-8986-402522ac18a2} event:/Leftovers/Object Ambiences/ScummyTownAmbience
+{1b21fda6-c9fb-4576-982b-2939410f79a5} event:/Leftovers/Object Ambiences/ShimmeringCrystalAmbience_1
+{6b585812-a278-4bf6-a8f6-072f91554483} event:/Leftovers/Object Ambiences/ShimmeringCrystalAmbience_2
+{48104989-4e2b-48e6-97d9-f2362f218949} event:/Leftovers/Object Ambiences/ShimmeringCrystalAmbience_3
+{94e5963d-62b7-43ea-8721-58687d49eba8} event:/Leftovers/Object Ambiences/ShimmeringCrystalAmbience_4
+{e33cda1a-feb6-4e96-9c11-674a1f0423ef} event:/Leftovers/Object Ambiences/ShipwreckAmbience
+{698e52ac-733a-4a91-91e7-b97ac1e6fe70} event:/Leftovers/Object Ambiences/SkeletonBonesAmbience
+{fb1c038f-d2d4-4f92-ab98-6a5fa8da81fd} event:/Leftovers/Object Ambiences/SteamLoop1
+{0b68bc16-a73d-4b6a-aaf7-53c3c49d1aa1} event:/Leftovers/Object Ambiences/SteamLoop2
+{00e4003a-5dbb-4f35-8384-a71d94ddcdd6} event:/Leftovers/Object Ambiences/SteamLoop3
+{2b2e6def-67a2-4e94-b447-2fadde030f5f} event:/Leftovers/Object Ambiences/SteamLoop4
+{d030ba22-7ddc-48bc-811c-228d83136465} event:/Leftovers/Object Ambiences/ThunderLoop
+{870c9caa-c000-47ea-b3d7-827e173decf4} event:/Leftovers/Object Ambiences/TreeCreakingAmbience
+{c694be46-5c94-466a-8fac-9623518f3c87} event:/Leftovers/Object Ambiences/WastelandAmbience
+{af570382-c062-4163-b4d0-8388211986ee} event:/Leftovers/Object Ambiences/WaterAsphodelHealthRestoreFountain
+{3a7a3457-734c-4a06-be8e-4ea8e6abab65} event:/Leftovers/Object Ambiences/WaterBubblesAmbience
+{7c5c4f7c-6a0c-4d72-947d-255879290e26} event:/Leftovers/Object Ambiences/WaterRushing
+{dea69db0-c430-4fd4-a94f-60d870a73cf5} event:/Leftovers/Object Ambiences/WaterRushingBloodFall
+{ea3a4cfb-6aaa-4298-b2fa-5b1970a369e7} event:/Leftovers/Object Ambiences/WaterRushingBloodFall2
+{5a7fd703-4d4b-42f4-9b7c-f30551fd4120} event:/Leftovers/Object Ambiences/WaterRushingBloodRiver
+{967594d1-016a-41fe-98f6-bd0cd0132d74} event:/Leftovers/Object Ambiences/WaterRushingBloodRiver2
+{989a4aef-eb0f-4fc9-96b1-4595243d9d85} event:/Leftovers/Object Ambiences/WaterRushingLarge
+{5abc3db2-964a-4269-9e57-5dab57230a6b} event:/Leftovers/Object Ambiences/WaterRushingStream
+{88d0ff4f-e480-4c8b-94df-1feed6693e49} event:/Leftovers/Object Ambiences/WaterStyxHealthRestoreFountain
+{89a7dfc2-8209-430d-90b5-29b04c0c753c} event:/Leftovers/Object Ambiences/WaterfallAmbience1
+{f715912d-c286-4154-95cd-3827d8b6ee71} event:/Leftovers/Object Ambiences/WaterfallAmbience1_MATCHSITE
+{0d254f7c-8b86-44d4-b284-e5200f5d1dc7} event:/Leftovers/Object Ambiences/WaterfallAmbience2
+{944652a0-e874-4c55-91ba-81c40538a402} event:/Leftovers/Object Ambiences/WaterfallAmbience2_MATCHSITE
+{28474f83-309b-4ce4-bed5-4b8cda9abc5b} event:/Leftovers/Object Ambiences/WaterfallAmbience3_MATCHSITE
+{ca680bc7-f8b1-4580-8313-e844071f24ca} event:/Leftovers/Object Ambiences/WaterfallAmbienceASCENSION
+{83239053-60cd-45fd-bdbb-d6827cc0e909} event:/Leftovers/SFX/AcidSizzle
+{f8122edf-a483-4af9-852c-cb179c21d50d} event:/Leftovers/SFX/AnnouncementPing
+{e3d557da-023a-4975-b7d9-4f49ec721763} event:/Leftovers/SFX/AnnouncementPing2
+{4e5f70d0-81c8-424d-8756-6125e333ac33} event:/Leftovers/SFX/AnnouncementPing3
+{91836d86-6e32-4ade-bcec-98933baf7b50} event:/Leftovers/SFX/AnnouncementPing4
+{eb54842f-5d79-422b-a2e4-e9061ce17f20} event:/Leftovers/SFX/AnnouncementPing6
+{fa441165-4488-4579-8d9c-6a4584813f27} event:/Leftovers/SFX/AnnouncementPing7
+{1b84e96c-83ac-4c45-8ebf-6f0c79fb770b} event:/Leftovers/SFX/AnnouncementThunder
+{e0ed7424-ad91-4702-bebc-c4d1bb30c3ec} event:/Leftovers/SFX/AscensionUpTheWaterfallSFX
+{332e1760-dbdf-4539-bfc7-830ae9c05a03} event:/Leftovers/SFX/AuraAmbientLoop
+{5da0284e-4bed-47fd-9bfd-f6610d1a488f} event:/Leftovers/SFX/AuraCharge
+{7bc323a7-eec0-410a-b707-1795631fb17f} event:/Leftovers/SFX/AuraContract
+{e8445fb8-3e43-4d8e-b1ff-5359a377ccfe} event:/Leftovers/SFX/AuraContractBEAM
+{bc6a05cd-73bb-4685-a02b-14a49b51b03c} event:/Leftovers/SFX/AuraExpand
+{989cabb4-a4e6-47fe-af34-f9f9918403df} event:/Leftovers/SFX/AuraOff
+{8119e789-4efa-4248-b449-fee8c2e6e703} event:/Leftovers/SFX/AuraOn
+{0c87a0a5-1593-4ec0-a29f-4942bb9c564d} event:/Leftovers/SFX/AuraOnLoud
+{c6ead332-91ad-45bc-9e0c-fbd5591607b2} event:/Leftovers/SFX/AuraPerfectThrow
+{ed12e3bc-cf29-4b74-bd29-8ae40da478fe} event:/Leftovers/SFX/AuraThrow
+{fd9acf19-60b1-4741-8c2a-44ecc82ebd12} event:/Leftovers/SFX/AuraThrowLarge
+{c84ebbd6-84dd-4df4-a8b5-c2e52f59916b} event:/Leftovers/SFX/AuraThrowSmall
+{7eda6c56-5e09-4c0f-a8eb-f80ab52f18c9} event:/Leftovers/SFX/AuraThrowSmallASCENSION
+{06e2c4b3-36d0-4a50-8478-ac58178c2d51} event:/Leftovers/SFX/BallHoldingAmbience
+{59d80646-82c2-43a2-b98c-e00d465445b9} event:/Leftovers/SFX/BallImpact
+{09d72cfc-9cee-47b1-8259-3c2ec358fa1f} event:/Leftovers/SFX/BallLand
+{6ee0456a-bfae-42f9-832e-9aba8805da64} event:/Leftovers/SFX/BallLandWet
+{25ae3037-8976-41ed-9c1a-5666ba1145ce} event:/Leftovers/SFX/BallTossLarge
+{d031089f-3195-430d-8ba6-52134f5cac79} event:/Leftovers/SFX/BallTossMedium
+{60ae393a-4d74-489a-8675-d467da388fec} event:/Leftovers/SFX/BallTossSmall
+{ed7939a1-9e9c-4a23-a257-639eb100af27} event:/Leftovers/SFX/BallTossWyrm
+{2f79798c-7051-4593-8a22-cb0141c58dfc} event:/Leftovers/SFX/BeaconTeleportSFX
+{a9dc0589-e6f7-4095-8b9e-c86c7179cc8c} event:/Leftovers/SFX/BeaconTeleportSFX2
+{6ac6c249-378e-4f25-9eed-0a1b4f49978a} event:/Leftovers/SFX/BeaconTeleportSFXInstanceLimit
+{e59b75be-8dab-423a-8156-7466e8c66273} event:/Leftovers/SFX/BigFishSplash
+{09905f0e-8456-4d03-a9d9-6cff5d7c622d} event:/Leftovers/SFX/BigSplashRing
+{81e1661c-b15e-4975-aa7c-af98f8f69bed} event:/Leftovers/SFX/BirdAmbience
+{83468d6a-0d88-43dc-b7f1-4f743886c44f} event:/Leftovers/SFX/BirdFlutter
+{2ee968f9-2935-4cbf-b97b-4b1df0ed33f4} event:/Leftovers/SFX/BlackBars
+{efaa4252-4d5c-4184-8d54-6c9ca51d1682} event:/Leftovers/SFX/CaravanDamage
+{8771e431-7d52-4e22-8118-e37004cf6be6} event:/Leftovers/SFX/CombatModeInitiatedAlt
+{f56db35f-0512-4107-87a2-4a0e3e3faefc} event:/Leftovers/SFX/ConsecrationLoopSFX
+{ffef386c-8484-48a7-b746-624fa85cb21b} event:/Leftovers/SFX/ConsecrationLoopSFX2
+{3303e7ce-c197-429c-b1fd-94c8f624d294} event:/Leftovers/SFX/CroneHiss
+{9d5cb1d4-ea7f-4da5-aaeb-635c133f2921} event:/Leftovers/SFX/CroneIntenseHiss
+{b22b8cea-eee9-47f9-b282-ab49f24596c6} event:/Leftovers/SFX/CroneSlither
+{c751d3f1-eabc-47b5-a93a-aa8c1aa8d054} event:/Leftovers/SFX/CroneSlitherIntense
+{63fa68e7-af6c-4ed8-ba0a-4054ddf52e65} event:/Leftovers/SFX/CroneSlowHiss
+{28062452-2c77-4ab5-82e6-6f79161c4564} event:/Leftovers/SFX/CurHowl
+{f827aac3-28aa-47e2-a145-cc9f5f679034} event:/Leftovers/SFX/CurLand
+{ea73d6a0-6fe7-4ef6-92bc-28eec0c2fc6a} event:/Leftovers/SFX/CurLandSlime
+{3d2db315-3735-4a6f-8bf1-1a04ea606c92} event:/Leftovers/SFX/CurLandWet
+{845e017a-ebe9-4445-9987-b9e44797c7a4} event:/Leftovers/SFX/CurScorePoseSFX
+{90b22fa5-cf1e-46e6-b262-99beb87f4634} event:/Leftovers/SFX/CurSprint
+{4e210103-3257-4453-8009-7509d1789e5d} event:/Leftovers/SFX/CylinderImpact
+{e722a538-6680-4f4f-9c8d-39442e12d25b} event:/Leftovers/SFX/DemonLand
+{24a08626-87f0-4c1a-9688-9d12a43c2c27} event:/Leftovers/SFX/DemonLandWet
+{6450332a-d01d-473d-8d8f-75db5348a467} event:/Leftovers/SFX/DemonScorePoseSFX
+{74a27782-049e-4504-abae-8befe3c4d245} event:/Leftovers/SFX/DemonSprint
+{d9401450-3445-4157-8b2e-d727c196c614} event:/Leftovers/SFX/DoorClose
+{281973e8-d85e-4ed9-b503-20ab1af54189} event:/Leftovers/SFX/DoorStateChangeRewardAppearance
+{fca0361a-5ca0-490c-abe0-70b431af7e5d} event:/Leftovers/SFX/DressRip
+{f6cc74ba-1f2d-43d8-a648-d2775b62be3d} event:/Leftovers/SFX/EggCollect2
+{c06d836f-22ae-415b-b837-a81072c03306} event:/Leftovers/SFX/EnergyShieldOnHit
+{16282c8d-aa52-4cb9-b571-dbb8ec6fda01} event:/Leftovers/SFX/FastMoveWhoosh
+{881e70d8-9f2b-421f-b5ed-e3558784a21e} event:/Leftovers/SFX/FieldRevivePog
+{c425c032-51db-4931-be7d-346b3886f9dd} event:/Leftovers/SFX/FieldReviveSFX
+{5468b277-44d2-44d7-aeb0-0a35b5d1348b} event:/Leftovers/SFX/FireAmbientLoopMATCH
+{4d027649-f61a-4247-921e-70e6999f39aa} event:/Leftovers/SFX/FireAmbientLoopMATCH_2
+{64e10600-f428-43b0-9c6c-e1288b50e58e} event:/Leftovers/SFX/FootstepsConcrete
+{a1d465a6-fad6-47df-9ca6-dafff953a23a} event:/Leftovers/SFX/FootstepsConcreteMedium
+{0f28030d-cf7f-4852-861f-674fc0582902} event:/Leftovers/SFX/FootstepsHuge
+{fdae6517-f75b-467d-ba27-5c5d61c755d4} event:/Leftovers/SFX/FootstepsMetal
+{8f22f82a-23cf-43cd-bbe9-b17071ea16bc} event:/Leftovers/SFX/FootstepsRug
+{a65ecd97-60e0-44e9-9ec8-20af6c0258ec} event:/Leftovers/SFX/FootstepsRug2
+{893f7c16-b8cd-4b3b-a344-5198959b3623} event:/Leftovers/SFX/FootstepsSand
+{286c3649-814f-4865-b948-51f30f2fc115} event:/Leftovers/SFX/FootstepsSandTemp
+{8b54b68f-5db4-43aa-b7e0-171d06b7d6f2} event:/Leftovers/SFX/FootstepsSlime
+{4dcce33e-b883-4d98-ab3b-d2d099beace1} event:/Leftovers/SFX/FootstepsSlimeHuge
+{3d1a7ca9-8139-4de7-be6a-4c1e93924829} event:/Leftovers/SFX/FootstepsSlimeSmall
+{1d789ed5-b76f-4ddb-ba32-369de084bfed} event:/Leftovers/SFX/FootstepsWetLarge
+{1fc19d5c-5ed8-4930-a224-1cef3766349b} event:/Leftovers/SFX/FootstepsWetMedium
+{f5f812d7-6b5b-45ed-a28c-e3b524088fca} event:/Leftovers/SFX/FootstepsWetSmall
+{de95238c-c19e-4320-9c8f-d6b5603d87b1} event:/Leftovers/SFX/FootstepsWheat
+{5802ce86-036e-4ba5-b623-3a9776c0908b} event:/Leftovers/SFX/FootstepsWheat2
+{45c83163-2755-4cde-9ee4-ba8a032aa474} event:/Leftovers/SFX/FootstepsWheat2Small
+{f2838248-5ea0-4212-aa7d-17d199a3a948} event:/Leftovers/SFX/FootstepsWheatHeavy2
+{67797c41-091c-4631-8f74-17a0bbf8dea7} event:/Leftovers/SFX/FootstepsWheatHeavy3
+{f9aac3d3-a558-41ad-97a1-544e873cfb75} event:/Leftovers/SFX/FootstepsWheatHeavyTemp
+{e7ebc29a-1518-45b4-b72f-d6d50838c712} event:/Leftovers/SFX/FootstepsWheatTemp
+{2f74f2a7-90cb-40d9-9980-2d4545d148c1} event:/Leftovers/SFX/FootstepsWood
+{e5eb4841-0e10-4351-888b-48ea0e1367be} event:/Leftovers/SFX/FootstepsWoodRun
+{18d3ca13-cd2f-4aa3-8675-5eb7e46ff875} event:/Leftovers/SFX/FootstepsWoodSmall
+{d651c197-3169-4f2b-b63d-d4f3103ed6ff} event:/Leftovers/SFX/GeneralWhoosh
+{f6a14245-dab5-4ef1-a6f9-a5bbb401ee23} event:/Leftovers/SFX/GeneralWhooshReverse
+{99e3ccdd-45c4-4fa9-b62b-6ac1967b0df0} event:/Leftovers/SFX/GeneralWhooshReverse2
+{1777a632-a7a9-46a5-a997-1d859aa5670c} event:/Leftovers/SFX/GetBall
+{b2d28a3f-685e-42c5-83cb-5f461d160b97} event:/Leftovers/SFX/GeyserSplash
+{8571b2c4-2021-4c6a-be89-469e0c3d5770} event:/Leftovers/SFX/GoalScored
+{5d8d8107-b1a3-43bd-9118-ffb7c130bd0b} event:/Leftovers/SFX/GoalScoredNEW
+{46760908-b160-4284-86fd-07d542afb4e9} event:/Leftovers/SFX/HarpDash
+{de5ff794-6640-4b85-9c14-9b61d3a53b73} event:/Leftovers/SFX/HowlerImpAttack
+{8bd02908-476f-40b0-8bfc-37302c9673ba} event:/Leftovers/SFX/HowlerImpAttackLOW
+{e12f2ea4-6bd5-469f-8994-e8fb991b6b0f} event:/Leftovers/SFX/HowlerImpAttackMEDIUM
+{2bf9d459-b670-46e7-8ec8-b3c537cd53d6} event:/Leftovers/SFX/HowlerImpDeath
+{a3c42a85-f729-4cd3-8c94-2564ce361ea6} event:/Leftovers/SFX/HowlerImpFlyingLoop
+{a0c685e6-28aa-477d-84c3-64483beb1915} event:/Leftovers/SFX/HowlerImpHowl_1
+{eeef8ed5-f964-4ecd-907c-f7453f94558f} event:/Leftovers/SFX/HowlerImpHowl_2
+{3b9c0b69-61dc-4e5c-bf9a-78c2ebbd4de5} event:/Leftovers/SFX/HowlerImpRollLoop
+{70841018-ec9d-47e9-9a8b-abe081ee190b} event:/Leftovers/SFX/HowlerImpSnarlGroupLoop
+{a7451dfe-75c6-47bd-a3c4-201965708224} event:/Leftovers/SFX/HowlerImpSnarlGroupLoop_3D
+{6520ddb4-0e44-46c6-851b-21741ab119e5} event:/Leftovers/SFX/HowlerImpSnarlSoloLoop
+{af342908-1ef5-4f67-aa0a-9be7b38234de} event:/Leftovers/SFX/ImpCrowdBigLaugh
+{07f7041a-cb0f-49c5-bf1f-39a1b8124e05} event:/Leftovers/SFX/ImpCrowdChantLoop_1
+{0be89835-4cf6-4a14-8a2b-ad79127ab6c1} event:/Leftovers/SFX/ImpCrowdChantLoop_2
+{717ffab4-cafe-43f0-aa69-6926cb0333d4} event:/Leftovers/SFX/ImpCrowdChantLoop_3
+{6cd2852d-1f7e-48eb-a8a4-b23fc5df551e} event:/Leftovers/SFX/ImpCrowdChantLoop_4
+{5488349c-add6-4856-8f19-a239eaefa2b5} event:/Leftovers/SFX/ImpCrowdChantSpeedUpCheer
+{f465ec19-c298-4a6e-8ada-667d94dbeb8f} event:/Leftovers/SFX/ImpCrowdCheer
+{c39c149b-66fe-4007-ac17-1751b65a0a6c} event:/Leftovers/SFX/ImpCrowdDisappointed
+{d8c1bde5-3867-4a96-a2e6-8d4e64abc27c} event:/Leftovers/SFX/ImpCrowdImpressed
+{c376749b-e48d-4ad4-a4e2-a2267cacc58b} event:/Leftovers/SFX/ImpCrowdJeer
+{3b1e5787-a5ad-4e8a-8e29-a8a6913fc875} event:/Leftovers/SFX/ImpCrowdLaugh
+{16d40b63-5a45-43ff-8739-efcdbb33351c} event:/Leftovers/SFX/ImpCrowdLoop
+{f5e4df8a-88bb-4cd9-84ea-1709778ac954} event:/Leftovers/SFX/ImpCrowdLoopIntense
+{299bdb7a-9440-4a18-a6a7-76db8827724d} event:/Leftovers/SFX/ImpFlutterLoop
+{961fe990-f0f8-49e3-bf8d-b74cc38227e7} event:/Leftovers/SFX/ImpRef01_Bumped
+{a3289437-6d39-47dc-870e-93863bb802b8} event:/Leftovers/SFX/ImpRef01_GoDown
+{1543762b-871e-4854-98f4-f1b3275a4545} event:/Leftovers/SFX/ImpRef01_MovementLoop
+{033a6ab3-e069-450b-a070-1a14b71612c5} event:/Leftovers/SFX/ImpRef01_PopUp
+{e4b2eac0-9acb-4ef2-9cb1-624991dc3a70} event:/Leftovers/SFX/ImpRef02_Bumped
+{a0271c1e-89fb-416f-8451-e9d03ae541b3} event:/Leftovers/SFX/ImpRef02_GoDown
+{1f70d18b-d6d7-4572-a43b-1cf68a08d097} event:/Leftovers/SFX/ImpRef02_MovementLoop
+{c2c41075-6eb2-4287-9664-809840c02cf3} event:/Leftovers/SFX/ImpRef02_PopUp
+{b4f8cd60-5d31-4adc-bad9-c42a9369df90} event:/Leftovers/SFX/InfoPanelLeave
+{0c0e7188-9829-4f8a-867e-6eca39d8e5d6} event:/Leftovers/SFX/InfoTextAppear
+{18b84ceb-136e-4627-babf-9c0af4da6274} event:/Leftovers/SFX/InvincibleOnHit
+{17b9ec08-5caa-4e53-b42c-0169fa656435} event:/Leftovers/SFX/JacketFlutter
+{f023b11e-6b2c-45b2-a40c-607b8d57fabd} event:/Leftovers/SFX/JacketPutOn
+{9f08e3bf-5d6a-4bbf-bb1e-955edb35cf82} event:/Leftovers/SFX/LavaDeath
+{387f6591-45c5-4384-a67a-b7e22d165cdb} event:/Leftovers/SFX/LightOn
+{a1cbe087-916a-4677-b592-66976e69f06d} event:/Leftovers/SFX/LobberDetonate
+{4dbb4e21-7ea8-45e5-9d34-5643af230f37} event:/Leftovers/SFX/LowHealth
+{620f6b8a-fc46-4f4f-8d1c-7993bda85e7e} event:/Leftovers/SFX/MagicBarrierLoop
+{899d1f47-62e7-426c-a821-587a548e359b} event:/Leftovers/SFX/MagicBarrierStart
+{af4c4077-40c9-444a-be2b-43eae347e391} event:/Leftovers/SFX/MatchPass
+{2367a0e9-212f-4c36-835d-5486812b8c45} event:/Leftovers/SFX/MatchStart
+{86780532-de43-4cc4-94d7-535bbb5d9c0b} event:/Leftovers/SFX/MenuSelect
+{0924e147-5283-4635-a11e-936ce396c932} event:/Leftovers/SFX/MeteorStrike
+{44aaef08-ced0-4ffb-9b1b-297bb683b392} event:/Leftovers/SFX/MeteorStrikeQuiet
+{bd54a335-6391-4cf5-ba3c-79c139e004b7} event:/Leftovers/SFX/MeteorStrikeShort
+{0893d539-ced3-4795-a666-8f3bd1815748} event:/Leftovers/SFX/MeteorStrikeShortWet
+{b0e33319-3035-44b4-b1fe-2f30b3a259ce} event:/Leftovers/SFX/MeteorStrikeShortWetQuiet
+{6ec5b88f-3358-4a8a-bc00-e3de56f0ccc0} event:/Leftovers/SFX/MidAirCollision
+{a850919a-2f24-450f-90c6-932cbe2e0832} event:/Leftovers/SFX/MovableObjectSlide
+{556784cc-1b70-42af-a69a-b07f9e30707f} event:/Leftovers/SFX/Muse_Attack_QuickMove
+{9b3cbc41-b561-4627-b0b7-34529c748f50} event:/Leftovers/SFX/NomadLand
+{e7bdc7c6-c084-4231-a563-4068e8f418b6} event:/Leftovers/SFX/NomadLandSlime
+{3c06528b-f39f-4d7b-b5aa-07aaf11a5926} event:/Leftovers/SFX/NomadLandWet
+{3c412cd2-9353-48fa-b0e3-47f2a8180e98} event:/Leftovers/SFX/NomadScorePoseSFX
+{be74c007-33ac-471e-9d50-c94e13286b5c} event:/Leftovers/SFX/NomadSprint
+{57b58ee5-89cb-4da5-86f7-40629999d7ba} event:/Leftovers/SFX/ObjectImpact
+{5f5216b5-7d60-43c0-90c1-87124964efd9} event:/Leftovers/SFX/OutOfAmmo
+{07654e0a-4aa1-47d7-991f-7de0cf5cfd4e} event:/Leftovers/SFX/OutOfAmmo2
+{8e4b03e0-e20a-4743-8c30-6686c601b690} event:/Leftovers/SFX/PanelSlide
+{164d2449-82cf-4e61-9809-c9f1e54317a0} event:/Leftovers/SFX/PassTEMPfwoosh
+{020b0717-c520-412b-8863-535a0ec6fada} event:/Leftovers/SFX/PerfectTiming
+{4f68056c-fc90-4649-a673-b8f06bdf419e} event:/Leftovers/SFX/PlayerFullWipe
+{6e642c97-7468-4111-a139-f0654a11431e} event:/Leftovers/SFX/PlayerJump
+{f13d8144-aeb0-44c2-85e4-ce8317521a89} event:/Leftovers/SFX/PlayerJumpMedium
+{efd7cc48-0507-4535-abd7-96d0a91d0c99} event:/Leftovers/SFX/PlayerJumpSmall
+{15c32ec4-f637-449d-b263-91f4bfb0cf5d} event:/Leftovers/SFX/PlayerKilled
+{fc4fdf2c-54e9-41c0-a5b3-0fda035617ee} event:/Leftovers/SFX/PlayerKilledNEW
+{71c657b5-290c-4c79-8d7f-d58d1e9e55f4} event:/Leftovers/SFX/PlayerKilled_Large
+{0731b526-5020-4588-b8ad-912df0403844} event:/Leftovers/SFX/PlayerKilled_Small
+{7609d438-320e-4dea-8ac5-5f0ecc8de4ff} event:/Leftovers/SFX/PlayerMovementPower
+{aa878cd6-a535-4704-b300-310720a8692c} event:/Leftovers/SFX/PlayerOnHit
+{dedc228d-6504-4447-9af3-058b41e3675b} event:/Leftovers/SFX/PlayerPreRespawn
+{590acba7-5a7e-4b61-897a-784aade85cbb} event:/Leftovers/SFX/PlayerProjectile
+{3b5501ea-b5a8-4340-a77f-c78629300baa} event:/Leftovers/SFX/PlayerProjectileDeflect
+{c7283485-6694-4ee8-b2b5-b2fa78f73b76} event:/Leftovers/SFX/PlayerRespawn
+{d55c5979-4ee7-45a7-87c7-d54c4cdfb573} event:/Leftovers/SFX/PlayerRespawnNEW
+{2665b0c6-6b22-40a6-916e-cf877e012eab} event:/Leftovers/SFX/PlayerScoreLarge
+{d3c540e3-ada5-494c-8cf5-043f144aa0dd} event:/Leftovers/SFX/PlayerScoreMedium
+{16da754e-415a-4631-8f7a-589f5daea62f} event:/Leftovers/SFX/PlayerScoreSmall
+{9fbbf12c-fbaf-4c7f-8450-363325e33440} event:/Leftovers/SFX/PlayerSkid
+{7c107f0c-ba08-4bba-8522-65de59cd8670} event:/Leftovers/SFX/PlayerSkidWet
+{2d288b69-cf35-4f50-bc23-a1003d059b1e} event:/Leftovers/SFX/PositiveTalismanProc_1
+{47ea15b0-2c89-4b60-8af6-7adf732abca5} event:/Leftovers/SFX/PositiveTalismanProc_2
+{30083dcd-d951-4177-a79b-1f704f31dc04} event:/Leftovers/SFX/PositiveTalismanProc_3
+{588f3721-82ef-4cac-b0af-11d34ef47a54} event:/Leftovers/SFX/PowerFallOut2
+{2f5c2f70-c11c-4173-a661-3846850aa0ab} event:/Leftovers/SFX/PowerToggleNew
+{88046e22-b26b-45b4-9843-0aeff4891f87} event:/Leftovers/SFX/PowerUpFwoosh
+{41f25ec6-8f44-4e9e-897e-38805f56414c} event:/Leftovers/SFX/PyreTickUp
+{bca3a6df-3e57-435d-8204-95e9dd9d9988} event:/Leftovers/SFX/PyreTickUpREDO
+{c2a11f8f-c5d6-46dd-b92a-c11d0b720840} event:/Leftovers/SFX/PyreTickUpREDO2choir
+{6ff81fd1-9d01-4e41-9f22-669cd4311b57} event:/Leftovers/SFX/ReunionAmbience
+{a9c36379-3462-453a-925e-5290ed07913b} event:/Leftovers/SFX/RobeFlutter
+{24d23adc-d989-490f-ad44-b098b0a21b13} event:/Leftovers/SFX/RobeFlutterInScene
+{7bc731b1-10ec-4296-82b1-a5c5ae6bf287} event:/Leftovers/SFX/RobeFlutterLoop
+{9acb766b-8f72-4c0e-8147-2a70088a8cc4} event:/Leftovers/SFX/RobeFlutterQuiet
+{f852786f-7ee5-47ef-a573-503a3eefd577} event:/Leftovers/SFX/RootsGrow
+{f07d5871-5a40-42c6-b1df-1e50f574a00f} event:/Leftovers/SFX/SapWormhole
+{0eb1f8f5-09a0-4a0c-bd2a-b7946d06bfe9} event:/Leftovers/SFX/SapWormholeEndSound
+{bb253649-c6ca-4d77-9bf5-90edead254c2} event:/Leftovers/SFX/SaplingDeath
+{df8dda59-7590-4879-8065-f5afaea2acc9} event:/Leftovers/SFX/SaplingGibber
+{5516154b-a44d-4793-a101-5783031e62c4} event:/Leftovers/SFX/SaplingGrow
+{aed9b98e-be47-463a-a1ca-164259eae9e6} event:/Leftovers/SFX/SaplingKilling
+{9091d444-6f33-4692-ba9d-24e5a58dd7e5} event:/Leftovers/SFX/SaplingLinking
+{4486d3bd-647a-44f6-88a6-02e80130aa36} event:/Leftovers/SFX/SaplingSpawnIn
+{bdf699c3-1bfd-4e34-883f-3ddb6c4f25f5} event:/Leftovers/SFX/ScorePyreDousePoof
+{1bc97bda-6918-44d1-a324-68bbc5068e93} event:/Leftovers/SFX/ShieldAlliesSFX
+{fd028f9c-26b7-42cb-b27d-14166f46dcf7} event:/Leftovers/SFX/Sidearm
+{593e6794-8b01-4720-aac3-0fa6051f1585} event:/Leftovers/SFX/SocketInteract
+{021acdd3-5d18-444a-acde-82ffda7cd298} event:/Leftovers/SFX/SpellFireAttack
+{addc4dda-4c48-44c3-9b51-19f24b3c64b0} event:/Leftovers/SFX/SpellFireAttackLarge
+{d6800cbd-ae3f-419f-878b-d46eaf339331} event:/Leftovers/SFX/SpellFireAttackSmall
+{30de1f34-17cc-4050-ba8a-a77cb67ad847} event:/Leftovers/SFX/SprintChargeUp
+{eed140d8-71e5-44a1-a8e3-f604618b5d0f} event:/Leftovers/SFX/StaminaRefilled
+{a0ee9920-9154-4fa6-bcfb-9aefde94034d} event:/Leftovers/SFX/StaminaSkillProc
+{fcc84574-ad8d-4f94-9a51-f46993582b18} event:/Leftovers/SFX/StandardAscensionSFX
+{3a702841-386d-40f2-b514-cd5174c0535b} event:/Leftovers/SFX/TeamWipedPulse
+{9b2a522c-12d5-4037-95de-fbed6ecf1a9d} event:/Leftovers/SFX/TeamWipedPulseAlt
+{f6c49eee-de4e-442a-ab0c-55ae4d5f1248} event:/Leftovers/SFX/TextFlyIn
+{14467b74-0834-4329-acac-33599af7bcc3} event:/Leftovers/SFX/TextReveal
+{df11b965-a2f3-4e45-8d00-60c4870fe678} event:/Leftovers/SFX/TransistorRepaired
+{86af71e7-32de-4789-b292-691cc3aab83c} event:/Leftovers/SFX/TreeWalkLoop
+{6fe57cfb-ebc9-4a69-8e5e-3864aabf2bb4} event:/Leftovers/SFX/VictoryScreenUpdateSFX
+{4ea9fbe1-a2ad-4409-a081-79ede7ab59b3} event:/Leftovers/SFX/Weapon_Blink_FireAlt
+{6473361f-0940-4c44-8e7f-d68e52337bcc} event:/Leftovers/SFX/WindAmbienceFlying
+{6fa7bcb9-b07a-4d0a-8ad0-37caa415af7f} event:/Leftovers/SFX/WindAmbienceLocal
+{4321a57f-acda-4cec-9956-e22ceafd7172} event:/Leftovers/SFX/WindBlowing
+{2f98f0e4-b2da-4a25-a7ae-72dd0154c87f} event:/Leftovers/SFX/WingFlapLarge
+{547255ab-782a-4ff6-a9fa-328fb6bab91f} event:/Leftovers/SFX/WingFlapMedium
+{f64263b3-0179-4ccc-8d63-44df816b02a0} event:/Leftovers/SFX/WingFlapMediumLOOP
+{161e1753-f7b8-4c31-a08e-0b1b56bda804} event:/Leftovers/SFX/WingFlapSmallQUICK
+{c8d89109-5f35-4496-a5d2-e7d43778924e} event:/Leftovers/SFX/WingFlapSmallQUICKpitched
+{ab9a16ee-411c-43e8-8a9b-c91bc0eed90c} event:/Leftovers/SFX/WingFlapSmallSLOW
+{d0bfa83f-8f86-4813-8892-7a59ab4ef73e} event:/Leftovers/SFX/WyrmCastAttack
+{ac9f58b7-a1ad-4134-856d-aca4c20bdbc5} event:/Leftovers/SFX/WyrmJump
+{e5156d7d-65f8-46b1-8a43-b40e4ef15512} event:/Leftovers/SFX/WyrmSprintBurrowLoop
+{23425515-79f2-4fa2-b6ea-524022fa54f4} event:/Leftovers/SFX/WyrmWalkBurrow
+{980f8999-e122-442b-b650-5520d35757f8} event:/Leftovers/Vocalizations/Demon_M_02/EmoteAttacking
+{4a027441-a891-451b-bbbb-fd7f294d8582} event:/Leftovers/Vocalizations/Demon_M_02/EmoteCharging
+{c7cbbe3e-2b1a-4024-97c4-d201a6505d99} event:/Leftovers/Vocalizations/Demon_M_02/EmoteDefeat
+{c78d2d32-83bc-48b5-a8d4-d8ddbad0bcb4} event:/Leftovers/Vocalizations/Demon_M_02/EmoteDrafted
+{e0178964-494a-4ed3-8b66-13783039f251} event:/Leftovers/Vocalizations/Demon_M_02/EmoteDying
+{5db03f9a-a7db-4e48-aca1-ea3a88e776aa} event:/Leftovers/Vocalizations/Demon_M_02/EmoteEvading
+{ff8ebc7d-d39a-426a-9a36-c883a774d25e} event:/Leftovers/Vocalizations/Demon_M_02/EmoteGetting
+{eea3b9ea-a763-4b71-81e1-cb7d4e4dd10e} event:/Leftovers/Vocalizations/Demon_M_02/EmoteKilling
+{f76bed69-28c6-4e9f-a3b3-46bc16820074} event:/Leftovers/Vocalizations/Demon_M_02/EmoteLanding
+{66716a1c-7773-4411-bf36-454e28b947e3} event:/Leftovers/Vocalizations/Demon_M_02/EmoteLosing
+{64c92b62-23a3-4306-8839-6083dc59e1bb} event:/Leftovers/Vocalizations/Demon_M_02/EmotePassing
+{55e7393d-ee7a-4c68-92c6-ac65f50039ec} event:/Leftovers/Vocalizations/Demon_M_02/EmotePowerAttacking
+{55582aa8-f2b8-4594-8a59-187cc62cff1a} event:/Leftovers/Vocalizations/Demon_M_02/EmoteRespawning
+{175acc68-a647-4885-a39f-6ec2c7bcac36} event:/Leftovers/Vocalizations/Demon_M_02/EmoteScoring
+{896d3624-9cd1-4889-b3fb-08862a27943a} event:/Leftovers/Vocalizations/Demon_M_02/EmoteSprinting
+{55be2631-5e09-4cd0-87db-7b3448ba9704} event:/Leftovers/Vocalizations/Demon_M_02/EmoteTaunting
+{37c27500-d18f-4f66-b152-9d6fca203e1b} event:/Leftovers/Vocalizations/Demon_M_02/EmoteTossing
+{8f5b3f2c-e54c-4203-a14e-b274b75a50e9} event:/Leftovers/Vocalizations/Demon_M_02/EmoteVictory
+{bde09e08-8b80-4500-807f-5d5000e9093d} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinningAlt
+{2321e3a4-679b-4645-9a39-f8eef17e7434} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_01
+{c0e1d918-509f-4734-976c-34ca67bcdf4b} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_02
+{10a951d9-77b4-474c-9fad-4557faa943c7} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_03
+{3dd9b6fd-6b55-49b3-aa15-92afc6c0c1bb} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_04
+{18acd38c-3bf3-4c53-bf59-f2654846a182} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_05
+{a35eae58-da07-4b65-a474-28aece2b0dfa} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_06
+{867034bd-470e-4981-82e7-a2f64533bcb0} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_07
+{9491eb26-de7d-406b-b53c-0be937fc5709} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_08
+{bb3c329a-b66b-4aad-aa56-f5e049d57c6f} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_09
+{23083ed1-d293-4000-9093-4f214fb32ada} event:/Leftovers/Vocalizations/Demon_M_02/EmoteWinning_10
+{737c86de-db0e-4a97-9f40-d769bed54cbb} event:/Leftovers/World Sounds/AirshipCannotSprint
+{b8cdbd65-9f26-4d70-a6b8-417d47c19289} event:/Leftovers/World Sounds/AirshipIdleLoop
+{59be1599-a669-4475-ad54-743a83a4bfea} event:/Leftovers/World Sounds/AirshipIgnitionStart
+{b4e1dfae-4995-4a64-8b2e-0252fe1581d5} event:/Leftovers/World Sounds/AirshipRev
+{0b954a0b-1f88-42b2-8c6a-947cc2ee6795} event:/Leftovers/World Sounds/AirshipSprint
+{bdc37b67-0e49-4d16-b2f5-a38b61fc1138} event:/Leftovers/World Sounds/BigSplash
+{c98bb733-d35e-4d2a-bd7b-120231ae1ec8} event:/Leftovers/World Sounds/Caravan Interior/BooksInteract
+{aba82e60-9550-4a6e-8d4c-220c6f41bfe5} event:/Leftovers/World Sounds/Caravan Interior/CabinetClose
+{d33e85b7-b4c5-4919-8aaf-e29f398f9f27} event:/Leftovers/World Sounds/Caravan Interior/CandleBlow
+{0bb3c81f-fee6-4d04-a9f7-758af7393896} event:/Leftovers/World Sounds/Caravan Interior/CardsInteract
+{6aa348d6-fd21-482d-92f2-96c014bf22e4} event:/Leftovers/World Sounds/Caravan Interior/CeramicTap
+{6d8f1468-c31a-450e-8881-e8dbfe0c7682} event:/Leftovers/World Sounds/Caravan Interior/ChainInteract
+{ed7de3bb-9b61-4738-a14e-c9ce2f837b77} event:/Leftovers/World Sounds/Caravan Interior/ChestClose
+{5612f638-70b3-448b-854d-a2a62064b796} event:/Leftovers/World Sounds/Caravan Interior/ChestOpen
+{89bd1e2c-6ca8-4005-a9d8-b7c543021e4c} event:/Leftovers/World Sounds/Caravan Interior/ClothInteract
+{29ee4d9e-b3e8-4469-97a8-fae9125780be} event:/Leftovers/World Sounds/Caravan Interior/ClothInteract2
+{4f771229-73c0-44d6-addc-f2bca6d75495} event:/Leftovers/World Sounds/Caravan Interior/CobwebClear
+{6bb8c574-b9ab-487f-9253-a5aeba28a09b} event:/Leftovers/World Sounds/Caravan Interior/DishesInteract
+{1bc862e3-95c0-4f20-8bab-716ea6bee446} event:/Leftovers/World Sounds/Caravan Interior/FloatingRockInteract
+{e08500af-bbd9-4aad-9177-d699e07fc904} event:/Leftovers/World Sounds/Caravan Interior/FruitPick
+{560e5b81-2f53-4fa8-ab7a-99b48123733c} event:/Leftovers/World Sounds/Caravan Interior/LightningJarThunder
+{b908fe5c-f000-443a-8505-7a10a93f3b30} event:/Leftovers/World Sounds/Caravan Interior/MagmaMugInteract
+{b8442481-fa37-448a-aead-4c96610c09a7} event:/Leftovers/World Sounds/Caravan Interior/MushroomLogInteract
+{fd65bee0-c6e3-4caa-a094-70fa91131db5} event:/Leftovers/World Sounds/Caravan Interior/NauticalBell
+{b17c97e0-8627-4611-a7eb-bac9a5ff5b38} event:/Leftovers/World Sounds/Caravan Interior/NauticalBellBroken
+{31ff0ccb-8338-4459-8d1e-8654fcbf05f2} event:/Leftovers/World Sounds/Caravan Interior/NauticalBellCharon
+{630d0034-7852-44d6-85d5-3f6a52edab94} event:/Leftovers/World Sounds/Caravan Interior/NauticalBellCharonCenter
+{c6a8342e-2205-440c-970d-2a13f7a45a5e} event:/Leftovers/World Sounds/Caravan Interior/ObjectHover
+{a911f18d-1a27-4d1f-a8cd-6a56690cc491} event:/Leftovers/World Sounds/Caravan Interior/RugInteract
+{4169be91-705b-4f5b-9969-5a781c9876f3} event:/Leftovers/World Sounds/Caravan Interior/SmallGlassTap
+{cdc7a60c-305c-44ff-9d62-08e38b91bf0b} event:/Leftovers/World Sounds/Caravan Interior/SpiderSkitter
+{89433cea-1424-408a-9cd0-ad9f0db9b17d} event:/Leftovers/World Sounds/Caravan Interior/SteamAcidForage
+{310c6d74-55f6-419b-ba0a-1298e1d016bd} event:/Leftovers/World Sounds/Caravan Interior/StickInteract
+{3a7aba6a-3f79-4fe0-a180-422a896c05b7} event:/Leftovers/World Sounds/Caravan Interior/SwallowDrink
+{1eee4784-2f3c-45cb-9c25-f60ec0ac7c42} event:/Leftovers/World Sounds/Caravan Interior/TarotCardSpecialInteract
+{d241f8be-a43a-4b19-9085-ab557be05178} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone
+{ce257dc2-b199-4eca-aca3-4fcd8d61acc0} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_1
+{06a1d715-f58a-4744-9c7f-11461882f150} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_2
+{fe6b5d98-29f1-4517-b7cf-6d3bde78b213} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_3
+{9adc52d3-0ba6-48a9-a887-73fe2d7111e5} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_4
+{747a8ecf-d401-4445-be21-37be7c6050cc} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_5
+{a65a0506-91cd-4417-8a7d-7a0b3345617f} event:/Leftovers/World Sounds/Caravan Interior/WagonBoneXylophone_6
+{e3488e29-6f38-4d83-bb78-251efb8055f3} event:/Leftovers/World Sounds/Caravan Interior/WindowTap
+{bd72cedb-cada-4250-a5b9-49eeaf7bc7ab} event:/Leftovers/World Sounds/Caravan Interior/WoodKnockLarge
+{6909521a-ef28-4090-a83a-b82b147ce2b1} event:/Leftovers/World Sounds/Caravan Interior/WoodKnockSmall
+{6ffc67f2-b488-49bb-92a2-696dd3c763ac} event:/Leftovers/World Sounds/CaravanAmbience1
+{aeaa4765-6bbd-43ea-9dc2-7c5959a7bbd0} event:/Leftovers/World Sounds/CaravanBump
+{85d0b6a7-612c-4ad7-a575-cd87eacdf994} event:/Leftovers/World Sounds/CaravanBumpHard
+{b8284142-23e9-46c9-9114-3c2af3af1fdd} event:/Leftovers/World Sounds/CaravanCreak
+{1862e067-d724-4e6a-9b9f-c708a7caf57d} event:/Leftovers/World Sounds/CaravanDoorClose
+{7703f945-740d-4889-8a7f-5c5006dec265} event:/Leftovers/World Sounds/CaravanDoorOpen
+{9d6ef449-081f-43e8-b20b-0350c0927932} event:/Leftovers/World Sounds/CaravanFallWhoosh
+{af58a7c0-c06c-457b-b8ce-cc6604cbaa16} event:/Leftovers/World Sounds/CaravanHop
+{16327924-d2b4-412e-b480-4531121d80f9} event:/Leftovers/World Sounds/CaravanInteract
+{84ba4c14-bf66-4901-bfdd-e7abfdc699ea} event:/Leftovers/World Sounds/CaravanInteriorLoop1
+{6143eef2-f182-4e6a-955b-fe3e95fcdfa1} event:/Leftovers/World Sounds/CaravanInteriorLoop1OLD
+{fb035f72-7a9f-4037-a1d4-261b47999259} event:/Leftovers/World Sounds/CaravanJostle1
+{8e7df1b6-b5b9-480c-b162-257789e0c547} event:/Leftovers/World Sounds/CaravanJostle2
+{636d0f48-30c3-41a4-bad5-b531683ee37a} event:/Leftovers/World Sounds/CaravanJump
+{192f3279-5aa2-4cd6-b5fb-661047b28fcd} event:/Leftovers/World Sounds/CaravanLanding
+{b30b0a19-409d-493e-a8af-66186381e2a8} event:/Leftovers/World Sounds/CaravanPack
+{e2f0e8ef-6092-4a6e-8691-697e26ffdfcf} event:/Leftovers/World Sounds/CaravanPackLandTransition
+{8d4bea2d-1add-4a26-993f-8fe182984fcc} event:/Leftovers/World Sounds/CaravanRiverFording
+{a99ca8f0-f5ed-43b8-a5b5-4a43787f8f1f} event:/Leftovers/World Sounds/CaravanRiverFordingQUIET
+{5a16f29e-7b4b-48be-bced-29a6a0910fa4} event:/Leftovers/World Sounds/CaravanStop
+{98fff860-799c-4099-ad43-1ae67783fe8c} event:/Leftovers/World Sounds/CaravanStopNEW
+{3917db3f-46db-4c67-8e9c-5b5f936c2a60} event:/Leftovers/World Sounds/CaravanUnpack
+{239f9038-6151-4cda-b3fc-8bdac003a4ef} event:/Leftovers/World Sounds/CaravanWaterBuck1
+{20483f7d-8702-492a-98f7-134a99294e39} event:/Leftovers/World Sounds/CaravanWaterBuck2
+{d22efa9c-e271-4052-9347-1c7ec1d5147f} event:/Leftovers/World Sounds/CaravanWaterJump
+{0b5a06b3-3614-4f00-8fed-73524811c61e} event:/Leftovers/World Sounds/CaravanWaterLand
+{65992c8e-3847-49fb-bac1-578bb4694b49} event:/Leftovers/World Sounds/CaravanWaterMoveStart
+{c344c4cc-f53f-46c4-a6f8-02c016e0cdb8} event:/Leftovers/World Sounds/CaravanWaterMovingLoop
+{e3c2860b-5182-454a-b9d1-da88fb261e6d} event:/Leftovers/World Sounds/CaravanWaterTransform
+{2310bad0-aeb5-409d-92da-737aea468c5a} event:/Leftovers/World Sounds/CaravanWoodJostle
+{a5e5c646-d6ad-4fd0-a3cd-34f6983edb15} event:/Leftovers/World Sounds/ChainRattle
+{8df1cb37-aea9-4d30-be2b-b06b99115c3f} event:/Leftovers/World Sounds/CharonBoatRowSFX
+{bba982e1-cdab-4e1e-8dbc-10fa2fceeb56} event:/Leftovers/World Sounds/ChoirZoomIn
+{ab8dcba7-35d8-4a40-b433-824426d0ea53} event:/Leftovers/World Sounds/ChoirZoomInTight
+{cb9952ec-9878-4b5f-8c25-a203141ef012} event:/Leftovers/World Sounds/ChoirZoomOut
+{d4851478-3530-4233-bbbe-f034df51d464} event:/Leftovers/World Sounds/ClickSplash
+{cdf659a8-2cf3-4b6f-88ef-352abfd84307} event:/Leftovers/World Sounds/ClickSplashSlosh
+{ed3bb033-f57b-40ed-8452-a93c0dea3c02} event:/Leftovers/World Sounds/ClickSplashSoft
+{538cdd2d-abbd-4d1b-bc38-fb2f41f7e80f} event:/Leftovers/World Sounds/CroneEnter
+{286ef68e-1cf5-490a-a2cb-0f6479dbc467} event:/Leftovers/World Sounds/CrystalHit
+{1ac52057-9aef-445c-b4ef-dd8b2644cedc} event:/Leftovers/World Sounds/DayRoosterTransition
+{551390df-831a-47eb-a494-7c58749d665b} event:/Leftovers/World Sounds/DemonEnter
+{82c92227-8395-45d7-86e1-56bb4e2994c7} event:/Leftovers/World Sounds/Disappearance
+{8da3fd81-dbdf-4acc-9966-ed46c9b60347} event:/Leftovers/World Sounds/HighMetalSqueak
+{c40f8350-a231-452e-9f74-b64334553a54} event:/Leftovers/World Sounds/ImpSFX
+{2a85563d-7a83-4499-8568-f4947a6ff316} event:/Leftovers/World Sounds/ImpSFXLoop
+{ad9cc3df-9d2f-4036-ae0d-dc5392fb3924} event:/Leftovers/World Sounds/JumpLanding
+{51ada2a4-23a4-4d4f-88d2-a2a40d7df026} event:/Leftovers/World Sounds/LeavesRustle
+{bc4d2fb2-79e4-44a0-b608-c94ceeef9861} event:/Leftovers/World Sounds/LeavesRustleSap
+{81aa02fa-7c52-4013-85e4-07290c52cf98} event:/Leftovers/World Sounds/LeavesRustleSoft
+{aadb9a6f-447a-4276-9d25-c22ee3a9e9c6} event:/Leftovers/World Sounds/LowMetalSqueak
+{e9d6fa04-730a-4653-9ded-aab43426815d} event:/Leftovers/World Sounds/MapText
+{567e6b2e-b423-4603-a4bc-c23b26c1c080} event:/Leftovers/World Sounds/MapZoomIn
+{647ad0f6-0f43-45da-b9c2-c4269dc50350} event:/Leftovers/World Sounds/MapZoomInShort
+{f922fb4d-c9bc-4ee1-9846-165192a4c01e} event:/Leftovers/World Sounds/MapZoomInShortHigh
+{6a2e4b8a-a76c-47c0-92a2-5ffdd344819c} event:/Leftovers/World Sounds/MapZoomInTight
+{de9c75ff-427a-416f-82f9-804e26eb2a97} event:/Leftovers/World Sounds/MapZoomOut
+{d5b7abe3-3f3c-4934-ab35-8391e5f218e4} event:/Leftovers/World Sounds/MapZoomSlow
+{f0f5ee56-1ad0-429e-baca-18f4b6e3a487} event:/Leftovers/World Sounds/MaskUnlatch1
+{40714a93-f918-411b-a170-536320db41a3} event:/Leftovers/World Sounds/MaskUnlatch2
+{b841e0dc-7d24-4fd3-adaa-1513006b7b0e} event:/Leftovers/World Sounds/MediumMetalSqueak
+{aa59eb34-1606-49ba-8dec-4fc1f1438193} event:/Leftovers/World Sounds/MiscMetalSqueakLoud
+{53665ec5-fa09-4fd4-a8d4-80154ffdaf21} event:/Leftovers/World Sounds/NightOwlTransition
+{531b6651-23e3-4a44-833d-4b44cf86aeae} event:/Leftovers/World Sounds/NomadIdlePageFlip
+{630edc36-c0e6-4f70-9b4c-99b6eda7f8c9} event:/Leftovers/World Sounds/OvermapArriveAtMatch
+{13aa4477-9a6a-47f0-9be1-1f1c81842877} event:/Leftovers/World Sounds/PhysicalImpact
+{344c37e7-3474-41e9-8278-5ad5f4384655} event:/Leftovers/World Sounds/PhysicalImpactPunch
+{25ab6371-0ca8-4f44-be1b-a02bb9cd9428} event:/Leftovers/World Sounds/PickUpFlyAwayLEFT
+{f4c0ae27-241d-475e-b5ff-4e6501037728} event:/Leftovers/World Sounds/PickUpFlyAwayRIGHT
+{ca5370bd-abcb-4f72-a952-b03e37b52393} event:/Leftovers/World Sounds/PostBossLeaveSFX
+{e10bd2d3-6767-4f03-9c90-d6b03ce198cd} event:/Leftovers/World Sounds/QuickSnap
+{3841fb0b-de50-427f-afbc-635f3644b4a8} event:/Leftovers/World Sounds/QuickSnap2
+{fa5e1684-24ea-45c8-9328-fd415c6b7d1a} event:/Leftovers/World Sounds/RockHit
+{ec370aa7-6b2d-492b-9755-d992eee4ca3b} event:/Leftovers/World Sounds/RonEnter
+{a9ae8a91-8184-4ef3-9bce-c5ab224175a3} event:/Leftovers/World Sounds/SandForage
+{96279788-34d8-4c2c-b285-e90945cea1aa} event:/Leftovers/World Sounds/SapEnter
+{b81af9c8-284f-4b96-82e9-9717e6e52675} event:/Leftovers/World Sounds/ScribeGateDown
+{a29a3158-6d15-4580-ba84-0843ca00bf58} event:/Leftovers/World Sounds/ScribeGateUp
+{59bd2d69-8517-49bd-81ae-54f50399cb73} event:/Leftovers/World Sounds/StatueInteract
+{4db1a555-44ad-4e1e-9f0d-779a80ef6c50} event:/Leftovers/World Sounds/SwampBubblePop
+{f71e1b84-d529-4b1a-8bac-3144e0f68e56} event:/Leftovers/World Sounds/SwampBubblePopForage
+{aedb2cdf-b08b-4696-a1f7-c8c0af7b3f09} event:/Leftovers/World Sounds/SwathPageFlip
+{9fac84c3-0165-44ee-9b40-1f0191708bb4} event:/Leftovers/World Sounds/SwathTransistionLoop
+{8dbda1ef-65c7-4af1-9b6c-fc9dbe5b6996} event:/Leftovers/World Sounds/SwoopingLargeFlaps
+{2a394157-bc02-4d0a-b5db-267af547df9b} event:/Leftovers/World Sounds/TalosStatusLoop
+{27b2d3da-3c1e-466e-8aa5-5669fefc079f} event:/Leftovers/World Sounds/TalosStatusLoop2
+{aac299b1-5981-4b56-a53a-5ac52ea0ef45} event:/Leftovers/World Sounds/Thunder
+{cf567e02-3c5a-420b-96ba-0affa30e3c0a} event:/Leftovers/World Sounds/ThunderHuge
+{7b2d4f29-988d-4b74-859b-898ffb52ae26} event:/Leftovers/World Sounds/TrainingMontageWhoosh
+{f7b558ca-63ff-49ab-9d53-c0d77820e081} event:/Leftovers/World Sounds/Unmask
+{3355fefe-6400-467c-8610-b9801da6467d} event:/Leftovers/World Sounds/WagonLifeRoommatesBumping
+{b936e4bf-7383-416a-b509-5e6dae1e3a7d} event:/Leftovers/World Sounds/WyrmEnter
+{b6272f92-884d-4bd5-95f6-40c0fbb6928f} event:/Music/ARStinger_All_1
+{4900787b-83ed-4f62-9d0d-7661f4b6fbf5} event:/Music/ARStinger_All_2
+{fd467331-33f3-4e8e-a063-3c59156ae95b} event:/Music/ARStinger_All_3
+{2d4e66da-c2b7-4a0e-b4c7-3fb299d2eb11} event:/Music/ARStinger_All_4
+{7b66d659-e57e-487e-b611-95e02651311c} event:/Music/ARStinger_All_5
+{b6837411-fa85-4e7c-b6c6-e254e6e39d6d} event:/Music/ARStinger_All_6
+{c282b049-7ca4-42de-8149-ea0290b73505} event:/Music/ARStinger_Stabs_1
+{401c56bb-f480-4db2-b764-e7944ac32a4b} event:/Music/ARStinger_Stabs_2
+{78a17d6d-76b0-4223-a948-832529fe6c13} event:/Music/ARStinger_Stabs_3
+{fb4e5582-9a12-4f4a-b53d-ea149c22e091} event:/Music/ARStinger_Stabs_4
+{7edd2f8f-faf8-45ec-b5c9-e3a32ba0cdce} event:/Music/ARStinger_Strings_1
+{28de8ba9-288d-4f4b-a540-a4248c5ea200} event:/Music/ARStinger_Strings_2
+{953cef26-d548-47fd-8768-dd3968e869af} event:/Music/ARStinger_Strings_3
+{0b232222-3646-4fb2-82c0-62724d2149bf} event:/Music/ARStinger_Strings_4
+{53ff5281-4c1c-4ddf-b6d4-aafb8a89ce1c} event:/Music/ARStinger_Trombones_1
+{3a9abac6-d0f4-4393-be8c-9e0ab82bbb7d} event:/Music/ARStinger_Trombones_2
+{6d44d845-5ef2-495b-8772-eab57bae3efb} event:/Music/ARStinger_Trombones_3
+{684d6775-dec6-43da-a3d2-3ae60e3c599e} event:/Music/ARStinger_Trombones_4
+{5f7b47e1-afac-44b7-8c94-f43fabd900e5} event:/Music/BlankMusicCue
+{91e7282f-bc07-4776-9e17-ec36f9e2899b} event:/Music/BossFightMusic
+{bdee203a-d09b-4ff5-aefb-4441efb8d857} event:/Music/ChaosTheme_MC
+{efd7b0de-685e-4c7f-8845-893bdc8d5954} event:/Music/CharonFightTheme
+{98bd67f6-8513-4b42-b97a-432a81e3138c} event:/Music/CharonShopTheme
+{12f68b26-0a81-40c6-a5cf-cd2718a89bd2} event:/Music/DemoEndAmbience
+{1155d15b-bf3a-4881-bd4a-04ead6e4ffde} event:/Music/EndTheme
+{f25c8ad4-286e-442a-871e-ea5a61a95922} event:/Music/EndThemeACOUSTIC
+{885b7e2c-bad0-4e83-8469-ae736d4bd9ec} event:/Music/ErebusChallengeMusic_MC
+{a834d8d5-2cbc-4939-a5b3-eb0da6b15a30} event:/Music/EurydiceSong1_Duet
+{a4a456e7-eb52-4c37-bdac-a3f0176cd5a7} event:/Music/EurydiceSong1_Eurydice
+{a0c876ef-f256-4c25-bde1-3673195da253} event:/Music/EurydiceSong1_Orpheus
+{a24a64c6-f85d-4ecb-ae38-689ae71d1cbd} event:/Music/HadesTheme
+{6b5d47d4-1615-471c-8650-7614fc2fe38f} event:/Music/HadesThemeStinger
+{dba2b1bf-9ae3-4e1f-bb0e-0804e08e4e61} event:/Music/HadesThemeStingerINTENSE
+{f2e4eb41-377c-4fc4-ab25-27950ea8738c} event:/Music/MainTheme
+{94fb7305-3208-4be2-98ca-f9f7b0bbc9dd} event:/Music/MainThemeQuiet
+{70b1486f-2096-42c9-8f41-d63045ad4fba} event:/Music/MusicAsphodel1_MC
+{beeb13cd-a4b5-4065-8f48-f5996c8469be} event:/Music/MusicAsphodel2_MC
+{6bb68107-9d3e-4de5-8386-b713ad81a3e5} event:/Music/MusicAsphodel3_MC
+{37158edf-09cf-4a54-a370-9feb6a403895} event:/Music/MusicElysium1_MC
+{9cf9c326-aa4f-4fb8-9a56-1de0197dfb7a} event:/Music/MusicElysium2_MC
+{116b0fd2-908b-452f-baa0-6f8191e2a6f3} event:/Music/MusicElysium3_MC
+{7abaed46-29b0-4d63-8eb0-8a581cd9d7bd} event:/Music/MusicExploration1_MC
+{b7cc4733-46e3-450b-8cd2-c2c7ef229ae3} event:/Music/MusicExploration2_MC
+{5a7f805e-432d-4998-8bda-4b5cd5871d07} event:/Music/MusicExploration3_MC
+{9c400d47-b56c-4a54-b4a5-2d64ff2876d8} event:/Music/MusicExploration4_MC
+{de0b60be-39e1-4320-b9ea-39459cf6750a} event:/Music/MusicHadesReset2_MC
+{ab4b0bfc-00cd-4280-8aa9-fd604dae4a0b} event:/Music/MusicHadesReset3_MC
+{e180ac97-7d1a-47ea-9b53-b0f333ac96f5} event:/Music/MusicHadesReset_MC
+{f895f8d8-9ae7-40b8-9eee-f2d1f7f0a0da} event:/Music/MusicPlayer/BossFightMusicMusicPlayer
+{d39896a4-5b71-4171-9079-7f1866bfaa26} event:/Music/MusicPlayer/ChaosThemeMusicPlayer
+{9b9bf0a8-7eec-40ef-9899-143eab2fb80e} event:/Music/MusicPlayer/CharonFightThemeMusicPlayer
+{0936f36d-a653-4f21-8483-82d5bf19a979} event:/Music/MusicPlayer/CharonShopThemeMusicPlayer
+{a45f47e4-a5a0-4922-831b-ae31d5fa0a63} event:/Music/MusicPlayer/EndThemeMusicPlayer
+{54dd60a8-2088-497c-8daa-f1c28f6cbcbc} event:/Music/MusicPlayer/EurydiceSong1MusicPlayer
+{0ced9c02-cfb9-476a-a6ef-fcc577b1be17} event:/Music/MusicPlayer/HadesThemeMusicPlayer
+{657cad46-b4b6-40be-8371-43e3adfc659b} event:/Music/MusicPlayer/MainThemeMusicPlayer
+{10002066-1f56-4c04-a910-47e7e4d07739} event:/Music/MusicPlayer/MusicAsphodel1MusicPlayer
+{21fe284a-3b34-4fbf-9ed4-9e26f9701f27} event:/Music/MusicPlayer/MusicAsphodel2MusicPlayer
+{e8b925be-bbf0-4de3-8852-cd3e1fdf5df5} event:/Music/MusicPlayer/MusicAsphodel3MusicPlayer
+{3b0b08c0-6561-4b31-b4e5-07a40bc234a4} event:/Music/MusicPlayer/MusicElysium1MusicPlayer
+{a78b559f-9267-445f-acb3-3522b39c732d} event:/Music/MusicPlayer/MusicElysium2MusicPlayer
+{887866b7-2abb-4c5a-b341-c12e1d536252} event:/Music/MusicPlayer/MusicElysium3MusicPlayer
+{d1054d6b-be41-4754-b514-40c428b3345c} event:/Music/MusicPlayer/MusicExploration1MusicPlayer
+{37970dec-6dac-40fb-b1c6-cd83c1a29f80} event:/Music/MusicPlayer/MusicExploration2MusicPlayer
+{a09bec44-acfa-4f45-90da-89b35780e067} event:/Music/MusicPlayer/MusicExploration3MusicPlayer
+{1ce60fb7-f890-4523-b946-4f55e5c7f95b} event:/Music/MusicPlayer/MusicExploration4MusicPlayer
+{f3eebaaf-1049-4b9f-9194-2b0bbf4eaf08} event:/Music/MusicPlayer/MusicHadesReset2MusicPlayer
+{fcc99d6e-c072-403b-81be-38cb523a2539} event:/Music/MusicPlayer/MusicHadesReset3MusicPlayer
+{d0aa7eee-3e53-4820-9428-4006b25b6473} event:/Music/MusicPlayer/MusicHadesResetMusicPlayer
+{6629ce7f-3d21-49a5-919b-6b0300a39b17} event:/Music/MusicPlayer/MusicStyx1MusicPlayer
+{8b3c8985-f8bb-4e24-a033-81cc151d5b41} event:/Music/MusicPlayer/MusicTartarus4MusicPlayer
+{bb037cf6-9780-4934-bfb6-af335200aca5} event:/Music/MusicPlayer/OrpheusSong1MusicPlayer
+{67f641da-84f4-4d39-b324-52ffe1ef7276} event:/Music/MusicPlayer/OrpheusSong2MusicPlayer
+{4127289f-bbfa-4b1e-823c-2c1f12e72c95} event:/Music/MusicPlayer/PersephoneThemeMusicPlayer
+{946b7c42-244f-487e-bf6a-6ff0df12ee2c} event:/Music/MusicPlayer/ThanatosThemeMusicPlayer
+{1bdbf647-ba15-40bf-a146-78f9bdb5af2d} event:/Music/MusicPlayer/TheUnseenOnesMusicPlayer
+{b13275cc-62a2-4c55-9049-aa28f7d943b8} event:/Music/MusicStyx1_MC
+{1196c7d7-86ca-49a9-807a-06992ca53dfd} event:/Music/MusicTartarus4_MC
+{b5dd8115-0d3f-4cb5-b442-64c43099e15d} event:/Music/OrpheusSong1
+{6e8abb9d-725d-4407-933b-0b399a1060b8} event:/Music/OrpheusSong1VACOUSTIC
+{c55dcf6f-19bc-4b2a-9083-ada4bec25ba5} event:/Music/OrpheusSong1VACOUSTICmenu
+{c764b51d-31cd-4037-af1c-19b12cc5de74} event:/Music/OrpheusSong1VOXALWAYSON
+{a0388efa-a766-4f17-80d8-35d232d42e9e} event:/Music/OrpheusSong2
+{57070411-9d0b-45be-8df1-94e1c93485b2} event:/Music/OrpheusSongSoloHumming
+{1432551a-39e3-4e8e-bd8d-1958fbac6ab6} event:/Music/PersephoneTheme
+{6267051a-4c2f-4e87-90d0-ebcc82276047} event:/Music/PersephoneTheme_MC
+{afdc2989-6d40-4cdf-8324-e609ee6f0c87} event:/Music/ThanatosTheme_MC
+{a7384309-9521-4792-802a-f473a6859650} event:/Music/VictoryStinger
+{8478a65f-f124-4080-ad5c-f9b6424ca2a1} event:/SFX/A_Boss03_RoomTransitionSFX
+{66aa2ac4-b0ef-4854-817f-c8c7766d17df} event:/SFX/Achilles_EmoteAttacking
+{121e62c1-aca2-4d4c-8a92-8ef3806a7bc5} event:/SFX/Achilles_EmotePowerAttacking
+{da12eb5d-4836-4ffd-9da5-82ec7eaa7cbf} event:/SFX/AdminDoorCloseSFX
+{83f058ac-bd07-4cd9-8ec0-4761d9b5be3c} event:/SFX/AdminDoorOpenSFX
+{a212c254-b07a-45cf-b773-b85c24628bbd} event:/SFX/AmbrosiaDrop
+{1fb131ae-d865-48da-8a1c-581ff6a2997d} event:/SFX/AmbrosiaDropSpawn
+{ce888c5d-8475-46b1-b399-48ec4befe8ac} event:/SFX/AmbrosiaPickup
+{1731b970-d883-415a-9f7b-b7bb046b4b78} event:/SFX/AnvilOfFatesUse
+{768311e9-1ce8-47df-bb9e-71ab80bc4aeb} event:/SFX/AphroditeBoonChoice
+{61995366-d80d-46f6-b9c7-4b355a4506f9} event:/SFX/AphroditeBoonLoveChimes
+{2c4bf3a8-755b-41dd-b5a5-8545899ecf2b} event:/SFX/AphroditeCharmedLoopSFX
+{a0c17b50-fcdb-4773-9a3a-4e871b653dc9} event:/SFX/AphroditeDevotionSFX
+{003eda27-f73d-40a9-82e9-061d64c6212d} event:/SFX/AphroditeWrathLoveChimes
+{9aec4ea2-bd35-49f2-a46d-4730df2d7ad5} event:/SFX/ArcherTrapPreAttackSound
+{584cf1b7-77d2-4896-8a32-dd2908fb40e1} event:/SFX/ArcherTrapProjectileDetonateExplode
+{1569af26-4f41-4375-9273-216102d0d84c} event:/SFX/ArcherTrapProjectileFire
+{085a5f6c-ec7d-4709-8ecc-a494a7e1ffec} event:/SFX/ArcherTrapProjectileFireShoot
+{2df7ef6e-5604-4898-b6bb-1fce306fa6da} event:/SFX/ArcherTrapReloaded
+{c9dc39fe-ebbb-44ca-93e8-f918ff01ced4} event:/SFX/AresBladeSlice
+{b02ad5d4-3394-4a8c-8b3c-be62b63ec5d9} event:/SFX/AresBladeSlice2
+{5807ef26-f418-46c9-ad38-30fd07ca4ed6} event:/SFX/AresBoonBattle
+{76f85030-ddbc-407d-8be8-9d5ef15b2bb8} event:/SFX/AresBoonChoice
+{d43f1ca4-95e6-45e4-b891-c8f00802f48c} event:/SFX/AresWrathBattle
+{9a5bc772-9588-4398-ae78-e0ea3ed51f97} event:/SFX/ArmorIdleSFX
+{d1e7ad6b-913f-434d-a79c-73d79ddcf89e} event:/SFX/ArmorIdleSFX2
+{7eb91c69-7be8-4890-b137-f606b96c7bb0} event:/SFX/ArrowImpactSplatter
+{a44f2d2a-cfc1-4145-89ef-44485815e31e} event:/SFX/ArrowMetalBoneSmash
+{087763e4-2460-43e5-bc81-923016e1bee9} event:/SFX/ArrowMetalStoneClang
+{8b576b63-0491-48aa-9262-3e5143928ff0} event:/SFX/ArrowWallHitClankSmall
+{35fd43ef-e22f-4cdd-bc1c-3704603f39ec} event:/SFX/ArtemisBoonArrow
+{53aeba5e-09a1-4ad4-8434-113120c8df02} event:/SFX/ArtemisBoonChoice
+{a359a014-7ff2-42ba-8e30-f346d804ea58} event:/SFX/ArtemisWrathArrow
+{67ed372f-1749-4e90-a03b-a2adeed8a966} event:/SFX/AsphodelIslandTransitionFinish
+{7a2c95a7-db21-4398-846c-5ea1e78c2305} event:/SFX/AsphodelIslandTransitionLoop
+{619e81b6-ee4e-48a4-b9db-77db9007a665} event:/SFX/AsphodelIslandTransitionStart
+{08e91af2-dd96-4804-a4b1-ed33580c37f7} event:/SFX/AthenaBoonChoice
+{7d6865eb-e1df-4e76-98ab-bdada3b2270f} event:/SFX/AthenaBoonHolyShield
+{a44eb886-7752-4e9c-97b7-cb0c66943ccf} event:/SFX/AthenaWrathHolyShield
+{fb950e21-5324-44ff-9480-1b82a3a53578} event:/SFX/BatFullScreenSFX
+{ecdf3960-7cb6-42e8-87f7-1d8668d92894} event:/SFX/BatGroupLoop
+{ef51186b-ba17-4489-a523-aa441cc772d6} event:/SFX/BatGroupSFX
+{e3b3180d-a8a0-4ab1-abb1-c4a2c1cc42c5} event:/SFX/BatSingleSFX
+{d13ef1eb-a12e-46e4-a764-9ee846224877} event:/SFX/BigDoorOpenQuick
+{4fadab7c-43de-403b-a5d2-5b8380c290d2} event:/SFX/BloodGeyserSplash
+{f19fc63e-44b4-427b-b608-91a807ba1b1f} event:/SFX/BloodMineBeepBasic
+{d20ff9e7-8f09-4772-a62a-755fa17f8d5a} event:/SFX/BloodMineBeepRising
+{08cd9b69-5c7e-4294-b743-4de7394c34e2} event:/SFX/BloodSplashSingle
+{90fb611d-03b0-44da-babf-768ccd957e8a} event:/SFX/BloodshotAmmoAmbienceLoop
+{c5ee1e73-7707-4c18-a959-f2417bbb1fd1} event:/SFX/BloodstoneAmmoDrop
+{45f652bb-1b0f-452e-901a-5251bce01504} event:/SFX/BloodstoneAmmoPickup
+{1a3a7e50-a8ee-498c-8b4e-0c89cb1ea79d} event:/SFX/BloodstoneAmmoRecharged
+{5e9f3edb-506d-49a7-b0b8-947e2c773a59} event:/SFX/BombFusePreExplode
+{c562b4b7-510b-434b-9a8a-e5bc6e12473c} event:/SFX/BurnDamage
+{24f42d3a-3d5b-44a8-8604-14d66957916c} event:/SFX/BurnDamageSizzle
+{84c1cea2-f4db-4cc0-a819-9646d2b01fe2} event:/SFX/CeramicPotSmash
+{50ad2afe-86a5-4ef7-9fd1-9d196c059d56} event:/SFX/CerberusPettingSequence
+{24bbee93-4a25-416f-b8e8-7dd72579239b} event:/SFX/ChainRattleQuiet
+{84cd9e4c-d3d3-4382-b4bd-6bc1250ea38c} event:/SFX/ChallengeChestUnlocked
+{71769b89-af69-4c24-a75c-7ee7f3b7ee3e} event:/SFX/ChallengeChestUnlockedOpen
+{92243bf3-f326-47c2-bc0f-ea55a2f15ad1} event:/SFX/ChaosBloodGateAmbienceLoop
+{19e64bbe-6ba4-4e73-877b-c9191b8acbe6} event:/SFX/ChaosBoonChoice
+{7e5320d6-7560-4bce-80ed-24dd4026bc28} event:/SFX/ChaosShieldSFX
+{dafd64e8-d47b-449f-b449-7279fac8ecba} event:/SFX/CharonMembershipCardDrop
+{19ba9fdf-7227-4eda-bded-2fad4df46e7c} event:/SFX/CharonMembershipCardPickup
+{a2790f1c-0e5d-4b5d-be9e-6024b7356926} event:/SFX/CharonOarImpact
+{b7762ec9-0ce2-43b5-8dc6-3d759531c7f6} event:/SFX/ChefGhostChopping
+{9356275a-160f-4970-95d6-34fd5a5d566b} event:/SFX/ChefGhostFoodScrape
+{30a42eb5-30b2-482b-998e-ad7416d27fd6} event:/SFX/ChefGhostFourChops
+{242573c4-828a-4c87-b7ad-52d628ba1639} event:/SFX/ChefGhostKnifeTwirl
+{fda1dac2-ad87-499a-8356-fa2f68e11770} event:/SFX/ChefGhostOnionLand
+{952c51ad-42e2-47e4-8124-2eec08485332} event:/SFX/ChefGhostOnionSpawn
+{9e56356c-2b28-487c-8b7c-68a1ac744ae3} event:/SFX/ChefGhostSwipe1
+{1b22242d-abcd-46e3-8904-803211e9e995} event:/SFX/ChefGhostSwipeDown
+{2e3e6ff3-6846-4c0b-8c8a-48988b10179f} event:/SFX/ChefGhostSwipeUp
+{17c04606-fd75-4941-9edf-d81c131da167} event:/SFX/ChestUnlockedAmbientLoop
+{8ebcabf3-2829-4ac8-ad16-38043a4d1609} event:/SFX/CrappyRewardDrop
+{379101e6-a2b5-490d-9288-aef105b208bb} event:/SFX/CrappyRewardPickup
+{aa2b3bd2-a862-4599-ab99-70af9ac4ad50} event:/SFX/CriticalHit
+{b7cf6d6c-06bc-4ff6-8672-c3b0157d5233} event:/SFX/CrystalPieceBreak
+{e116ddf6-1029-44e4-9f6f-d994a914177c} event:/SFX/DarknessObjectAmbienceLoop
+{7107dd01-fd1f-4228-9e1f-78cc065f318a} event:/SFX/DartTrapEmitterActivateSlide
+{e09091c7-6df8-45ef-8cc0-3a2e40b27ffc} event:/SFX/DartTrapEmitterDeactivateSlam
+{21e0cfd7-2bdf-4707-92a6-b2a991ee498b} event:/SFX/DeathBoatMoveStart
+{9a047fe2-1fb7-4293-b8de-ecdf2fb537ee} event:/SFX/DeathDefianceActivate
+{4ace3275-97ba-4e51-acd6-a816eee35244} event:/SFX/DemeterBoonFrost
+{be44fd69-d343-4b00-ad53-e8977342f2d4} event:/SFX/DemeterEnemyFreezeShatter
+{44162042-44b9-4d01-aa02-e73ee1648b5d} event:/SFX/DemeterWrathBlizzard
+{8097d33c-2dfe-40aa-8cc1-d6771f972fa1} event:/SFX/DionysusBoonChoice
+{5df3fd46-24f5-47b4-b717-799638719248} event:/SFX/DionysusBoonWineLaugh
+{93dc61c8-07c0-4040-86e3-72d5955ad7bf} event:/SFX/DionysusLobDevotionRingLoop
+{c0900f02-5847-4754-b8a0-835538fb6374} event:/SFX/DionysusWrathWineLaugh
+{cea488ba-2d56-432a-9adc-d150a888447b} event:/SFX/DoorCloseSlamDown
+{1b2d5e22-6a64-4a6e-bef1-a5f92b1ba2e5} event:/SFX/DoorCrystalGlassBallBreak
+{c1d391bc-4c0d-48ba-802a-87971f17f04c} event:/SFX/DusaHiss
+{051641e2-3027-4c21-afc5-9fecf6fd088d} event:/SFX/DusaRattle
+{50b2ecc7-2d1f-46d8-b0e1-040095b975ec} event:/SFX/DusaRattleIntense
+{2e2407e7-3fa9-4bbb-9fa8-1d1be22d15a6} event:/SFX/Dusa_EmoteAttacking
+{4c677236-4202-4f99-a582-a5b99c5afb11} event:/SFX/Dusa_EmoteHissing
+{5a10af8c-c3ab-47fb-9779-b000a6f2f6b8} event:/SFX/Dusa_EmotePowerAttacking
+{fa10a71d-e583-4655-ab2a-16b6dffd6309} event:/SFX/DustTouchdownPuff
+{a73edf00-8efa-42dd-9715-3eba8c99422c} event:/SFX/ElysiumDoorClose
+{8bffe897-056e-4287-9042-a012557cd14e} event:/SFX/ElysiumDoorOpen
+{41c514b5-dd09-4486-a0db-d8c36bd31f75} event:/SFX/Enemy Sounds/Alecto/AlectoRageGatherLoop
+{eaa53ba3-4e13-4cfc-9802-cedbc646d9d8} event:/SFX/Enemy Sounds/Alecto/AlectoThrowLoop
+{ad1b3690-b564-40cd-b341-eb38136181cf} event:/SFX/Enemy Sounds/Alecto/EmoteAttacking
+{b6ee2bd0-59b6-464b-8815-2d34b86fffbd} event:/SFX/Enemy Sounds/Alecto/EmoteCharging
+{93b004b8-df86-4cf4-b8bf-956d09dffa1b} event:/SFX/Enemy Sounds/Alecto/EmoteChuckle
+{d12afd4f-edb6-47cc-8199-31c0598d97a5} event:/SFX/Enemy Sounds/Alecto/EmoteDying
+{408558c4-66ba-45a2-9238-fc9f007939b7} event:/SFX/Enemy Sounds/Alecto/EmoteEvading
+{833f496c-d352-40cd-88af-0a31bc10926e} event:/SFX/Enemy Sounds/Alecto/EmoteHurt
+{b2280f6f-fb7c-41a6-ad59-93f76b2f8eef} event:/SFX/Enemy Sounds/Alecto/EmoteLaugh
+{9e144e9f-4a88-4ba8-8ab3-e8f60d270fa3} event:/SFX/Enemy Sounds/Alecto/EmotePowerAttacking
+{94a67014-7466-41d5-b3ad-6344d74a24ec} event:/SFX/Enemy Sounds/Alecto/EmoteSustainedAttacking
+{5cda2f77-8da7-47f7-b45f-4db90a1537ac} event:/SFX/Enemy Sounds/Alecto/EmoteSustainedAttackingAlt
+{a0ab4c2a-bb73-49af-814c-bf798db02659} event:/SFX/Enemy Sounds/BloodWhirlpool
+{62f71dc4-e412-43dc-9e29-4a0195d95132} event:/SFX/Enemy Sounds/Bloodless01/EmoteAlerted
+{03eb1f49-ff5f-4c1a-8358-bd71b3d7d16a} event:/SFX/Enemy Sounds/Bloodless01/EmoteAttacking
+{e8e15521-f266-4c2e-a8ee-b044ad2327e3} event:/SFX/Enemy Sounds/Bloodless01/EmoteCharging
+{fff185eb-4030-4477-be3f-de14e81896e1} event:/SFX/Enemy Sounds/Bloodless01/EmoteDying
+{3d894563-64ea-4779-98f8-99c3e4107125} event:/SFX/Enemy Sounds/Bloodless01/EmoteHurt
+{c56897b9-2528-4457-9494-3a23e0f7d611} event:/SFX/Enemy Sounds/Bloodless01/EmoteLaughing
+{615828d3-d56e-4576-982c-92747e0c650c} event:/SFX/Enemy Sounds/Bloodless01/EmoteRangedAttacking
+{0540ced7-a203-4e95-a4fb-67f45fc6cef0} event:/SFX/Enemy Sounds/Bloodless01/EmoteTaunting
+{cc99331a-061d-4cc1-9bc4-2e84d2965b82} event:/SFX/Enemy Sounds/Bloodless01/EmoteThrustAttacking
+{c7820a8f-6675-4b47-8f3f-3342900337b1} event:/SFX/Enemy Sounds/Bloodless02/EmoteAlerted
+{829f3858-d777-450e-91ce-a0968a0b93ae} event:/SFX/Enemy Sounds/Bloodless02/EmoteAttacking
+{cddb3048-f8fa-4930-a60a-6edeced95302} event:/SFX/Enemy Sounds/Bloodless02/EmoteAttackingMultiMortars
+{59a17ed8-b409-4175-8dae-bf4f7446bea2} event:/SFX/Enemy Sounds/Bloodless02/EmoteCharging
+{70b6b433-36a2-43df-a1c4-80861b79ccb9} event:/SFX/Enemy Sounds/Bloodless02/EmoteDying
+{56a14a22-c853-4f59-aaf6-dd55046325f4} event:/SFX/Enemy Sounds/Bloodless02/EmoteHurt
+{03e60101-7125-4457-8831-805ca98cb448} event:/SFX/Enemy Sounds/Bloodless02/EmoteLaughing
+{085403a1-3694-43cc-9c91-1801a3dac969} event:/SFX/Enemy Sounds/Bloodless02/EmoteRangedAttacking
+{1099392d-59a3-47a2-8e44-3ebdde3ea4b2} event:/SFX/Enemy Sounds/Bloodless02/EmoteTaunting
+{a0ef9135-2542-4012-abc5-b62b0ace6453} event:/SFX/Enemy Sounds/Bloodless02/EmoteThrustAttacking
+{08d4475a-86d4-41c8-bf67-3cc55555b1be} event:/SFX/Enemy Sounds/BloodlessBerserker/EmoteAlerted
+{e5b02472-49a7-4f4f-bcc0-3ea77d8e9edf} event:/SFX/Enemy Sounds/BloodlessBerserker/EmoteAttacking
+{a9f32015-9a68-46a9-958e-29136827f2b8} event:/SFX/Enemy Sounds/BloodlessBerserker/EmoteDying
+{9b346359-8913-40dc-b01e-a85834d5abb7} event:/SFX/Enemy Sounds/BloodlessBerserker/EmoteHurt
+{7859a807-bce7-4951-a006-49fddbeb0cc7} event:/SFX/Enemy Sounds/BloodlessBerserker/EmoteTaunting
+{f5463c89-65fe-4f0a-9b32-5f4d23c1d273} event:/SFX/Enemy Sounds/BloodlessPitcher/EmoteCurveBall
+{71d7c3fb-273e-4c20-b7e7-e2bb4d176c14} event:/SFX/Enemy Sounds/BloodlessPitcher/EmoteFastBall
+{46f4b849-c878-4907-8f93-14012f411348} event:/SFX/Enemy Sounds/BloodlessWaveAmbienceLoop
+{5bff23d0-8dac-46d7-a57c-b5dcd85f2aeb} event:/SFX/Enemy Sounds/BloodlessWaveFist/EmoteWaveFistAttack
+{3fbd979f-80f3-432e-b95f-29404d5862e9} event:/SFX/Enemy Sounds/BloodlessWaveFist/EmoteWaveFistCharge
+{63ec8a0d-2a24-4866-a4b4-dada42544e77} event:/SFX/Enemy Sounds/Brimstone/CrystalAggro
+{44084637-957f-43be-a587-ab5f070d890a} event:/SFX/Enemy Sounds/Brimstone/CrystalBeamAttackLoop
+{6a88822a-723d-4ae3-90a8-302d72dfe6f4} event:/SFX/Enemy Sounds/Brimstone/CrystalBeamAttackLoopBig
+{ff88fb75-81c0-4016-99c6-34099776d157} event:/SFX/Enemy Sounds/Brimstone/CrystalBeamFireStart
+{a4f0aaf8-6ce7-4190-bfdb-d70276021d3f} event:/SFX/Enemy Sounds/Brimstone/CrystalBeamPreAttack
+{9df7ec1a-bc59-4c6d-b713-c761007b785c} event:/SFX/Enemy Sounds/Brimstone/CrystalDestroyed
+{e026bb57-46cf-43a6-8b73-38425518e9fc} event:/SFX/Enemy Sounds/Brimstone/CrystalTargetAcquired
+{0fbdc83c-6764-49cd-80c7-48c1a6411e1f} event:/SFX/Enemy Sounds/Brimstone/ShieldCrystalAggro
+{d3410ca2-4505-4dde-bed0-49aed620360b} event:/SFX/Enemy Sounds/ButterflyDeathSFX
+{2fe0c6a9-efea-4c23-9e30-8083db2ebea9} event:/SFX/Enemy Sounds/Caster/EmoteAlerted
+{ea9ffb30-389f-4b45-a97a-ac29fac2225d} event:/SFX/Enemy Sounds/Caster/EmoteAttacking
+{5826919d-0435-420a-bf3a-e5b299ce42a7} event:/SFX/Enemy Sounds/Caster/EmoteCharging
+{1e25bbdc-4ab3-4873-8f92-2e61238d4c15} event:/SFX/Enemy Sounds/Caster/EmoteDying
+{c9ba861b-041f-4ded-afcb-8ba2cb2bc37b} event:/SFX/Enemy Sounds/Caster/EmoteGrenadeAttacking
+{3096246a-3459-40ca-b273-233c77977c1e} event:/SFX/Enemy Sounds/Caster/EmoteHurt
+{c3d78f45-03d2-43f1-a787-a117ac8b13f6} event:/SFX/Enemy Sounds/Caster/EmoteTaunting
+{d6a70a03-3657-45b6-8e3a-c9e899d4e1dc} event:/SFX/Enemy Sounds/Chariot/ChariotAggro
+{53e7d928-f33f-49f5-9420-6ecb4dd7aa7b} event:/SFX/Enemy Sounds/Chariot/ChariotAttackStart
+{347d34e5-1fb9-4483-bf59-6c8bef28d74c} event:/SFX/Enemy Sounds/Chariot/ChariotDeath
+{9c7f490c-6a49-4b95-836a-d67491f6e333} event:/SFX/Enemy Sounds/Chariot/ChariotFastMoveLoop
+{0c9997af-255b-4631-99f4-52a3acbbd08d} event:/SFX/Enemy Sounds/Chariot/ChariotIdle
+{5c5b72da-2aee-400c-a51a-ffb4419010bc} event:/SFX/Enemy Sounds/Chariot/ChariotImpact
+{3b1c65e7-71d1-458b-acb7-fc38405e7144} event:/SFX/Enemy Sounds/Chariot/ChariotSlowMoveLoop
+{9c2518ca-95e8-4717-8d3d-fd0a17852e8f} event:/SFX/Enemy Sounds/Charon/CharonBigSwipe1
+{01a3ce46-5c92-4994-8a73-7977cbb61126} event:/SFX/Enemy Sounds/Charon/CharonBigSwipe2
+{8fc39666-ff03-4a1c-bd62-f889c96b80dd} event:/SFX/Enemy Sounds/Charon/CharonGhostAttackStart
+{023887c6-f5c1-451c-97f7-f18be6a05495} event:/SFX/Enemy Sounds/Charon/CharonGhostLoop
+{3d760e8e-b40e-4496-80c6-c354fbf56598} event:/SFX/Enemy Sounds/Charon/CharonGroundBlastFire
+{f086e679-a63a-40c5-a233-9de7535cfc4a} event:/SFX/Enemy Sounds/Charon/CharonGroundProjectileLoop
+{41b4bbc4-0832-4509-b884-91b08c53be4d} event:/SFX/Enemy Sounds/Charon/CharonOarSpinWhoosh
+{6f4bd3b2-e32a-4d04-9ff2-3cef61b4fab0} event:/SFX/Enemy Sounds/Charon/CharonPillarExplode
+{69958d41-e960-4991-8a90-d714aad0c252} event:/SFX/Enemy Sounds/Charon/CharonRadialBlast
+{1e33f1f1-561c-4435-858f-a89a328cb8b4} event:/SFX/Enemy Sounds/Charon/EmoteAttacking
+{baed62ce-2e64-4aad-8f4e-8a0ecec0d5d6} event:/SFX/Enemy Sounds/Charon/EmoteCasting
+{460235e2-7b34-47a6-bf81-ec15e3207400} event:/SFX/Enemy Sounds/Charon/EmoteHurt
+{ee0b5924-66b2-42de-9894-ec4e82daeab9} event:/SFX/Enemy Sounds/Charon/EmotePowerAttacking
+{6b849f55-e233-4706-89da-aefdc8cb6f29} event:/SFX/Enemy Sounds/Crawler/CrawlerClawLoop
+{e4c766cd-f196-473d-b9f6-7d3d25657565} event:/SFX/Enemy Sounds/Crawler/CrawlerMinibossRoar
+{566fbf6f-8ccf-4d62-aa0a-3e8699d6238d} event:/SFX/Enemy Sounds/Crawler/CrawlerSpawnLoop
+{64eb7ebb-3b46-48e4-b105-71dcb820cc20} event:/SFX/Enemy Sounds/Crawler/EmoteAlerted
+{76afe50e-27b0-46dd-b072-cd908335dd63} event:/SFX/Enemy Sounds/Crawler/EmoteAttacking
+{1c37e906-fddf-4cfb-847e-95713b158b91} event:/SFX/Enemy Sounds/Crawler/EmoteDying
+{41765688-54f1-46cc-830d-4d4c1865a9ba} event:/SFX/Enemy Sounds/Crusher/EmoteAlerted
+{3fd2bae9-4dd6-4b69-8d07-a6ad46e392ec} event:/SFX/Enemy Sounds/Crusher/EmoteAttacking
+{1fc8966e-449e-4629-98ba-8ff3774fef4e} event:/SFX/Enemy Sounds/Crusher/EmoteCharging
+{ef9931ab-5526-4e50-ae07-0c8441d00a9c} event:/SFX/Enemy Sounds/Crusher/EmoteDying
+{3305c2b8-61bf-4230-80e7-b84ef077808f} event:/SFX/Enemy Sounds/Crusher/EmoteHurt
+{1df17c43-bf05-4adb-974c-6abbdd38a52c} event:/SFX/Enemy Sounds/Crusher/EmoteJumping
+{beefbfcd-f9eb-476a-95d2-53a300a60e54} event:/SFX/Enemy Sounds/Crusher/EmoteTaunting
+{f14bd532-e0c6-45f6-8d94-431c67768d4b} event:/SFX/Enemy Sounds/CrusherAttackImpact
+{5fa02574-0be2-4a70-b968-dd50e376e541} event:/SFX/Enemy Sounds/EnemyActivationSpawnSeal
+{5c656b03-fa7d-434e-87f3-835fa78e2fb9} event:/SFX/Enemy Sounds/EnemyActivationSpawnSealMedium
+{90a9ca84-889f-445e-94a7-9c9fad23ac34} event:/SFX/Enemy Sounds/EnemyActivationSpawnSealSmall
+{343fb2c0-d7cb-42c4-8cab-b5613822dbf2} event:/SFX/Enemy Sounds/EnemyDeathCloudFwoosh
+{8afe4708-9285-40e9-827c-c4d05bce1912} event:/SFX/Enemy Sounds/EnemyDeathExplode
+{36f258d6-1a4e-435b-b3f0-a13100fc5f58} event:/SFX/Enemy Sounds/EnemyDropInWhoosh
+{400427c0-869b-4bc4-b2ef-30b53896a1ec} event:/SFX/Enemy Sounds/EnemyGrenadeMortarLand
+{4c650815-7510-491a-810f-444575c90a1b} event:/SFX/Enemy Sounds/EnemyGrenadeMortarLaunch
+{bde1f51a-304b-45ee-a8d9-cfadbb7f22bf} event:/SFX/Enemy Sounds/EnemyProjectileAmbientBig
+{802e79f1-0d53-4db1-b0b2-382a6e2e4ed1} event:/SFX/Enemy Sounds/EnemyProjectileAmbientLoop
+{d77ec8bb-908b-4396-8dee-6a31e81a622b} event:/SFX/Enemy Sounds/EnemyProjectileDetonateExplode
+{ec4bcf4f-312f-4c68-9477-f70e4b830953} event:/SFX/Enemy Sounds/Exalted/EmoteAlertedBow
+{65914b23-43cc-43e3-b712-221bbcdea672} event:/SFX/Enemy Sounds/Exalted/EmoteAlertedShield
+{f6d6627e-260d-41a9-aed8-3f9a97d91a18} event:/SFX/Enemy Sounds/Exalted/EmoteAlertedSpear
+{dabbc3c8-f723-4ca5-8747-d6b07372e9c8} event:/SFX/Enemy Sounds/Exalted/EmoteAlertedSword
+{9a60f1fa-72a0-4e2d-bbd7-dce2616ec0aa} event:/SFX/Enemy Sounds/Exalted/EmoteAttackingBow
+{62b88dd1-8631-4a13-9b00-171806a6f409} event:/SFX/Enemy Sounds/Exalted/EmoteAttackingShield
+{13dd2929-01be-459c-b642-78a5d6660b68} event:/SFX/Enemy Sounds/Exalted/EmoteAttackingSpear
+{6c3646ce-cb33-40cf-abf6-37d26def8be6} event:/SFX/Enemy Sounds/Exalted/EmoteAttackingSword
+{51e0e382-4484-41d3-9adb-dd576a6f5955} event:/SFX/Enemy Sounds/Exalted/EmoteCharging
+{a88cb4e8-bb85-4812-adeb-ffb381daeb74} event:/SFX/Enemy Sounds/Exalted/EmoteChuckle
+{dd3f8654-b1f5-4df6-b81f-de0c07bd0c64} event:/SFX/Enemy Sounds/Exalted/EmoteDestroyed
+{e79f9b92-d9f0-4b77-b0c4-03ec7abfe1eb} event:/SFX/Enemy Sounds/Exalted/EmoteDying
+{0cbaa422-e414-4bd7-9be5-5d0798360aa0} event:/SFX/Enemy Sounds/Exalted/EmoteEvading
+{216255ec-8acd-470d-aee6-8175dbed2793} event:/SFX/Enemy Sounds/Exalted/EmoteHurt
+{2800edb2-a31c-4b4c-8c5e-d4792c427a4c} event:/SFX/Enemy Sounds/Exalted/EmotePowerAttackingBow
+{226e4bec-7b2d-44bf-97d8-c4970c0c0483} event:/SFX/Enemy Sounds/Exalted/EmotePowerAttackingShield
+{cdd529b8-4b9d-44aa-b52b-5cd3c934db40} event:/SFX/Enemy Sounds/Exalted/EmotePowerAttackingSpear
+{bebaab7f-9ee0-449d-ab86-e740fd18bab9} event:/SFX/Enemy Sounds/Exalted/EmotePowerAttackingSword
+{6d40cb08-772d-4f77-aff4-4d1ff74e9ed3} event:/SFX/Enemy Sounds/Exalted/EmoteRespawning
+{2e18a3db-f307-4689-821b-d25ce3186ead} event:/SFX/Enemy Sounds/Exalted/EmoteTauntingBow
+{50588c8f-7ac6-4731-b0da-396cbf20f319} event:/SFX/Enemy Sounds/Exalted/EmoteTauntingShield
+{c1e08b29-5bf9-44d1-96d4-408850c7178b} event:/SFX/Enemy Sounds/Exalted/EmoteTauntingSpear
+{b2ec19ae-fc03-43b0-b7e8-46799f9f2ae3} event:/SFX/Enemy Sounds/Exalted/EmoteTauntingSword
+{782be81c-e8a8-4820-aeb2-0505dc75b3b3} event:/SFX/Enemy Sounds/Exalted/EnemyShieldBlock
+{fc33eb56-9f89-4c06-bfa0-d51af4104663} event:/SFX/Enemy Sounds/Exalted/ExaltedBowDrawChargeup
+{245e5581-6d86-443f-bfad-4953e62056ec} event:/SFX/Enemy Sounds/Exalted/ExaltedDash
+{d517e934-9bdf-4701-9787-a7e0263b3c42} event:/SFX/Enemy Sounds/Exalted/ExaltedPreAttackFlashSoundBow
+{392cee24-5800-4558-a91f-0053ea947704} event:/SFX/Enemy Sounds/Exalted/ExaltedShieldAttackCharge
+{dd47772d-0a32-46fd-b5a6-6c7d3dd47a30} event:/SFX/Enemy Sounds/Exalted/NakedShadeAmbientLoop
+{d4c71881-f1ba-44dd-8d65-833222a5fa6d} event:/SFX/Enemy Sounds/Exalted/NakedShadeRespawned
+{29dcc5ba-2afc-499e-8505-2feb5e5aecb0} event:/SFX/Enemy Sounds/FireChariot/FireChariotAggro
+{892dbde9-8cdd-4d12-90db-7fbb5f892d1f} event:/SFX/Enemy Sounds/FireChariot/FireChariotAttackStart
+{d67930f2-af8f-4abf-b39a-d930b131c249} event:/SFX/Enemy Sounds/FireChariot/FireChariotDeath
+{79e53043-05f3-4f1c-a72d-2ea32df11ed8} event:/SFX/Enemy Sounds/FireChariot/FireChariotFastMoveLoop
+{f40f1fa4-3e24-44d8-a030-abf83c89efb1} event:/SFX/Enemy Sounds/FireChariot/FireChariotIdle
+{762a1cea-2c2c-43df-9e8a-8ad604bae01c} event:/SFX/Enemy Sounds/FireChariot/FireChariotImpact
+{258d0381-ea71-41dd-a586-5ce1ab20baef} event:/SFX/Enemy Sounds/FireChariot/FireChariotSlowMoveLoop
+{b94d1935-367e-4b0e-bd2d-bd5ed4e42f21} event:/SFX/Enemy Sounds/FistMagnetismVacuumStatusFX
+{c440f7b1-4108-4e5a-a99f-bc27e3855343} event:/SFX/Enemy Sounds/FlurrySpawnerAmbientLoopSFX
+{e7ba9984-0e40-473c-aa17-7c32f5bb54c7} event:/SFX/Enemy Sounds/FlurrySpawnerDeathSFX
+{6b0f8b64-f8d1-4b0d-b5b8-4f3fc5dda0cf} event:/SFX/Enemy Sounds/FlurrySpawnerFireSFX
+{76bc9097-27ad-4174-877b-833c4d8f9221} event:/SFX/Enemy Sounds/FlurrySpawnerPreAttack
+{4fb50ae8-0488-42f5-a0dc-ac2480376f9d} event:/SFX/Enemy Sounds/FreezeShotAmbientLoop
+{bb5d92d3-adec-4648-9303-2d0e7e854edd} event:/SFX/Enemy Sounds/FreezeShotWeaponFire
+{62e46ea9-fb2c-41ef-a020-f226dc377a75} event:/SFX/Enemy Sounds/Hades/CerberusSummonCanned
+{2fd165a5-76ff-434b-8a4b-1d7e2ddf3a39} event:/SFX/Enemy Sounds/Hades/EmoteAttacking
+{9671b668-03fa-400e-a92b-c44c205056b1} event:/SFX/Enemy Sounds/Hades/EmoteCharging
+{397a78d5-f3dd-46ad-9169-50c1f9ec9fae} event:/SFX/Enemy Sounds/Hades/EmoteChuckle
+{95ba448c-8b50-4e45-8b1d-53caf1ba898f} event:/SFX/Enemy Sounds/Hades/EmoteDying
+{d72347b7-3fdd-4510-b47a-ec809055e240} event:/SFX/Enemy Sounds/Hades/EmoteEvading
+{c4d78ff0-f63b-4e42-b2b1-da742257978f} event:/SFX/Enemy Sounds/Hades/EmoteHurt
+{d0af443a-091d-4149-b15d-f12ec26668df} event:/SFX/Enemy Sounds/Hades/EmoteLaugh
+{30535305-57ea-466e-9315-713fe54d06ec} event:/SFX/Enemy Sounds/Hades/EmotePowerAttacking
+{3346e9e1-7976-443d-9b2b-96e4df8f4f83} event:/SFX/Enemy Sounds/Hades/EmotePowerAttacking2
+{74c1ba69-0c70-489c-85e9-a792a9aa9dde} event:/SFX/Enemy Sounds/Hades/EmotePoweringUp
+{d175ceed-e1ca-4e07-bed5-6355115f6e30} event:/SFX/Enemy Sounds/Hades/EmoteRanged
+{0e98c04e-9ad5-414f-8cc0-11d3ba6fdd82} event:/SFX/Enemy Sounds/Hades/EmoteRangedSustained
+{4c17e66c-5e6a-4d2b-8989-28e833587562} event:/SFX/Enemy Sounds/Hades/EmoteSpearThrow
+{0d6ad69a-8771-48b9-b845-30cc3420de1a} event:/SFX/Enemy Sounds/Hades/EmoteStaggered
+{08a61de4-407c-4c1e-99b3-22a8d13c8819} event:/SFX/Enemy Sounds/Hades/EmoteSuperDash
+{bdf7520b-f71a-47d1-bf2d-35275e7d54d7} event:/SFX/Enemy Sounds/Hades/Hades360Swipe
+{d51f1648-099a-4121-ab1b-951ba984a7e9} event:/SFX/Enemy Sounds/Hades/HadesAmmoExitPoof
+{1d07119b-ace0-422a-ace6-4ff6f7fc8287} event:/SFX/Enemy Sounds/Hades/HadesBloodPoolSink
+{ca21f9c1-a76a-4454-b01a-3eed2a0941b8} event:/SFX/Enemy Sounds/Hades/HadesCapeBurnLayer2
+{8169510c-7ae1-4778-b3b3-a373012233e3} event:/SFX/Enemy Sounds/Hades/HadesCapeBurnPresentation
+{f8277539-d9aa-4334-b7a8-085af9ebf8d5} event:/SFX/Enemy Sounds/Hades/HadesCollapse
+{ba3bb6e0-1eef-4f9f-99cb-698aa035466c} event:/SFX/Enemy Sounds/Hades/HadesCollapseSpearDrop
+{a07409b2-b824-4f62-a1c6-1ee9c1ccd417} event:/SFX/Enemy Sounds/Hades/HadesDash
+{8b0781c4-61e4-4c34-998f-7080be016d23} event:/SFX/Enemy Sounds/Hades/HadesFireSkullImpact
+{fbf69f9a-9662-4fa3-a491-2fce33ffebfe} event:/SFX/Enemy Sounds/Hades/HadesHealingLoop
+{cfa7ad97-7d40-4a7c-9eca-e59751b7435f} event:/SFX/Enemy Sounds/Hades/HadesHealingTick
+{1cacec5e-eb75-44bf-a211-03ac878319ab} event:/SFX/Enemy Sounds/Hades/HadesLaserBlastChargeUp
+{132819d0-5942-41b6-9ad5-48d0dee0cc6e} event:/SFX/Enemy Sounds/Hades/HadesLaserBlastLoop
+{077d6b10-6ebe-43e0-ad0c-feb8e1b09a9d} event:/SFX/Enemy Sounds/Hades/HadesLaserBlastLoop2
+{6817082c-9200-4d46-bd7f-751ab58b460a} event:/SFX/Enemy Sounds/Hades/HadesLaserSpin
+{105dc6bd-16d0-436b-a0c9-be0fca02a89d} event:/SFX/Enemy Sounds/Hades/HadesLaserSpin2
+{a2df2c52-e6f5-49c3-bef1-b26157a0ac4f} event:/SFX/Enemy Sounds/Hades/HadesLaserSpin3
+{ff55590b-1842-4579-8c3b-cf356211ecca} event:/SFX/Enemy Sounds/Hades/HadesLostSoulHandsLoop
+{28f625e0-d202-4060-97ca-f877d8322af9} event:/SFX/Enemy Sounds/Hades/HadesLostSoulHandsShort
+{9abfaa1b-410d-4ab8-afe0-9fa9704e16a9} event:/SFX/Enemy Sounds/Hades/HadesPhase2Start
+{865c43a1-c0e7-4f92-8c63-f2c3b4e7d543} event:/SFX/Enemy Sounds/Hades/HadesRangedPreAttack
+{88e88264-dd3f-4a13-8e6f-d671ae99ba9c} event:/SFX/Enemy Sounds/Hades/HadesReappear
+{ad182645-9f29-4b56-a797-e46640340874} event:/SFX/Enemy Sounds/Hades/HadesSkullExplode
+{c0f8a621-a98b-4dc5-89ad-921dda5046ad} event:/SFX/Enemy Sounds/Hades/HadesSkullIdleLoop
+{c3bc27df-7ffc-43f2-b90d-07c835725037} event:/SFX/Enemy Sounds/Hades/HadesSkullLaunchAndLoop
+{fd6d776b-41e9-422f-82d8-92c1ff54b2d0} event:/SFX/Enemy Sounds/Hades/HadesSkullPreAttack
+{84b1e1e5-3ea5-448e-bf71-748b8b76dc49} event:/SFX/Enemy Sounds/Hades/HadesSmokeDisappear
+{eef1d35c-e671-4760-af9d-12a685589def} event:/SFX/Enemy Sounds/Hades/HadesSpearEmerge
+{74f1d617-6de8-4cc3-aebf-df85c8ace56b} event:/SFX/Enemy Sounds/Hades/HadesSpearStab
+{d28e4a7f-dce4-49e3-bab1-33ba47a503e0} event:/SFX/Enemy Sounds/Hades/HadesSummonPresentation
+{24f1d886-2553-4bd6-b243-0531d94e3ea5} event:/SFX/Enemy Sounds/Hades/HadesSummonPresentation2
+{4983c932-178d-40e1-9f45-21935ee51d8e} event:/SFX/Enemy Sounds/Hades/ZagSmokeDisappear
+{afc95fc1-632e-4026-b3af-c613966b52df} event:/SFX/Enemy Sounds/HeavyMelee/EmoteAlerted
+{f57f6f35-8490-46ea-a5d2-230d6238030b} event:/SFX/Enemy Sounds/HeavyMelee/EmoteAttacking
+{2e9c97dd-1cf7-4320-a194-49bfc7766192} event:/SFX/Enemy Sounds/HeavyMelee/EmoteCharging
+{089d3ec2-7dbf-46a1-9078-715c604fa2b0} event:/SFX/Enemy Sounds/HeavyMelee/EmoteDying
+{7adde05e-af45-477c-ae3c-a5184621529a} event:/SFX/Enemy Sounds/HeavyMelee/EmoteHurt
+{374ea52d-c3ac-417e-906e-424a9769fb61} event:/SFX/Enemy Sounds/HeavyMelee/EmoteTaunting
+{e8d4f381-33be-4a2d-9e79-e4b046718626} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalAggro
+{12a7a054-756b-4263-bc0e-627979e888d7} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalBeamAttackLoop
+{2f4a1085-92a5-462f-8bdb-d91fa84297c9} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalBeamFireStart
+{914935be-dc57-4d46-a7bb-09868a14c3ca} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalBeamPreAttack
+{54dc22c6-aeda-4b42-b8c2-f6b5578397ce} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalDestroyed
+{5b260cd9-2dee-4004-bb03-c8bae2b8c7ca} event:/SFX/Enemy Sounds/HeavyRangedForked/CrystalTargetAcquired
+{c74d9e2e-0346-44e3-a56a-4774f9a2811c} event:/SFX/Enemy Sounds/HeavyRangedSplitterFragment/CrystalAggroSMALL
+{49e0ceea-852e-409c-8dfc-0bf6074932ef} event:/SFX/Enemy Sounds/HeavyRangedSplitterFragment/CrystalDestroyedSMALL
+{451fd55b-ede4-4537-9e8f-9ed3d66328a9} event:/SFX/Enemy Sounds/HeavyRangedSplitterFragment/CrystalTargetAcquiredSMALL
+{38543bea-01cc-4613-9572-c279f88473f9} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/CrystalBeamAttackLoopBIG
+{ace53bfe-ed00-4a6f-9627-03009de9de03} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/CrystalBeamFireStartBIG
+{b5ec2cf6-33bd-4c0e-8f84-ffca6ec695c7} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/CrystalBeamPreAttackBIG
+{b4fed2d3-046f-4b06-82a1-473b55250c4f} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/CrystalDestroyedBIG
+{4156bc0b-9211-44c5-b740-5097a83bd5e3} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/EmoteAlerted
+{601ecae8-e8fa-4355-97f2-71d2c3d8a68a} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/EmoteAlerted2
+{e9a22c16-d2a1-4e7f-8ce8-973906ce7e86} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/EmoteDying
+{287073f2-2c53-4128-9d5d-506ef5afd345} event:/SFX/Enemy Sounds/HeavyRangedSplitterMiniboss/EmoteHurt
+{711f1a21-c278-4fb8-829d-7394ebefccb9} event:/SFX/Enemy Sounds/HydraHead/EmoteAlerted
+{29c3b759-1d56-48d5-801f-ca50a63ac984} event:/SFX/Enemy Sounds/HydraHead/EmoteAlertedLavaPop
+{271f5c9c-c576-40ec-b040-ceb14dd2c254} event:/SFX/Enemy Sounds/HydraHead/EmoteAttacking
+{32743557-dd7e-4aef-9283-76f3d6e3bace} event:/SFX/Enemy Sounds/HydraHead/EmoteAttackingWithBones
+{9395769e-09fd-4f08-b298-0db09c42a4e0} event:/SFX/Enemy Sounds/HydraHead/EmoteDying
+{085afd55-e388-48df-890f-4e9cfa748a01} event:/SFX/Enemy Sounds/HydraHead/EmoteFinalDying1
+{db449023-d5e7-47b5-a75e-e4ba995894ee} event:/SFX/Enemy Sounds/HydraHead/EmoteFinalDying2
+{41395e0b-cd9e-455e-9bc4-1e8b66b92641} event:/SFX/Enemy Sounds/HydraHead/EmoteHurt
+{104ac8d1-ea33-4f86-ba3c-6ba85b276af3} event:/SFX/Enemy Sounds/HydraHead/EmoteRangedAttacking
+{2571df35-8bd3-448f-acbd-e9798b3c6581} event:/SFX/Enemy Sounds/HydraHead/HydraBoneClack1
+{575262f4-8186-4fa6-a9b8-3a27f4137522} event:/SFX/Enemy Sounds/HydraHead/HydraBoneClack2
+{17162d26-30e4-4827-bf93-d20a2aea01ae} event:/SFX/Enemy Sounds/HydraHead/HydraBoneClack3
+{3c90e663-5ec9-4665-a62f-52da20aa4638} event:/SFX/Enemy Sounds/HydraHead/HydraBoneCrunch
+{b20ac245-dacc-4815-b909-554b32a3f42b} event:/SFX/Enemy Sounds/HydraHead/HydraEggHatch
+{c2330533-84d7-4b22-9721-6fb3380a2823} event:/SFX/Enemy Sounds/HydraHead/HydraEggLandSplat
+{18778c86-54af-4ced-978b-24cfe49f1ca9} event:/SFX/Enemy Sounds/HydraHead/HydraEggPreSpawn
+{e7e6c7c4-a4e7-4135-8e36-061b6143536c} event:/SFX/Enemy Sounds/HydraHead/HydraEggSpit
+{d979a24d-1817-448e-b22b-aa2ffe8b3d9b} event:/SFX/Enemy Sounds/HydraHead/HydraGroundPound
+{950df35d-7a73-429c-8da4-bd67779e159b} event:/SFX/Enemy Sounds/HydraHead/HydraIntroHissRattle
+{acabcc14-c54a-43ab-b08c-a7f2bc300c0a} event:/SFX/Enemy Sounds/HydraHead/HydraMiscBoneRattle1
+{7e443c2f-b32f-4681-bb2c-062a2ee4d9e3} event:/SFX/Enemy Sounds/HydraHead/HydraMiscBoneRattle2
+{c972c054-c0ae-45fc-bfd7-1a53df9a0bf5} event:/SFX/Enemy Sounds/HydraHead/HydraMiscBoneRattle3
+{bd06bb73-77cd-43ac-831f-901ae5d46cbd} event:/SFX/Enemy Sounds/HydraHead/HydraPreAttackRattle
+{7850c8be-d0a5-47f2-af4c-0c40124f965d} event:/SFX/Enemy Sounds/HydraHead/HydraRangedAttackStart
+{90b21d96-15c9-4b1e-9620-604f2730a6df} event:/SFX/Enemy Sounds/HydraHead/HydraSlowShoot
+{bae4e56b-de1d-4e9f-b2f5-38f34f0c9379} event:/SFX/Enemy Sounds/HydraHead/HydraSpawnLava
+{0a2318d5-79b7-4fd0-81fe-63ce495b231f} event:/SFX/Enemy Sounds/HydraHead/HydraSpawnRattle
+{7cd83631-753c-4c5c-bbf4-1a540f17a707} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteAlerted
+{93227278-48c6-4e0e-9911-1998396fe9da} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteAttacking
+{339f58b8-5ab4-4ae2-9370-7febfa6d9be6} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteCharging
+{771a94e4-f848-4b6f-b432-233ef2bdc2d7} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteDying
+{e6e57d14-8242-4ca2-be8d-8215eddb7e05} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteHurt
+{499c5fb3-6ec3-4a03-a600-19b781b977c7} event:/SFX/Enemy Sounds/ImpulseMineLayer/EmoteStealing
+{0f267173-28ad-4a83-921b-2ab44faa1c8e} event:/SFX/Enemy Sounds/ImpulseMineLayer/ImpulseMineLayerDrop
+{fc5adb2c-4ee4-4d3c-83f0-fc0a2ec500db} event:/SFX/Enemy Sounds/ImpulseMineLayer/ImpulseMineLayerShake
+{324a8b5e-166b-4e4c-9b7e-f99cc84bbcba} event:/SFX/Enemy Sounds/ImpulseMineLayer/ImpulseMineLobWhoosh
+{4be6528d-5b5b-4c93-8ab9-bc3d9f8c1749} event:/SFX/Enemy Sounds/ImpulseMineLayer/ImpulseMineLobWhooshAscend
+{3b3b4a5c-b174-4076-ace1-f0d970a341fc} event:/SFX/Enemy Sounds/InvincibleProjectileLoop
+{f5e3c004-884c-4654-8ab1-daf92803fdcd} event:/SFX/Enemy Sounds/LightSpawner/EmoteCharging
+{ba9ada78-0d7e-45b6-b8db-8f67f85e2eba} event:/SFX/Enemy Sounds/LightSpawner/EmoteDying
+{6d9dfb70-72c8-403d-96b8-247a1b3540ba} event:/SFX/Enemy Sounds/LightSpawner/EmoteHurt
+{af456582-c40b-428f-b9e8-433b91103889} event:/SFX/Enemy Sounds/LuciferBombLoop
+{4609f98e-ab5e-490c-be0c-5ce9eac49b7b} event:/SFX/Enemy Sounds/MaimStatusEffectLoop
+{d903fe65-de81-410a-82f8-01bd09a577d6} event:/SFX/Enemy Sounds/MegaGorgon/EmoteAlerted
+{45ec1ae4-f768-4916-bf83-8979c6c46d4c} event:/SFX/Enemy Sounds/MegaGorgon/EmoteAttacking
+{bfef6cdd-933a-488b-a342-caff4a578d46} event:/SFX/Enemy Sounds/MegaGorgon/EmoteCharging
+{f90c5180-1573-4575-86ff-479a1362645e} event:/SFX/Enemy Sounds/MegaGorgon/EmoteDying
+{8a343ef1-0de0-4e4b-84f3-4dd8d2c79aa0} event:/SFX/Enemy Sounds/MegaGorgon/EmoteHurt
+{8a97fc01-b40f-4994-9729-aa88af76b314} event:/SFX/Enemy Sounds/MegaGorgon/EmoteTaunting
+{8d6ad16e-58cd-4d45-92c6-742573822237} event:/SFX/Enemy Sounds/Megaera/EmoteAttacking
+{817935b2-9e9f-480a-ba14-47cf4ab10386} event:/SFX/Enemy Sounds/Megaera/EmoteCharging
+{2113b6d1-756f-4d5c-af45-19d703b96378} event:/SFX/Enemy Sounds/Megaera/EmoteChuckle
+{a89eef91-cad6-48fc-a58a-ed33883bdbfd} event:/SFX/Enemy Sounds/Megaera/EmoteDying
+{beba9b6d-2693-490b-8599-1cc226b9b9af} event:/SFX/Enemy Sounds/Megaera/EmoteEvading
+{4328b4a6-1db2-4852-827f-57a2ab2d92fe} event:/SFX/Enemy Sounds/Megaera/EmoteHurt
+{78dc2cf5-f7ce-4e4c-92c6-6ab993caa2c5} event:/SFX/Enemy Sounds/Megaera/EmoteLaugh
+{e394c92a-2e9e-40cc-aca4-8a10071a9f44} event:/SFX/Enemy Sounds/Megaera/EmotePowerAttacking
+{621008b3-9337-406d-b1a3-a54e09d04f2c} event:/SFX/Enemy Sounds/Megaera/EmoteSustainedAttacking
+{b0fef9d9-f83d-4058-99af-4f7761e0597c} event:/SFX/Enemy Sounds/Megaera/EmoteSustainedAttackingAlt
+{eb0bfcfb-e4fa-4c22-8d63-90bf712d1428} event:/SFX/Enemy Sounds/Megaera/MegDeathExplode
+{2c115493-9517-4d4f-bedd-0720f86021a9} event:/SFX/Enemy Sounds/Megaera/MegDeathFinish
+{d834b942-f345-4885-8c2d-51810dd198f2} event:/SFX/Enemy Sounds/Megaera/MegDeathSplash
+{f654ae8a-e14e-402e-a4cb-5e4666450586} event:/SFX/Enemy Sounds/Megaera/MegaeraFlameBurst
+{be2608d8-9973-47da-aa2b-54ac84322817} event:/SFX/Enemy Sounds/Megaera/MegaeraFlamePreBurst
+{b494b82d-99c9-4494-83ad-3a580471e71e} event:/SFX/Enemy Sounds/Megaera/MegaeraFlamePreBurstLong
+{f9ef29ce-170c-459d-b559-1be3395f1737} event:/SFX/Enemy Sounds/Megaera/MegaeraFlipChargeup
+{daa86631-27a0-444a-b1d2-5b17206a3168} event:/SFX/Enemy Sounds/Megaera/MegaeraHealthFillUp
+{23f6457d-06a1-4278-9e7c-508c689677e3} event:/SFX/Enemy Sounds/Megaera/MegaeraPowerUp
+{1a25bde6-527c-4c9e-9aa6-8b4b6acd63f1} event:/SFX/Enemy Sounds/Megaera/MegaeraRapidEnergyBlastFire
+{9aca1f1f-4790-4281-b394-d87c213329c6} event:/SFX/Enemy Sounds/Megaera/MegaeraRapidEnergyBlastStartup
+{0a3f06c5-5657-4f44-af12-02997d1f823a} event:/SFX/Enemy Sounds/Megaera/MegaeraRushAttack
+{ca6e9203-6d59-4d95-9296-5c704d350da0} event:/SFX/Enemy Sounds/Megaera/MegaeraWhipFlurryAttack
+{b21d77c0-eb2d-4cb1-b2f7-5605276ea10a} event:/SFX/Enemy Sounds/Megaera/MegaeraWingFlap
+{1c4a5cda-4535-43a3-a789-b8e5b8818e76} event:/SFX/Enemy Sounds/Minotaur/EmoteAttacking
+{cc856113-3714-4c8a-ab0d-abbc6b4fb592} event:/SFX/Enemy Sounds/Minotaur/EmoteBashing
+{1de9281b-4988-4a8a-8a7f-ab662604b0f2} event:/SFX/Enemy Sounds/Minotaur/EmoteBreathingLoop
+{163008ca-b14f-4f52-8f58-5872fd3c7b8b} event:/SFX/Enemy Sounds/Minotaur/EmoteCharging
+{daacbd41-ac78-40b4-94ec-8170f2a67453} event:/SFX/Enemy Sounds/Minotaur/EmoteChuckle
+{16cbb488-f9c5-4a6c-a81b-6201597a38f7} event:/SFX/Enemy Sounds/Minotaur/EmoteDying
+{f10b5245-79e3-4648-9742-14860d974609} event:/SFX/Enemy Sounds/Minotaur/EmoteHurt
+{1393958b-c9ca-457c-b2af-64da88862939} event:/SFX/Enemy Sounds/Minotaur/EmotePowerAttacking
+{72acbcaf-8087-4efd-bb87-ed726cd6fd76} event:/SFX/Enemy Sounds/Minotaur/EmotePoweringUp
+{e174f509-462d-40b7-b341-55a09765f154} event:/SFX/Enemy Sounds/Minotaur/EmotePreparingToCharge
+{85647478-8651-4e99-a9a6-fa394b64d33e} event:/SFX/Enemy Sounds/Minotaur/EmoteSustainedAttacking
+{e53bead0-968a-45af-be57-2d535fd1b148} event:/SFX/Enemy Sounds/Minotaur/EmoteThrowing
+{4f1b27b0-705c-4d94-97de-813c6418a2d8} event:/SFX/Enemy Sounds/Minotaur/HugeAxeSwing
+{7711142c-34f4-4230-ba7e-c023c7b2ea61} event:/SFX/Enemy Sounds/Minotaur/MinotaurFootstepsHuge
+{d198f131-de65-42ca-b200-24e5e44b7a77} event:/SFX/Enemy Sounds/Minotaur/MinotaurFootstepsHugeRUSH
+{baa8436a-3ff0-4878-b53b-3644bc2518a6} event:/SFX/Enemy Sounds/MiscBoneClack1
+{22395ccf-2569-4c20-92e0-ca5fc0e94650} event:/SFX/Enemy Sounds/MiscBoneClack2
+{9e548c53-95cf-416d-8b92-31d575813014} event:/SFX/Enemy Sounds/MiscBoneClack3
+{cd82d34a-ff7d-43cf-b2ef-7951c565396e} event:/SFX/Enemy Sounds/MiscBoneCrunch
+{841773e5-a33a-41f8-9499-c1df88492485} event:/SFX/Enemy Sounds/MiscBoneRattle1
+{bf81175e-b0a6-4a43-8c86-8e1a9409c5e4} event:/SFX/Enemy Sounds/MiscBoneRattle2
+{d7167fd3-f0f9-45ed-b33d-8505991ae03e} event:/SFX/Enemy Sounds/MiscBoneRattle3
+{b3447bd1-d174-4ec0-9241-e6f9d0134f13} event:/SFX/Enemy Sounds/PunchingBag/EmoteAlerted
+{687b7c14-54f3-4e44-b636-69cb2544945b} event:/SFX/Enemy Sounds/PunchingBag/EmoteAttacking
+{af0e16ab-06ce-41cb-8766-a3fe5cf5db1a} event:/SFX/Enemy Sounds/PunchingBag/EmoteCharging
+{5e986794-4596-4812-ba15-26a2b2c28789} event:/SFX/Enemy Sounds/PunchingBag/EmoteDizzy
+{ab7ae666-478d-4bdc-8404-cc922ccfb51f} event:/SFX/Enemy Sounds/PunchingBag/EmoteDying
+{da72d9e2-4538-4a2b-af83-008232b3afd1} event:/SFX/Enemy Sounds/PunchingBag/EmoteHurt
+{f8c35bb3-2942-42d6-9036-c31bd411de23} event:/SFX/Enemy Sounds/PunchingBag/EmoteTaunting
+{75d2005e-d589-4704-8fe9-e9e63e648be0} event:/SFX/Enemy Sounds/RamaStatusEffectLoop
+{0acb1478-0145-4c7f-a81f-224d94cef0c3} event:/SFX/Enemy Sounds/RangedBurrower/DraconEmerge
+{b8446dcd-03de-4478-97ca-aa551c3f9a97} event:/SFX/Enemy Sounds/RangedBurrower/DraconSubmerge
+{5c2e8763-5168-4c50-bcb2-163cd2784244} event:/SFX/Enemy Sounds/RangedBurrower/EmoteAlerted
+{a07bda49-1082-436a-b237-465cd1b9931e} event:/SFX/Enemy Sounds/RangedBurrower/EmoteAttacking
+{a837d9e0-2cda-42b2-b3f5-83e481f355b1} event:/SFX/Enemy Sounds/RangedBurrower/EmoteBurrow
+{b8c6805a-41a3-47a8-8b52-a574737ee19f} event:/SFX/Enemy Sounds/RangedBurrower/EmoteDying
+{e1c522a4-3385-4fdd-b9b5-8276a3e283e2} event:/SFX/Enemy Sounds/RangedBurrower/EmoteHurt
+{81bce6f8-3b62-413b-82c7-c231cdc1dff5} event:/SFX/Enemy Sounds/RatThug/EmoteAttacking
+{e3b1e4b8-c428-4119-8385-c1de20451542} event:/SFX/Enemy Sounds/RatThug/EmoteCharging
+{91d2a60d-a4e7-4e63-a5dc-1fd22165b162} event:/SFX/Enemy Sounds/RatThug/EmoteDying
+{2d18e468-2e25-417b-a3c6-0d009483adc0} event:/SFX/Enemy Sounds/RatThug/EmoteHurt
+{7e17ff9d-cc28-4d7d-9061-7e3ed25630a9} event:/SFX/Enemy Sounds/RatThug/PoisonShake
+{15d222a4-a613-4671-a548-fdd3e4c0e3e8} event:/SFX/Enemy Sounds/RatThug/RatFootsteps
+{a6f0924e-35e5-4847-a390-ab228d803e9a} event:/SFX/Enemy Sounds/RatThug/RatThugClawLoop
+{ad45c81b-9065-4208-9f06-64bd6d66aabf} event:/SFX/Enemy Sounds/RatThug/RatThugSpawnLoop
+{54eacf98-02f7-4c79-bebc-dcf6c90014c6} event:/SFX/Enemy Sounds/Satyr/EmoteAlerted
+{d4064ef3-cc25-4f52-af90-0e0903e87144} event:/SFX/Enemy Sounds/Satyr/EmoteAttacking
+{435268d7-77a2-4e1f-ae1f-b0730a9b23b7} event:/SFX/Enemy Sounds/Satyr/EmoteCharging
+{6f35b694-3061-483a-9e29-7b06a27820af} event:/SFX/Enemy Sounds/Satyr/EmoteDying
+{8b05b066-805c-4c18-9fb4-cf33d11314db} event:/SFX/Enemy Sounds/Satyr/EmoteHurt
+{c594d4f4-e3a7-4902-896a-b1d29292a6f8} event:/SFX/Enemy Sounds/Satyr/EmoteTaunting
+{90b3aa88-1d97-4c28-8be2-35e3a90860a2} event:/SFX/Enemy Sounds/Satyr/SatyrHoofFootsteps
+{8c13aa2f-cb53-49fb-b863-393ef01d42aa} event:/SFX/Enemy Sounds/Satyr/SatyrLand
+{69e8fd26-a9bb-433e-9a82-465fe956ce3c} event:/SFX/Enemy Sounds/ShadeMagicUnit/EmoteAttackingSustained
+{846c0531-5b5e-4039-aa52-1a15e0f9fdc7} event:/SFX/Enemy Sounds/ShadeMagicUnit/EmoteTauntingMagic
+{12733d3b-0033-4c07-817f-84b3532cd6ee} event:/SFX/Enemy Sounds/Spitter/EmoteAlerted
+{d912d613-d299-4c9c-acdc-9b4c9f2c2c3b} event:/SFX/Enemy Sounds/Spitter/EmoteAttacking
+{74797503-fb41-4f5b-a129-4cbf2323b049} event:/SFX/Enemy Sounds/Spitter/EmoteCharging
+{5db8f908-a945-434e-97db-61e1e71a92e0} event:/SFX/Enemy Sounds/Spitter/EmoteDying
+{7539cab6-93ef-4ffe-bc11-74b42ce0c346} event:/SFX/Enemy Sounds/Spitter/EmoteHurt
+{a26ca70e-c805-46d3-b4e1-64bb9c65947e} event:/SFX/Enemy Sounds/Spitter/EmoteTaunting
+{e20d06d3-e1a9-4c2d-b71b-795a74bb88e8} event:/SFX/Enemy Sounds/Swarmer/EmoteAlerted
+{050455a0-62dd-4182-b44b-ea63d5268350} event:/SFX/Enemy Sounds/Swarmer/EmoteAttacking
+{e3695b1f-d62c-4f5e-a8d8-f0af99510f31} event:/SFX/Enemy Sounds/Swarmer/EmoteCharging
+{7d4a3357-b396-4a17-9311-cd9d68bb2512} event:/SFX/Enemy Sounds/Swarmer/EmoteDying
+{5fd139d5-b377-4b07-a013-0fc353802ede} event:/SFX/Enemy Sounds/Swarmer/EmoteHurt
+{353443ab-7502-49f1-a645-395fd6a7afd5} event:/SFX/Enemy Sounds/Theseus/EmoteAttacking
+{de8167c6-e948-4746-8db0-019295400e01} event:/SFX/Enemy Sounds/Theseus/EmoteCharging
+{4ea22774-b772-40aa-9593-aa301fe5def7} event:/SFX/Enemy Sounds/Theseus/EmoteChuckle
+{e1b493fc-bf1b-47b6-bc94-516b3bca7b59} event:/SFX/Enemy Sounds/Theseus/EmoteCrashing
+{9a3a09bc-c32f-4f0c-a766-1694bb3d9cc2} event:/SFX/Enemy Sounds/Theseus/EmoteDying
+{baf06e95-19cf-4aa9-aeea-8976f0681551} event:/SFX/Enemy Sounds/Theseus/EmoteEvading
+{df3ae6fa-5912-40b3-bb80-8cd7c5f839d6} event:/SFX/Enemy Sounds/Theseus/EmoteFalling
+{2b53e8b5-9197-4436-88f3-e00bcb549609} event:/SFX/Enemy Sounds/Theseus/EmoteHurt
+{b90a02d4-5897-443c-bdc1-42bb6383f662} event:/SFX/Enemy Sounds/Theseus/EmoteLaugh
+{a0df28d7-7a50-4f30-8bff-1376da0a3fd5} event:/SFX/Enemy Sounds/Theseus/EmoteManiacalLaugh
+{e312e998-bbfd-4ffe-b6a0-e011449b843c} event:/SFX/Enemy Sounds/Theseus/EmotePowerAttacking
+{e6f9c618-6468-4e98-9c81-ba82372f6673} event:/SFX/Enemy Sounds/Theseus/EmotePoweringUp
+{a1a3535e-08da-4e13-9ee8-6f8aa7758e67} event:/SFX/Enemy Sounds/Theseus/EmoteSpecialAttack
+{3ded25b2-7e58-4186-a0a4-beb94df450cf} event:/SFX/Enemy Sounds/Theseus/EmoteSpecialAttack2
+{a538c01d-ce68-4487-8bd4-c63365524aff} event:/SFX/Enemy Sounds/Theseus/TheseusFootstepsHardSurface
+{ba0bcf10-3fdf-44bd-b7c5-c41b97b21361} event:/SFX/Enemy Sounds/Theseus/TheseusFootstepsWheatHeavy3
+{9aa06dea-78ae-4180-aef1-a024913c6801} event:/SFX/Enemy Sounds/Theseus/TheseusGrenadeGasReleaseFly
+{defe5186-7109-45e2-9205-25176c1861d8} event:/SFX/Enemy Sounds/Theseus/TheseusGunFire
+{5127bddc-f48e-4f20-999a-385af41f66d4} event:/SFX/Enemy Sounds/Theseus/TheseusGunSpinEnd
+{786862de-5e6e-4ebd-a90b-567a870dfbc5} event:/SFX/Enemy Sounds/Theseus/TheseusGunSpinLoop
+{0a69e9f6-e9e4-4ce1-8799-1df9f5447780} event:/SFX/Enemy Sounds/Theseus/TheseusMortarLaunch
+{2f6e731d-8e9e-4ef7-a0cc-cdc107869f83} event:/SFX/Enemy Sounds/Theseus/TheseusSpearThrowCharge
+{4ac3aa57-59c7-492c-8957-8a7a9f72d278} event:/SFX/Enemy Sounds/TheseusMinotaurDeathSFX
+{a6408631-788c-4032-9307-6d19e8afac5e} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteAlerted
+{b70c2557-ab70-44ee-afd4-d283799f617f} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteAttacking
+{838b1a98-840f-43ef-bad3-b982e273411f} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteCharging
+{c7138bce-56c7-432a-9f60-ece6eb3e51e4} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteDying
+{ef2bfb05-d952-465e-bc46-6beb478996f2} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteHurt
+{ea72739a-bda8-4cd9-9507-b0e8d69aa772} event:/SFX/Enemy Sounds/ThiefMineLayer/EmoteStealing
+{ba8fc13c-d802-480a-848f-589fbc8deb57} event:/SFX/Enemy Sounds/Tisiphone/EmoteAttacking
+{28c4eac2-5303-4873-8ee4-d5fddbd49810} event:/SFX/Enemy Sounds/Tisiphone/EmoteCharging
+{011e9b40-d704-4902-8b76-49438374e017} event:/SFX/Enemy Sounds/Tisiphone/EmoteDying
+{f92ef187-a9db-40ce-b11f-34c4ae3bd486} event:/SFX/Enemy Sounds/Tisiphone/EmoteEvading
+{20e726aa-f2e7-4e1a-884d-20842da52d9b} event:/SFX/Enemy Sounds/Tisiphone/EmoteHurt
+{cc1cf691-026f-4baa-85da-a72599f21476} event:/SFX/Enemy Sounds/Tisiphone/EmotePowerAttacking
+{3bde7414-fd8a-42e7-a4bb-b5ceacf00bee} event:/SFX/Enemy Sounds/Tisiphone/EmoteSustainedAttacking
+{0cd5e041-23f8-41e8-b8a3-c3addf1db4ab} event:/SFX/Enemy Sounds/Tisiphone/TisiphoneHarpySlowBeam
+{bca5e53f-0993-483c-b537-ff2a09a5e7bb} event:/SFX/Enemy Sounds/WaveFistPreAttack
+{8f460c03-6b97-490f-bd2c-0d94de853dc9} event:/SFX/Enemy Sounds/WrechPunchSwing
+{456bbca9-628f-4228-b556-c8c091e8d83a} event:/SFX/Enemy Sounds/WretchedShadeAssassin/AssassinKnifeThrow
+{70cbba48-7ad7-4ab7-8e18-fa678ca6eb7b} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteAlerted
+{3e1a4d19-551c-46f3-9dab-f88824725204} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteAttacking
+{779891a7-72f8-412e-8745-ba6ea1142e3e} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteCharging
+{2d11a071-8823-444a-aff2-f340e1e2897a} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteDying
+{87b591f8-dc63-44b5-9b4a-75bcb4e4f409} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteHurt
+{b62ec9c7-0efe-4cf2-a25a-7c7a7ef7b2e9} event:/SFX/Enemy Sounds/WretchedShadeAssassin/EmoteRangedAttacking
+{577bef87-58f7-4425-ab80-afc97f0af23d} event:/SFX/Enemy Sounds/Wringer/WringerAlerted
+{72f2a532-6fbd-4ab4-ac76-dbf67db454d6} event:/SFX/Enemy Sounds/Wringer/WringerAttack
+{36b8c916-c797-460f-b837-1475cff8afc5} event:/SFX/Enemy Sounds/Wringer/WringerChainsOff
+{f89a2065-7456-4c77-bd2b-ef89398db9cf} event:/SFX/Enemy Sounds/Wringer/WringerChainsOn
+{833bcf7b-4e15-425d-9a3c-4724fea6f9cd} event:/SFX/Enemy Sounds/Wringer/WringerChargeUp
+{4136c6ee-4280-474e-a74f-f5d73df19889} event:/SFX/EurydiceKeepsakeProc
+{4d4b9938-28d9-4c9d-aac5-a99502489d80} event:/SFX/Exclamation
+{8b4532b3-a411-41a5-bda0-b101078ae8c9} event:/SFX/Explosion1
+{6792d7f6-6b27-4753-91e6-09f6a0f091a4} event:/SFX/FightBell
+{e7bde0b6-c8f2-4ac8-b08d-065b8001947c} event:/SFX/FightGong
+{5a02f349-3c30-4516-8b4b-f7216f0dcc90} event:/SFX/FistImpactBig
+{1eb50869-816a-4571-a7d4-e77b074bc841} event:/SFX/FistImpactMedium
+{606e1628-260e-49ea-8c74-fb33312cb7a2} event:/SFX/FistImpactSmall
+{4e71d18f-10c4-4adc-87c8-8f8a888227b0} event:/SFX/FlameTrapFire
+{a701b5fb-5d73-43d5-b37b-7f8077bb461b} event:/SFX/ForbiddenItemLoop
+{afe53229-6efc-4215-8b33-ccb96b312426} event:/SFX/GasBomb
+{8108db28-578c-44e4-91e0-b4a439c94534} event:/SFX/GasTrapSpawn
+{ebf3b801-5e3a-4c2e-8f23-fd424f6f9d1d} event:/SFX/GemDropSFX
+{90acee5f-cba5-49f4-a758-d66d49ae997b} event:/SFX/GemFlash
+{84db5f02-ab6b-452d-b48b-5840b23c3bce} event:/SFX/GemPickup
+{0995108f-c70d-4e0e-9b99-eeb0fdcffcb1} event:/SFX/GhostEmotes/Disgruntled
+{5d840bae-b77d-46de-9ac1-c1a9ca9e1297} event:/SFX/GhostEmotes/DisgruntledLARGE
+{b2794ed2-e6be-4320-a59b-506cbe18e6ac} event:/SFX/GhostEmotes/DisgruntledSMALL
+{ff390cf4-7d91-47c9-9a90-edf56950db66} event:/SFX/GhostEmotes/DisgruntledTINY
+{2be32754-473c-40a4-b344-870194a2b848} event:/SFX/GhostEmotes/Embarrassed
+{4ef50064-65a1-497b-8e01-de9038bab8a6} event:/SFX/GhostEmotes/EmbarrassedLARGE
+{80ebb26c-ffd0-4204-8c39-6b517ef94264} event:/SFX/GhostEmotes/EmbarrassedSMALL
+{e8d2fe89-3c77-4a63-b037-d4a3794fd759} event:/SFX/GhostEmotes/EmbarrassedTINY
+{4ffa38a5-e276-45c9-ad7a-e53157667fd5} event:/SFX/GhostEmotes/Fear
+{8fe40b3a-9b92-4531-80da-f626b32f34f7} event:/SFX/GhostEmotes/FearLARGE
+{4d6cc7a8-001e-4372-8ec3-34b1ecd05e24} event:/SFX/GhostEmotes/FearSMALL
+{93f60586-7196-4a7b-8643-720b37b20ba5} event:/SFX/GhostEmotes/FearTINY
+{7e41a74d-18ce-435d-a1ca-86e9fb912c9d} event:/SFX/GhostEmotes/Grief
+{a01641c1-73d3-4578-ad4b-d682ac7d6649} event:/SFX/GhostEmotes/GriefLARGE
+{3553a430-5c4c-43c1-8bbb-d7338342fbc8} event:/SFX/GhostEmotes/GriefSMALL
+{69ae2974-edce-4806-b773-4a08409f9096} event:/SFX/GhostEmotes/GriefTINY
+{d311ecab-1e12-48a5-8c2b-c9fbcf49dd23} event:/SFX/GhostEmotes/Smile
+{1a4b6e3a-73ed-4ec3-8441-b9960cee441e} event:/SFX/GhostEmotes/SmileLARGE
+{4f2d84b9-8dd4-4518-8f18-b4f941643eba} event:/SFX/GhostEmotes/SmileSMALL
+{e05e5123-9117-462b-b7a8-80e218003993} event:/SFX/GhostEmotes/SmileTINY
+{3f7a4ed8-19b9-427a-ac76-b2441ff153ae} event:/SFX/GhostEvaporate
+{e87f7011-1d10-4430-9df8-318471bdcedf} event:/SFX/GiftAmbrosiaBottleDrop
+{b7ef5e1f-1593-40fe-87e3-e335109ec3a2} event:/SFX/GiftAmbrosiaBottlePickup
+{393de9f8-5d3f-4d8d-879c-a518aee346d6} event:/SFX/GiftingFlash
+{30a0b973-f54a-4568-b6ce-c8bb86146eec} event:/SFX/GlassBreak
+{7b576428-751c-4469-837a-3bca34050a6e} event:/SFX/GodAppearFlash
+{edc17d76-00cb-4b18-a336-974a1c884a00} event:/SFX/GodAppearFlash2
+{9c24be91-e8ab-4958-b51f-5bde4bde3d42} event:/SFX/GodFavorBattleStart
+{29f6afce-a5fd-4d69-b02f-d5bf6f09bca9} event:/SFX/GodRayLoop
+{9918334b-1cf5-4e0b-b9b1-bce9e2499eb3} event:/SFX/GoldCoinJackpotUrnDeath
+{b628b414-a1ac-4778-a026-8c652c5e7002} event:/SFX/GoldCoinPickup
+{ee7f308b-c814-49fa-8b91-8ddcebb62a7d} event:/SFX/GoldCoinRewardDrop
+{1f074b6c-e437-4076-a66c-31bb8c08c1c6} event:/SFX/GoldCoinRewardUse
+{bd012bc0-a0cf-4b7b-9c22-a3a202d02fa0} event:/SFX/GunBulletOrganicImpact
+{9d9824db-71f2-49cf-b358-69dd84a0c441} event:/SFX/GyroHealthPickupMunch
+{872096e3-2a9d-4172-9c9d-01cd4f1263b9} event:/SFX/HadesAspectEffectLoop
+{dce74c8d-731e-4478-8683-ed8e5b95065f} event:/SFX/HadesPaperFinish
+{9c4b5516-07e7-4f24-b5d2-3cf1caf42822} event:/SFX/HadesPaperGrab
+{ca95e37a-67c9-48b2-a932-d8e2ce4c4ad7} event:/SFX/HadesPaperLift
+{595909d2-2047-4d24-acd9-48c9468755b2} event:/SFX/HadesPaperPlace
+{aefa0f06-2026-40e3-a46c-139262baaf45} event:/SFX/HadesWritingA
+{1f83530e-0101-4f8e-8953-442328728950} event:/SFX/HadesWritingB
+{8dd40f25-fb79-432f-9fb8-2c39ae74f115} event:/SFX/HadesWritingC
+{2054a94d-9698-4044-bbd2-9c52946d2a9d} event:/SFX/HammerBoonChoice
+{72e080e8-207d-47ce-8e40-a3854faa94d7} event:/SFX/HealthIncreaseDrop
+{f275f36e-2ba9-4bbc-99c2-c6a2ac6a50df} event:/SFX/HealthIncreasePickup
+{61368ef9-682a-4359-83f4-407599a88530} event:/SFX/HeartPulsate1
+{46dc7368-433c-47d8-86a8-b8c730740931} event:/SFX/HeartPulsate2
+{3979f0f3-acbf-47fa-8c0c-af35d3ef89bc} event:/SFX/HeatCollectionPickup
+{9a2ea40d-b97f-4ddf-b654-927703600c1c} event:/SFX/HeatCollectionPickupReverse
+{a732a646-8a78-4e33-9543-b0af9ad665a4} event:/SFX/HeatGateAmbientLoop
+{70e82141-f21d-4161-9025-7508caad49ac} event:/SFX/HeatObjectAmbientLoop
+{cc0ff66f-7558-49d9-b640-5a888773bafd} event:/SFX/HeatRewardDrop
+{115f3dae-ec88-4d2b-b33b-d12d67b839bd} event:/SFX/HellFireImpact
+{8486ca8a-6e6b-40f0-b511-e1eb894a3d21} event:/SFX/HellFireImpactQuiet
+{cd970e4e-98c9-416c-909c-cde4ceeca381} event:/SFX/HellFireShoot
+{66f28bb9-afab-4456-a45a-78f1fb633997} event:/SFX/HermesBoonChoice
+{33e68fd5-7998-4183-9ea0-79f53cf4b74a} event:/SFX/HermesBoonWhoosh
+{df223da4-7261-4e65-a6ca-a5c88195f529} event:/SFX/KeyDrop
+{46931269-b6e3-4e4e-8a8d-b38dd3db83e7} event:/SFX/KeyPickup
+{b0cc8999-b505-4cbf-9c77-9e13f321e8b7} event:/SFX/LavaBoatLoop
+{afec36f9-aaa4-404d-9fe0-3a0623021f2d} event:/SFX/LavaBubbleBurst
+{008aa6ea-7c8b-4e7f-a578-cef00164577a} event:/SFX/LavaEmerge
+{9706a2b5-fd0a-4ccf-952e-55dd46479802} event:/SFX/LavaJellyCollapseBurst
+{5273eef0-609d-4467-94cd-2292d1be6962} event:/SFX/LavaPuddleAmbientLoop
+{bd9ef391-030c-4633-b7d8-38ede35dcbd7} event:/SFX/LavaSubmerge
+{d40185e6-272f-4d33-9d35-a36bc0455ce4} event:/SFX/LowHealthShroudAppear
+{32d1a4c2-9b68-45d0-9a31-5ba23ea334a4} event:/SFX/LuciferBombExplosion
+{13b2382a-24fd-4f3f-8287-fa63348ce6ac} event:/SFX/LyreGood
+{d52ce2d6-a748-4103-b8e8-0183545a45c0} event:/SFX/LyreMedium
+{2fff3290-4b70-4f15-b202-e12de12459f0} event:/SFX/LyreSuck
+{8a6f6649-892b-44bb-9235-7fc80133aab0} event:/SFX/MarkedFoeGoldDropSFX
+{2c998b9e-b02a-4e9a-bbb4-04ab554057ef} event:/SFX/Menu Sounds/AdminConstructionSound
+{467b1138-7713-4168-8041-fe32e6bede70} event:/SFX/Menu Sounds/AspectAmbienceLoop
+{4f5b3232-6839-4e18-84e1-0f62c00285a1} event:/SFX/Menu Sounds/BiomeMapMovementCanned
+{54f8567c-1cdf-4a1c-8d5d-cc48899c7f74} event:/SFX/Menu Sounds/BiomeMapRewardIcon
+{0297aa5d-3bd6-4c09-bf1e-863f4b0be2b1} event:/SFX/Menu Sounds/BossVanquishedPanelSFX
+{4b5275c0-cfe8-4a98-9218-f8d305918c1f} event:/SFX/Menu Sounds/CameraZoom
+{91c16cf1-89e3-44bf-8fd4-4c01749f73ec} event:/SFX/Menu Sounds/CerberusMainMenuSFX
+{1262afac-7b90-42f1-b522-5737aeddfdfe} event:/SFX/Menu Sounds/ChaosBoonChange
+{0d833af1-3a7a-4822-af6c-ca83b96dc8dd} event:/SFX/Menu Sounds/ChaosBoonConfirm
+{7a400959-8a81-46e5-bd21-3ced597bae29} event:/SFX/Menu Sounds/ChaosMainMenuSFX
+{0a9142d7-c498-47bd-ac35-4089e47f9efa} event:/SFX/Menu Sounds/ChaosMiscSFX
+{cbb9712b-7d58-4106-abac-efcce1764ca2} event:/SFX/Menu Sounds/ChaosRoomEnterExit
+{94264bf8-c477-4d15-8bf0-0b3acd6cd61c} event:/SFX/Menu Sounds/ChaosSelfDamage
+{b905a8bc-e6ea-4473-9a71-33f8da39a16c} event:/SFX/Menu Sounds/CharonMainMenuSFX
+{c4c38299-3d81-4ff9-806f-eadb553fde3f} event:/SFX/Menu Sounds/CharonMainMenuSFX_OneOff
+{ced9ac6e-d885-4924-a54a-374ca7a2b40c} event:/SFX/Menu Sounds/CodexUpdatedShk
+{5cb40ba0-25a4-4fac-a764-dde8859907a4} event:/SFX/Menu Sounds/ContractorItemPurchase
+{37914bdd-51b4-45b5-80da-a0570562cb91} event:/SFX/Menu Sounds/ContractorMenuClose
+{623ae6c8-0451-42be-89bd-2c15b903356d} event:/SFX/Menu Sounds/ContractorMenuOpen
+{72e5b20e-f4c9-4eb5-97ed-b6f012548213} event:/SFX/Menu Sounds/DemeterMainMenuSFX
+{0f105d8a-20d3-4fed-88d5-4240faf913c8} event:/SFX/Menu Sounds/DemeterMainMenuSFX_OneOff
+{bf004abd-3cad-490c-9f3b-c2b9dba2161e} event:/SFX/Menu Sounds/DialoguePanelIn
+{81fdd331-54a6-41dd-b184-f0a59d9f7509} event:/SFX/Menu Sounds/DialoguePanelOut
+{a24ef7f5-0495-4854-b896-354037858f2d} event:/SFX/Menu Sounds/DialoguePanelOutMenu
+{5a5fef9b-8eb6-4126-87ff-c100a39c5773} event:/SFX/Menu Sounds/DionysusMainMenuSFX
+{dc53d121-ad65-41fa-83be-bf450fbde7b1} event:/SFX/Menu Sounds/DionysusMainMenuSFX_OneOff
+{acb3b9c5-f341-41b9-af77-50597b85bc3d} event:/SFX/Menu Sounds/DuoBoonShimmer
+{b2250d38-8d0d-4de2-91b7-b5388eade9cf} event:/SFX/Menu Sounds/EndingPanelIn
+{d894f419-60af-4534-ab1c-e92d3b46257a} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Aphrodite
+{2944e608-6282-40a6-8d8b-b4c4489b0635} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Ares
+{de2da9be-dc79-4522-9283-123e95cf17fe} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Artemis
+{2e45e09f-1daf-4493-b143-bb243ade83a5} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Athena
+{8f6d35b1-2164-4291-84fc-1f8d7aecd597} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Demeter
+{59e9ca27-c4b2-4e11-a782-01255ed71408} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Dionysus
+{c29d1133-2cf3-438c-9e9c-708bc2a71c30} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Hades
+{2af1f99c-e1ef-4e74-baa5-7efeae048624} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Hermes
+{611d2cfb-2938-4f7c-ba2b-4b6fe11accec} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Poseidon
+{ee8387a4-166f-42e9-aff5-f833f6736e18} event:/SFX/Menu Sounds/EpilogueFXBurnInShimmer_Zeus
+{4a214cd6-f68b-4c22-88b6-edc56332a49c} event:/SFX/Menu Sounds/FatedListClose
+{24096aee-9be2-4f74-9865-d5009cf87744} event:/SFX/Menu Sounds/FatedListOpen
+{73994859-db58-4618-aceb-980d53f0a8f3} event:/SFX/Menu Sounds/FishPanelIn
+{9d70467c-d97c-4514-867f-d88261f4a805} event:/SFX/Menu Sounds/GeneralWhooshMENU
+{08e225b4-829f-4466-b827-96611bb9d3a3} event:/SFX/Menu Sounds/GeneralWhooshMENULoud
+{12d637cf-e17c-4ce2-9e01-60cfae0e2564} event:/SFX/Menu Sounds/GeneralWhooshMENULoudLow
+{8f3f0f16-9995-422c-bacd-676c8fb0d349} event:/SFX/Menu Sounds/GenericPanelIn
+{94be559c-1356-4c5e-8d77-37e0b7252cf6} event:/SFX/Menu Sounds/GodBoonChoiceConfirm
+{9791c4b5-cdca-4719-bfe0-aacde096035b} event:/SFX/Menu Sounds/GodBoonInteract
+{572b0d85-a331-464e-9988-84d0496d8a05} event:/SFX/Menu Sounds/GodBoonMenuClose
+{8046dfd0-561d-4d38-9b98-30165346f777} event:/SFX/Menu Sounds/GodBoonMenuOpen
+{f1786e10-57c4-4ea5-8053-7d2ea3492192} event:/SFX/Menu Sounds/GodBoonMenuToggle
+{ac7c7d9c-2ddc-4c10-b2c0-a62f9c724fb5} event:/SFX/Menu Sounds/GodBoonSlotHighlightShimmerSFX
+{dfb3750b-844f-487d-8366-e604219f0ae4} event:/SFX/Menu Sounds/HadesLocationTextAppear
+{4274436a-faa4-45c1-b2ed-76a98140d583} event:/SFX/Menu Sounds/HadesLocationTextDisappear
+{8db19aec-88e8-43d4-ad18-b57a597222a3} event:/SFX/Menu Sounds/HadesMainMenuWhoosh
+{2e1915c0-1ff9-421b-8c63-9f4e27951c2d} event:/SFX/Menu Sounds/HadesTextDisappearFade
+{a23b6964-9c5a-4027-a5da-12c21a01d287} event:/SFX/Menu Sounds/HadesTextDisappearFadeLOCATION
+{0a137139-2df7-4adb-a647-083a2d5979d3} event:/SFX/Menu Sounds/HeartGained
+{4ca777d4-1369-42ec-a1b5-f6748c0c9242} event:/SFX/Menu Sounds/HeartHighlightShimmer
+{5ea72dd5-8a0b-4012-8f43-f6215f4c2e56} event:/SFX/Menu Sounds/HeartSlotUnlock
+{a8eb9de0-7b8c-49ec-9d8a-4cff47535d9a} event:/SFX/Menu Sounds/HeartsAddedCodex
+{4d6b42f8-bdc9-4141-831a-5bdd4c6d6995} event:/SFX/Menu Sounds/HermesMainMenuSFX
+{afe8dfbf-e22e-4789-802f-565f91167a8c} event:/SFX/Menu Sounds/HermesMainMenuSFX_OneOff
+{5ef9babc-274f-4813-b9fc-65bf003d016f} event:/SFX/Menu Sounds/KeepsakeAchillesBracer
+{0898ed09-5524-446f-93c1-012a82414e36} event:/SFX/Menu Sounds/KeepsakeAchillesLegendary
+{aff84eeb-bb03-4625-b3e2-cf0149921c13} event:/SFX/Menu Sounds/KeepsakeAphroditeRose
+{d3222ab1-b52b-4858-b884-fc51d010ef54} event:/SFX/Menu Sounds/KeepsakeAresBloodVial
+{ee40379c-eb9b-4e73-b0e7-6f6f17adf953} event:/SFX/Menu Sounds/KeepsakeArtemisArrow
+{f2c7ad39-fa2f-4d8d-9e0f-4f6911fbc975} event:/SFX/Menu Sounds/KeepsakeAthenaOwl
+{8338f957-e907-4aa7-bb93-048a5e048a1d} event:/SFX/Menu Sounds/KeepsakeCerberusCollar
+{ec3354c1-5aab-4c0e-a97f-b0472ce14f4a} event:/SFX/Menu Sounds/KeepsakeChaosEgg
+{5f63c8ef-c22b-4e51-aed0-20d5aa6a6ba7} event:/SFX/Menu Sounds/KeepsakeCharonBoneHourglass
+{7a6007c4-0e0a-4d9a-ad13-fef248571b14} event:/SFX/Menu Sounds/KeepsakeDemeterHorn
+{f4992b2b-9a56-437a-bd15-46bffd6153c8} event:/SFX/Menu Sounds/KeepsakeDionysusCup
+{59524d5e-9acb-4981-a208-6191a7d551b4} event:/SFX/Menu Sounds/KeepsakeDusaLegendary
+{beeaf913-21f4-48fa-8d49-8ff60c00c407} event:/SFX/Menu Sounds/KeepsakeEurydiceAcorn
+{83187957-e245-4167-b915-4cd5d981d6ee} event:/SFX/Menu Sounds/KeepsakeHadesSigil
+{63f15dad-9a65-45d1-a049-b369128a3faf} event:/SFX/Menu Sounds/KeepsakeHermesFastClear
+{2d7cb6ac-5a18-431b-a4a8-a81902022194} event:/SFX/Menu Sounds/KeepsakeHighlightShimmerSFX
+{045d69ad-d50d-457a-a026-30604ed80933} event:/SFX/Menu Sounds/KeepsakeHypnosCoinPurse
+{739c40da-905f-42d4-babd-563f9abac607} event:/SFX/Menu Sounds/KeepsakeMegLegendary
+{fda7e67c-8769-4821-9e85-419b8b1ba232} event:/SFX/Menu Sounds/KeepsakeMegSkullEarring
+{beffbd88-1795-4929-a446-1adbf085f479} event:/SFX/Menu Sounds/KeepsakeNyxShawl
+{0b901204-deaf-478d-b448-352d06fd7192} event:/SFX/Menu Sounds/KeepsakeOrpheysDistantMemoryJar
+{52fd0d25-e34d-40f0-b06a-64d9e4a4b5a5} event:/SFX/Menu Sounds/KeepsakePersephonePomBlossom
+{05923409-ded4-46a7-bdb2-e46677e3003b} event:/SFX/Menu Sounds/KeepsakePoseidonShell
+{2059bc45-7f48-4b78-bb65-f0cb048aa338} event:/SFX/Menu Sounds/KeepsakeSisyphusLegendary
+{5a25a99e-11ea-415d-899c-2a2b2849d918} event:/SFX/Menu Sounds/KeepsakeSisyphusShackle
+{cf55bf0c-fa12-476b-8b7b-1fce127f3aa2} event:/SFX/Menu Sounds/KeepsakeSkellyLegendary
+{4bd4b968-1a75-4f30-9ee3-508eec61d873} event:/SFX/Menu Sounds/KeepsakeSkellyTooth
+{7eab87a0-df3b-49d1-a769-ef801ff8c346} event:/SFX/Menu Sounds/KeepsakeThanatosButterflyBell
+{362cd462-c4a7-42f4-834c-7b3f28415b19} event:/SFX/Menu Sounds/KeepsakeThanatosLegendary
+{cb0f6319-ebd1-43c5-9553-6263f6e0e3a8} event:/SFX/Menu Sounds/KeepsakeZeusRing
+{a6b5d49c-0f93-4d62-8ddc-24dfee17301e} event:/SFX/Menu Sounds/LegendaryBoonShimmer
+{02b04c1c-70fb-48a2-a0f2-c935fe044adb} event:/SFX/Menu Sounds/LegendaryBoonShimmer2
+{2eb3e160-9664-426d-b2c3-fa5052da062f} event:/SFX/Menu Sounds/Lounge_BeerBottleOpen
+{3716cb94-c9d1-4591-a1e2-b0338b08bc24} event:/SFX/Menu Sounds/Lounge_BottleCork
+{a60badba-3b11-4106-bb6b-b1380c38fc95} event:/SFX/Menu Sounds/Lounge_BottlePour
+{2db8bbeb-1516-4044-8ac0-4579ab1582c2} event:/SFX/Menu Sounds/Lounge_CrowdLaughterLong
+{c8e43cb4-8abc-498b-8b0e-ce8d048d04e7} event:/SFX/Menu Sounds/Lounge_CrowdLaughterShort
+{11a15d4b-41f6-4417-a94a-e57dd6062175} event:/SFX/Menu Sounds/Lounge_ExtraCrowdLoop
+{ca50c80d-9769-4577-b5a4-e017ab126086} event:/SFX/Menu Sounds/Lounge_GlassWithIce
+{064b4a50-c03c-46b7-a73a-e9e11006c4c3} event:/SFX/Menu Sounds/Lounge_GlassesClinking
+{415956e6-cf4a-4e76-ab3c-18220d2a3fd4} event:/SFX/Menu Sounds/MirrorAmbienceLoop
+{49c51cc1-eb94-4618-84bd-e9766204e2db} event:/SFX/Menu Sounds/MirrorCannotUpgrade
+{12f55d9c-5701-4c33-a0df-476c38b20b7b} event:/SFX/Menu Sounds/MirrorCloseNoUpgrade
+{0be1a8ce-1527-486d-b783-18605b6039cf} event:/SFX/Menu Sounds/MirrorCloseWithUpgrade
+{505bcb78-912d-4419-8346-eef611b19efd} event:/SFX/Menu Sounds/MirrorFlash
+{bfa20939-93dd-44db-9f28-c236f4188461} event:/SFX/Menu Sounds/MirrorFlash2
+{f8b408eb-eeb5-479c-9357-ce35c418d2e9} event:/SFX/Menu Sounds/MirrorMenuOpen
+{2103972d-0ea2-4509-a451-eb4b77e3c13a} event:/SFX/Menu Sounds/MirrorMenuOpenREMEMBRANCE
+{a82ea88e-1989-4373-b21a-ed012153011c} event:/SFX/Menu Sounds/MirrorMenuRefundSFX
+{f6a26b5d-08ea-4ba0-bd90-28e4853aa83d} event:/SFX/Menu Sounds/MirrorMenuStatIncrease
+{b68e276f-a36a-477a-86bb-7207b407d764} event:/SFX/Menu Sounds/MirrorMenuStatLower
+{47e10292-0abd-48b9-bb1b-596b5cf1a439} event:/SFX/Menu Sounds/MirrorMenuToggle
+{5e112c10-f947-43c1-9016-184a8d9f594d} event:/SFX/Menu Sounds/MirrorMenuToggleKeepsakes
+{183c9b66-f011-4b5c-a40b-e1416e407be0} event:/SFX/Menu Sounds/MirrorMenuToggleLegendaries
+{a5026fe1-c18f-40d1-b8ca-978567e2b657} event:/SFX/Menu Sounds/NewQuestToast
+{d0b13fef-d418-4dfc-b5b6-0b538e02aad6} event:/SFX/Menu Sounds/NyxMainMenuSFX
+{6ab682cc-8be7-4c56-8fac-21043fab65fc} event:/SFX/Menu Sounds/NyxMainMenuSFX_OneOff
+{2f929ae5-2d97-4da6-925d-5cb9882c03de} event:/SFX/Menu Sounds/ObjectiveActivateShk
+{8151d89e-78d7-4e58-b21b-186299ae7e49} event:/SFX/Menu Sounds/ObjectiveActivateShk2
+{4c5446b3-2ea3-48dc-9b5c-49dfa1a72480} event:/SFX/Menu Sounds/ObjectiveCompletedSparkles
+{674aa7d6-5b1b-4db3-a0fd-19a716f9b520} event:/SFX/Menu Sounds/OrpheusEurydiceMainMenuSFX
+{55e1aab0-bbef-445b-b0e8-e40e47ceb3bc} event:/SFX/Menu Sounds/OrpheusEurydiceMainMenuSFX_OneOff
+{97f67eea-0cd8-4124-9609-5167a275ab00} event:/SFX/Menu Sounds/PactMenuCloseSFX
+{6352a989-a0ea-452b-a667-2b04ebe35ff1} event:/SFX/Menu Sounds/PactMenuOpenSFX
+{043228c9-01e8-4f2d-b293-3f083a3f3f8e} event:/SFX/Menu Sounds/PortraitEmoteAffectionSFX
+{d4885552-26a3-4f7a-9764-62fab3237bd1} event:/SFX/Menu Sounds/PortraitEmoteAngerSFX
+{6c1f707c-dd28-49e5-bb3b-b85316c7b5ed} event:/SFX/Menu Sounds/PortraitEmoteCheerfulSFX
+{75cb411a-6638-4a9d-b1cb-9ae4a0db89c3} event:/SFX/Menu Sounds/PortraitEmoteDepressedDrink
+{1b1cbfd3-8977-40ab-a46d-36075bc42278} event:/SFX/Menu Sounds/PortraitEmoteDepressedSFX
+{d7e5f341-3a96-4fbb-a571-e06d502ba42f} event:/SFX/Menu Sounds/PortraitEmoteFiredUpLASTCHANCE
+{ff22193e-0ce4-41d7-afeb-8bb5962374d0} event:/SFX/Menu Sounds/PortraitEmoteFiredUpSFX
+{dfec39db-bdf8-4d66-b130-b31538c8817f} event:/SFX/Menu Sounds/PortraitEmoteNervousSFX
+{e4902362-0e18-4274-abbd-781dacb5389a} event:/SFX/Menu Sounds/PortraitEmoteSparklySFX
+{350d2d3d-228e-43a8-b4e8-fd6154f557e6} event:/SFX/Menu Sounds/PortraitEmoteSurpriseSFX
+{929e1b9c-8eda-4bea-8f7e-7af9cf4fe6ff} event:/SFX/Menu Sounds/QuestCashIn
+{d9c340c8-850d-458a-84e7-d96bdb6d7c84} event:/SFX/Menu Sounds/QuestCompleteToast
+{839dcb06-c3ee-4d2f-a5a8-dfd3f3f428ba} event:/SFX/Menu Sounds/RecordScratch
+{970cb1ea-485f-482a-904a-c8195f52d0d2} event:/SFX/Menu Sounds/RelationshipPanelIn
+{f83c7c32-7634-45a5-a946-f0c803619c01} event:/SFX/Menu Sounds/RelationshipPanelOut
+{45061724-5742-4df5-8cf6-35545d8cb54a} event:/SFX/Menu Sounds/RemembranceFlitLoud
+{f8251f3b-2126-4ac4-be50-56113020eb94} event:/SFX/Menu Sounds/RemembranceFlitQuiet
+{20ce8c95-ff8b-4f2e-a28b-a70b75192532} event:/SFX/Menu Sounds/SecretDoorExitShimmer
+{10cc8f56-311e-4cd4-8845-6b064295f613} event:/SFX/Menu Sounds/SellTraitShopConfirm
+{58024fc3-960a-4952-87bb-31e2670683a1} event:/SFX/Menu Sounds/SellTraitShopOpen
+{c308a942-c4c8-44de-94ec-be5820549af2} event:/SFX/Menu Sounds/TextReveal4
+{34c604c4-4b75-46e2-a50b-8119b4abea38} event:/SFX/Menu Sounds/ThanatosMainMenuSFX
+{468ea1ad-3eb6-46df-a1c3-adac11243198} event:/SFX/Menu Sounds/ThanatosMainMenuSFX_OneOff
+{abe198a5-142d-4c8c-a05d-34c39dcf8161} event:/SFX/Menu Sounds/ThereIsNoEscapePanelSFX
+{afedcf17-6817-4c84-b2ed-5845b99eaa44} event:/SFX/Menu Sounds/TheseusMainMenuSFX
+{a0f51960-3ef2-4017-ae4c-7ac87a4bd76f} event:/SFX/Menu Sounds/TheseusMainMenuSFX_OneOff
+{984fa7a8-7655-4472-9f38-48e4328fe1f2} event:/SFX/Menu Sounds/VictoryScreenBoonPin
+{f527ac8e-d163-4f8e-ac31-d600dc1504bc} event:/SFX/Menu Sounds/VictoryScreenBoonToggle
+{a90247c7-9eb6-4e5c-949f-8e196230845f} event:/SFX/Menu Sounds/VictoryScreenBoonUnpin
+{0eb67a53-f98c-48db-8d1f-229674c769ab} event:/SFX/Menu Sounds/WeaponAspectMenuClose
+{b28186a7-cdb9-4cca-9c46-8ee0fc6f0b82} event:/SFX/Menu Sounds/WeaponAspectMenuOpen
+{c1263524-a92e-4c78-b2f6-2153689733bf} event:/SFX/Menu Sounds/WeaponEquipChunk
+{c7c9e7ea-e795-4c79-8ca1-1f1707cafeb5} event:/SFX/Menu Sounds/WeaponUnlockBoom
+{f99869fe-6d57-4bc4-b857-5fdff3d25621} event:/SFX/Menu Sounds/WeaponUnlockPoof
+{ddc059a7-ead9-4a99-8548-0805592b1f1c} event:/SFX/Menu Sounds/WellShopCloseNew
+{8bbc0977-a85b-48e3-86d8-30462f79de9a} event:/SFX/Menu Sounds/WellShopOpenNew
+{ab0ce74e-8b4a-41e6-9264-ff62a49445ee} event:/SFX/MetalBoneSmash
+{de96894f-77bb-4248-908b-cd1d74e0e9d8} event:/SFX/MetalBoneSmashSHIELD
+{2beedaa5-5958-473c-8b95-c8c0ab91b5b6} event:/SFX/MetalOrganicHitSHIELD
+{255c2620-231d-4b5e-bfa6-2f29c038d054} event:/SFX/MetalStoneClang
+{29d07605-1d4c-4cc6-a1ae-52febe871b1c} event:/SFX/MetalStoneClangSHIELD
+{bd87560d-14b3-47f5-b6c1-2cdd704d1afc} event:/SFX/NPCLoops/CerberusGrowlLoop
+{d0518b76-113e-4d5c-8635-f40bed86864d} event:/SFX/NPCLoops/Charon_0008Loop
+{4d1565a0-3336-45aa-bcf1-a30425f178b9} event:/SFX/NPCLoops/Charon_0009Loop
+{02475f39-16f6-4f3d-806d-072f4d40121e} event:/SFX/NPCLoops/Dusa_0062
+{cc9d1951-3482-45d4-9ce7-9ea38abe39a0} event:/SFX/NPCLoops/Dusa_0063
+{6362cd42-2c00-42b6-b826-9a050e506550} event:/SFX/NPCLoops/Dusa_0425
+{7704cd14-202d-423e-80be-18420f70b5ec} event:/SFX/NPCLoops/Dusa_0426
+{ad1b6c7b-d2a5-46f8-8525-fe62bed128a6} event:/SFX/NPCLoops/Dusa_0427
+{a65854c1-c3ba-4f44-8a30-b029ff572c93} event:/SFX/NPCLoops/Dusa_0428
+{17ad1957-bfc9-41f1-9f1c-e4d6b9376824} event:/SFX/NPCLoops/Dusa_0429
+{a167c160-6111-489c-bb59-b1d7932f7bb9} event:/SFX/NPCLoops/Dusa_0430
+{6e54cd8b-5dff-4d7c-912c-4479d6c8de29} event:/SFX/NPCLoops/Hades_0071SpeechLoop
+{a8a5c6ff-8bcd-4f76-9e1d-b3921e937127} event:/SFX/NPCLoops/Hades_0086SnoringLoop
+{9e90fa62-1f69-4739-b787-e82b266a4dd0} event:/SFX/NPCLoops/Hypnos_0006
+{1b804f3d-65ce-4444-b07c-55a1170656c3} event:/SFX/NPCLoops/Hypnos_0007
+{3f96d636-1ae6-4d47-b68b-06ea593ee725} event:/SFX/NPCLoops/Hypnos_0008
+{e55cbf40-afd7-437e-83cd-13de047b68a3} event:/SFX/NPCLoops/MegaeraHome_0122
+{092201fc-40f8-46fb-bd3e-7bb5e63a64e5} event:/SFX/NPCLoops/MegaeraHome_0123
+{cc958835-2fe0-48ac-acc3-e87081bc5d9b} event:/SFX/NPCLoops/MegaeraHome_0124
+{45631e88-14f5-4146-9b89-98be068abbca} event:/SFX/NPCLoops/Minotaur_EmoteHeavyBreathing_1
+{cfe312d9-0768-4167-86bd-a209f3267808} event:/SFX/Object Ambiences/BlindBoxLootAmbience
+{f46738a6-35e2-49ee-9e1b-cd28cae801a7} event:/SFX/Object Ambiences/GlowyAwesomeAmbience
+{3341f749-a0b0-401b-a24b-c8b29a46036d} event:/SFX/Object Ambiences/MediumMetalSqueakLoop
+{143d6e9e-2b73-4ca3-8fa6-75c66a424377} event:/SFX/Object Ambiences/MoneyChimeLoop
+{36dc451a-a98d-4e32-81fd-5d3b334dc50c} event:/SFX/Object Ambiences/MoneySpinWhoosh
+{925ca0a0-2ff3-4544-80d6-2183011f8589} event:/SFX/Object Ambiences/SpiderSkitterLoop
+{80ab4b97-79d0-4d64-81e4-7c0b84a21c2c} event:/SFX/Object Ambiences/SuperAmbrosiaAmbience
+{f917a804-056f-4ddc-845e-8870cd8851a2} event:/SFX/Object Ambiences/SuperGemAmbience
+{ea37c739-c62c-4bd7-80d6-8abb320f34da} event:/SFX/Object Ambiences/TitanBloodAmbience
+{53924013-9869-415f-88c1-4b144c4dbfb6} event:/SFX/Patroclus_EmoteAttacking
+{25344e0f-bf95-49bd-8b94-7774a8d6372f} event:/SFX/Patroclus_EmotePowerAttacking
+{19353ca9-e493-4c8c-a6ac-f4221c5f6841} event:/SFX/PetrificationFree
+{01364961-067d-4606-b88f-eb40a81226e3} event:/SFX/PetrificationStart
+{395110ef-4ee7-424c-b5d7-5a8e57898d88} event:/SFX/PetrificationStruggle
+{ecd1dcbe-7e18-4698-9184-20e02b509b8c} event:/SFX/PhalanxTrapActivate
+{0fbe4ac8-4574-4183-88fa-c8a5fe02172b} event:/SFX/PhalanxTrapFire
+{95c1590f-feb6-4cc0-85b3-2e50a3f1a8fe} event:/SFX/PhalanxTrapRearm
+{ac3ac0ab-24da-4c90-aa27-96769bac5fbb} event:/SFX/PhoenixEggRespawn
+{3a8c6524-bf17-45c6-9b79-568899d6823f} event:/SFX/PhoenixPillarRespawn
+{de6934b0-5d90-4dfe-9d67-0b49106292e3} event:/SFX/PillarBoulderDestroyed
+{fd76f6dc-7286-4d99-af5d-c2e6cfc09253} event:/SFX/PillarBoulderDestroyedSmall
+{7180298a-2ca0-4ead-a769-c20812dfeb09} event:/SFX/PillarBoulderImpact
+{6605679e-03fb-4ead-9da3-800dc926e829} event:/SFX/PillarCrack
+{2d82d0ce-5e07-4a6b-b000-d05733e1bbe2} event:/SFX/PillarDestroyed
+{e4b7bb04-b9df-4ca9-8cc3-71000fca3a5e} event:/SFX/PillarDestroyedBIG
+{bacbf427-3da2-426d-9180-dbfb994032b7} event:/SFX/Player Sounds/AmmoPickup
+{4813e0bf-b7c1-4a90-aa9e-148a87afc4a9} event:/SFX/Player Sounds/AphroditeLoveDash
+{6155f2ca-b4a9-4e1a-ae85-48e48ad7d0e4} event:/SFX/Player Sounds/AphroditeLoveDashHeart
+{59400109-f33d-4d6b-b744-6b51d38ba13d} event:/SFX/Player Sounds/AphroditeLoveImpact
+{377f54e1-538b-45a6-8a24-45aee0b2e96d} event:/SFX/Player Sounds/AphroditeLoveRadialNovaBlast
+{d2d42e61-0787-4634-b5f8-9b3b078976df} event:/SFX/Player Sounds/AphroditeLoveShieldRush
+{5b8a4895-9d31-41e2-8273-be3edb55c45d} event:/SFX/Player Sounds/AphroditeLoveShotgunBlast
+{7766c2b8-c10d-460d-8360-597584cbe8f6} event:/SFX/Player Sounds/AphroditeLoveSwipe
+{7b7f9e6d-d2c5-4833-b128-95898bbfccd6} event:/SFX/Player Sounds/AresBladeSwipe
+{3f7cb2fc-b23b-427c-b673-93a175006c32} event:/SFX/Player Sounds/AresBladesShieldRush
+{ee06b825-3c0e-41c4-a609-5f18cf209eca} event:/SFX/Player Sounds/AresBladesSpinLoop
+{7b3f08ce-cf87-4356-8b1b-92220302bc93} event:/SFX/Player Sounds/AresDamageBuffSFX
+{37876489-937a-4b70-b0e3-b8e3f928883d} event:/SFX/Player Sounds/AresDelayedDamageHit
+{1b0063e1-8812-4f62-a4ff-abe7f041e7b7} event:/SFX/Player Sounds/AresDelayedDamageLoop
+{da01c73c-a03e-4f08-a9d5-2cfe92675403} event:/SFX/Player Sounds/AresDelayedDamageStab
+{9eee2ad7-8083-48ee-9ad0-8cad320c906f} event:/SFX/Player Sounds/AresPoseidonProjectileLoop
+{43c423c6-304f-4d44-9938-554e41eb19ae} event:/SFX/Player Sounds/ArtemisLeavesDashUpgrade
+{f4ad6b74-4aa9-415a-951c-e1848e308434} event:/SFX/Player Sounds/ArtemisLeavesImpactDetonate
+{5bd513ba-ae83-419d-84ae-548c04ff6181} event:/SFX/Player Sounds/ArtemisLeavesRangedAttack
+{6b40925c-e08c-4e9e-bb3b-c656ed28eb58} event:/SFX/Player Sounds/ArtemisLeavesShieldRush
+{06158948-074f-4337-ad07-9a6eb40895d8} event:/SFX/Player Sounds/ArtemisLeavesWeaponSlashUpgrade
+{5723338e-026c-4642-8ba4-5ac6b50cfd5f} event:/SFX/Player Sounds/AthenaDashImpact
+{ff8591bc-fe07-4240-bea7-027b333de97c} event:/SFX/Player Sounds/AthenaDionysusProjectileLoop
+{b0089b0f-4340-42d1-9157-d35a1bb6f704} event:/SFX/Player Sounds/AthenaShieldImpactDetonate
+{c788a837-1f01-4ff4-b2ac-18c437643fa5} event:/SFX/Player Sounds/AthenaShieldRangedAttack
+{1ad7c9f2-d037-4bf8-8f3e-33fc2b15ec6a} event:/SFX/Player Sounds/AthenaShieldSpecialSpin
+{20d506dc-1212-418f-82ff-2d67ea30fe29} event:/SFX/Player Sounds/AthenaWeaponFlash1
+{a59354e9-2437-4c62-851f-eedc0d662d26} event:/SFX/Player Sounds/AthenaWeaponFlash2
+{a51bbddd-4a24-4f86-af1e-9e5f743c7071} event:/SFX/Player Sounds/AthenaWeaponFlash3
+{4af0bcc7-b37b-41f1-8670-f64a23e67317} event:/SFX/Player Sounds/AthenaWeaponFlashShieldRush
+{61cd5d5f-6922-4879-8335-086b6d7b3590} event:/SFX/Player Sounds/BeowulfShieldRushRoar
+{821f7bb1-ca3a-48d6-b290-499c53bf510e} event:/SFX/Player Sounds/BeowulfShieldRushRoarSmall
+{1ca85812-5b97-4cf9-b579-897c4b344036} event:/SFX/Player Sounds/BowDrawChargeup
+{bb48aa8d-f85e-4303-b949-53d85c77752e} event:/SFX/Player Sounds/BowFire
+{3f15c3c5-2882-4f77-8cb3-d588e17e4b6f} event:/SFX/Player Sounds/BurningFootsteps
+{1b44a6c6-7dda-4a26-8108-171c07017f7e} event:/SFX/Player Sounds/BurningWetFootsteps
+{99b83a01-3d81-41f3-9716-80c3a067841c} event:/SFX/Player Sounds/ClubImpactHit
+{6f1c92cb-4964-48a3-8db5-8c7cd26694bd} event:/SFX/Player Sounds/DarknessCollectionPickup
+{b3f2a725-e36e-406a-b63a-c78b4f9545eb} event:/SFX/Player Sounds/DarknessCollectionPickupSMALL
+{01c513b5-fc5d-4edf-9e8e-0b809f0f7649} event:/SFX/Player Sounds/DarknessRewardDrop
+{7902281c-a069-4f86-9c1b-8dee80eb6116} event:/SFX/Player Sounds/DartFireFwip
+{b0986642-a0c3-4fa1-bc3a-66926b13e4ee} event:/SFX/Player Sounds/DashCrack
+{d68afff6-9064-42e8-82ad-809c77d758e5} event:/SFX/Player Sounds/DeathDefianceActivate
+{a170773f-4aea-4b40-a075-029c62848947} event:/SFX/Player Sounds/DeathDefianceActivateFINAL
+{79c64e25-b7f5-402b-b6e2-6ce02544c561} event:/SFX/Player Sounds/DemeterBlizzardShardComponent
+{7d2eff45-53a8-4d1c-8561-ef591a6cb470} event:/SFX/Player Sounds/DemeterBlizzardVortex
+{3e04eea0-8453-4f60-8b60-39baee482d2c} event:/SFX/Player Sounds/DemeterBlizzardVortex2
+{3d5ab06b-498f-431d-bb89-0534871411cb} event:/SFX/Player Sounds/DemeterBlizzardVortexSmall
+{09a74295-9029-492a-b000-dc60694ec052} event:/SFX/Player Sounds/DemeterColdBoonSelect
+{fb20bea5-a4e8-4f4c-b0b6-f3b75f2357ae} event:/SFX/Player Sounds/DemeterColdNova
+{fb0141b0-5042-462b-9314-3d0137f160f2} event:/SFX/Player Sounds/DemeterColdNovaRush
+{699dfd55-d211-4385-93f5-49e0e99bf14f} event:/SFX/Player Sounds/DemeterColdShieldSwipe
+{7cd45c9c-943e-4655-b528-9d2b5aad165e} event:/SFX/Player Sounds/DemeterColdSwipe1
+{6c025aed-ea9f-445a-b212-7b0dfd23fa58} event:/SFX/Player Sounds/DemeterColdSwipe2
+{91258d03-f7cb-4506-894a-b018eb4522a5} event:/SFX/Player Sounds/DemeterColdSwipeBIG
+{979687bb-6a1e-4c1a-a065-a0a1f24e4dc0} event:/SFX/Player Sounds/DemeterDashShardShatter
+{6268f702-8c38-41bd-ae2e-f61f632ee7d4} event:/SFX/Player Sounds/DemeterFreezeRangedAttack
+{28bd9e7e-8fc4-4bae-9250-d2a70e89496a} event:/SFX/Player Sounds/DemeterFreezeRangedAttackStart
+{790f88f1-b4ce-4e0d-916f-bc462f28b3eb} event:/SFX/Player Sounds/DemeterFrozenDebuffSFX
+{64a848ef-8d25-429d-b583-646baf5db8d2} event:/SFX/Player Sounds/DemeterRangedAttackEnd
+{9584eee9-49e4-4150-981f-451f233e4861} event:/SFX/Player Sounds/DemeterRushImpactPoof
+{fb0972e7-6683-494f-bbc5-11d6048738b4} event:/SFX/Player Sounds/DionysusBlightWineDamageLoop
+{d88a99fa-1b61-4a14-b0ca-301400d9e3b4} event:/SFX/Player Sounds/DionysusBlightWineDash
+{dbeda869-afc8-4ad7-8c1c-b248678455e6} event:/SFX/Player Sounds/DionysusBowShot
+{6c230a04-1972-476d-a2ad-f4c2e8235eb2} event:/SFX/Player Sounds/DionysusHazeCloudSitarSteam
+{fed4d91d-ec67-4a1f-b0ef-e633f82fea92} event:/SFX/Player Sounds/DionysusLobProjectileGas
+{a30cf955-9448-4035-b1c4-a4c61ae43073} event:/SFX/Player Sounds/DionysusRadialPoof
+{182afe11-5a61-4bad-87a9-6fff2dee8619} event:/SFX/Player Sounds/DionysusShieldDash
+{c6a1b63a-22f2-461e-8e61-c9093679f14e} event:/SFX/Player Sounds/DionysusShieldThrowLoop
+{ce908c0c-24f9-4caf-a158-95e8b6ab003d} event:/SFX/Player Sounds/DionysusSwordSpecialPoof
+{cb1f9f23-01c3-45e9-8d17-e7fed033c61c} event:/SFX/Player Sounds/DionysusSwordSwipe
+{d0e97ec6-dc31-4ddc-8676-ebe10bdd0d35} event:/SFX/Player Sounds/ElectricZapLarge
+{78922385-59a5-490d-8f6b-687545054849} event:/SFX/Player Sounds/ElectricZapSmall
+{22c4f762-a215-4eff-83f9-d54932bf8a40} event:/SFX/Player Sounds/FootstepsBone
+{4487b7f3-c29f-41e1-9d9d-4ac159680e72} event:/SFX/Player Sounds/FootstepsCoin
+{aa0d5731-1739-472d-8177-52c5553c89fb} event:/SFX/Player Sounds/FootstepsHardSurface
+{128560a1-f515-4c8f-a2b9-c7cc88c19836} event:/SFX/Player Sounds/FootstepsHardSurfaceRun
+{0ff1d6e3-38b8-4bc5-a610-5cf5ecf15a89} event:/SFX/Player Sounds/FootstepsSandMEDIUM
+{c1f234dc-7d97-4626-88b3-6c9a54afcd0d} event:/SFX/Player Sounds/FootstepsSandMEDIUMRun
+{5d87de44-9677-41b2-9ab5-c149a22d60e9} event:/SFX/Player Sounds/FootstepsSnow
+{5dd4c0c3-1b43-4769-9c57-117dc8825835} event:/SFX/Player Sounds/FootstepsSnowBig
+{c5fc760f-d2b2-4bcc-9a15-0388477e0d9c} event:/SFX/Player Sounds/FootstepsSnowBigQuiet
+{dbc36c67-4bdd-4067-bd4c-450a6e7af673} event:/SFX/Player Sounds/FootstepsWheat2
+{2dfae1fc-d16c-47db-8a71-24fe42ca2edb} event:/SFX/Player Sounds/FootstepsWheatHeavy2
+{4ae8be5f-d58c-4960-b8b0-8aef72a9f3f8} event:/SFX/Player Sounds/ForcefieldBubbleLoop
+{7bad6f6d-cbee-4bcd-88a6-05a936a5a53c} event:/SFX/Player Sounds/GilgameshDelayedDamageStab
+{4ece76bd-0196-442e-a519-079d16e8c1d9} event:/SFX/Player Sounds/GunFinalBulletBlastSFX
+{0c719dc8-1273-48b4-83c5-4f1ac082d059} event:/SFX/Player Sounds/GunHomingProjectileLoop
+{c5012f91-a049-4bdc-b306-34f7c43f0ecc} event:/SFX/Player Sounds/HermesFootsteps
+{6af812dc-7b85-4c61-9f73-36788c42026b} event:/SFX/Player Sounds/HermesRushSpeedTrailSFX
+{97e9e594-c050-4276-a031-64c481a87b26} event:/SFX/Player Sounds/HermesRushWhooshSoundOnly
+{2aa2b66c-4150-48c8-975b-7ccc2d55fe3e} event:/SFX/Player Sounds/HermesSlowSFX
+{215e2e1e-6880-4dde-ac13-58bd0b5711a7} event:/SFX/Player Sounds/HermesWhooshDash
+{f58b3382-7527-44aa-8b4d-3883175ead5a} event:/SFX/Player Sounds/HermesWhooshDashImpact
+{cad3aa53-716d-4f6a-b19c-f4f064cc46d8} event:/SFX/Player Sounds/HermesWhooshDashReverse
+{8cf864f3-b75b-4934-ba33-afd04acadc03} event:/SFX/Player Sounds/HermesWhooshDodgeSFX
+{b9f2acbf-ef27-48bf-a976-44baba99d061} event:/SFX/Player Sounds/HermesWhooshUpgradeSFX
+{d27658bc-88bf-4792-afae-ac98b24783a6} event:/SFX/Player Sounds/PlayerDeath
+{403675ef-a635-4f63-bc0f-3c7c368d83bb} event:/SFX/Player Sounds/PlayerDeathBloodComponents
+{3b398297-3d5d-4465-bc9e-ef7afff410a8} event:/SFX/Player Sounds/PlayerDeathBloodComponents2
+{781dcdd4-e9e1-48b9-9e99-889e83fb2461} event:/SFX/Player Sounds/PoseidonWaterArrowFire
+{7dbe2b4a-6a30-4c45-9191-6a7a9622fdd1} event:/SFX/Player Sounds/PoseidonWaterDashImpact
+{313e1489-7c7b-4fc5-a91a-39b246c1ddfd} event:/SFX/Player Sounds/PoseidonWaterDashUpgrade
+{eb6d8647-8591-48e7-8852-03abdbcbbe3d} event:/SFX/Player Sounds/PoseidonWaterDashUpgrade2
+{65807702-f049-4011-a40f-2ab7cc696079} event:/SFX/Player Sounds/PoseidonWaterImpactDetonate
+{5366c84f-ba7a-469e-b059-165f479df7a3} event:/SFX/Player Sounds/PoseidonWaterRangedAttack
+{0f1eba51-e09e-49c8-a482-8afcd73891bd} event:/SFX/Player Sounds/PoseidonWaterWrathAttackLoop
+{219de5db-e64b-427f-b63f-81158985d7f7} event:/SFX/Player Sounds/PostBlockBonusDamage
+{488e880f-2751-4997-b55c-e93a830657bb} event:/SFX/Player Sounds/PostThrowBonusDamage
+{d4e97c22-3477-4023-869d-ca55d175bda9} event:/SFX/Player Sounds/ShieldGroundPound
+{19028e73-a44a-4edf-8c67-befe45fbd49b} event:/SFX/Player Sounds/ShieldObstacleHit
+{190f03d8-4bd4-4ae9-966b-520971e3e08b} event:/SFX/Player Sounds/SlingChargeupLoop
+{92b3fce5-f27c-4390-9e14-3aea35e60a9b} event:/SFX/Player Sounds/SlingChargeupLoop2
+{8a735865-7129-4166-895f-5a5be399b604} event:/SFX/Player Sounds/SpearExplosiveCharge
+{e96395b6-adb5-49ce-95e1-8e5463129873} event:/SFX/Player Sounds/WeaponSwing
+{6ba7166d-1a85-4250-a9b3-7eef33c0a00c} event:/SFX/Player Sounds/WeaponSwingLoop
+{a187dd47-4c88-4644-9a6b-85a1b11bc9e2} event:/SFX/Player Sounds/ZagreusBloodshotFire
+{f720b2d0-d7a0-42e5-8c78-302855f73b60} event:/SFX/Player Sounds/ZagreusBloodshotImpact
+{7531bebb-d323-452f-9999-4837ac46aa7a} event:/SFX/Player Sounds/ZagreusBowCharge
+{1022ccff-a0ff-4dc3-9ce4-68c3d0bc9dab} event:/SFX/Player Sounds/ZagreusBowChargeup
+{1a0838b7-652e-463e-b413-f1bd8cba296a} event:/SFX/Player Sounds/ZagreusBowCriticalTimingFlash
+{d3b116c7-a3b2-46a4-a011-32f0b32c6e11} event:/SFX/Player Sounds/ZagreusBowFire
+{5d3ae271-2dbb-442d-ab99-ee48b648806f} event:/SFX/Player Sounds/ZagreusBowFireRamaSitar
+{dbd9a3ff-33d9-440b-b8f5-fb60d85ebbb3} event:/SFX/Player Sounds/ZagreusBowRapidFire
+{7794d2a9-a8fa-4e01-b898-0e44029e98b5} event:/SFX/Player Sounds/ZagreusBowRapidFire2
+{ede58557-a521-4466-8f99-359e0bef19ed} event:/SFX/Player Sounds/ZagreusChargeRamaSitar
+{b78e4815-71d9-4757-89ee-6ba47d88132b} event:/SFX/Player Sounds/ZagreusClawSwipe
+{d1d1fd66-97fa-4a47-8d10-60cb7ef5051f} event:/SFX/Player Sounds/ZagreusCriticalFire
+{26254281-ffd5-487a-9641-439e23e1642b} event:/SFX/Player Sounds/ZagreusDash
+{f5e2b204-cd56-41f8-b289-fa70b2b73fb9} event:/SFX/Player Sounds/ZagreusDecalRamaSitar
+{47a0153d-a9bb-40e8-a77f-3bcf03d51dec} event:/SFX/Player Sounds/ZagreusFistBigWhoosh
+{4c602b0c-daf5-441a-ad80-64646eddb478} event:/SFX/Player Sounds/ZagreusFistComboProc
+{b425084c-bba4-492e-8acc-e427ea0864d7} event:/SFX/Player Sounds/ZagreusFistMagnetismVacuumActivate
+{f487bf3a-cb81-44b3-a55b-1977bb934bb3} event:/SFX/Player Sounds/ZagreusFistWhoosh
+{7b3dd112-d875-4c02-8cdf-0d5bd478659d} event:/SFX/Player Sounds/ZagreusFullyChargedRamaSitarLoop
+{cb7cc8cb-b7dc-4231-9fe7-dadd4d000296} event:/SFX/Player Sounds/ZagreusGuanYuFireworks
+{e13398d5-8f39-4453-ad71-c3b930d03594} event:/SFX/Player Sounds/ZagreusGuanYuSpearSpin
+{e703d19f-e27c-4ba5-ad65-4638ce34d824} event:/SFX/Player Sounds/ZagreusGunBarrelTelescoping
+{813afd96-9874-4ce4-91f2-8cf6f93ad06b} event:/SFX/Player Sounds/ZagreusGunDoubleFire
+{c5bef8ad-aeab-44ae-b48a-51eaef537e70} event:/SFX/Player Sounds/ZagreusGunFire
+{171209fb-d236-4f39-a9d2-269329e71106} event:/SFX/Player Sounds/ZagreusGunGrenadeBounce
+{b5b72f18-f3d8-4d1c-9c00-db68ef0b93ec} event:/SFX/Player Sounds/ZagreusGunGrenadeGasReleaseFly
+{3c7c1355-d682-4140-839f-4fc85b32d4d2} event:/SFX/Player Sounds/ZagreusGunGrenadeLaunchFire
+{d4a9013e-952b-46a6-8bdc-a37e8cfa9f31} event:/SFX/Player Sounds/ZagreusGunGrenadeReloading
+{f55a78f3-9b5b-4b93-a255-d11453eeb781} event:/SFX/Player Sounds/ZagreusGunReloadCompleteFlash
+{53fac39c-840e-4d1d-bf37-1da7309113dc} event:/SFX/Player Sounds/ZagreusGunReloadCompleteFlashLucifer
+{cf967341-df34-4e8a-876b-c6a059e36e67} event:/SFX/Player Sounds/ZagreusGunReloading
+{328fd62c-bd0b-4013-bc16-b0ff5f231579} event:/SFX/Player Sounds/ZagreusGunReloadingLucifer
+{803745a5-b07d-4542-ad38-8a94bf9fd9ab} event:/SFX/Player Sounds/ZagreusGunReloadingMoving
+{99563791-0f4d-4e4b-a5bd-0d2098d26082} event:/SFX/Player Sounds/ZagreusGunRunningMisc
+{b742a44a-dbf1-47d2-87c8-e3bbb6adaaf4} event:/SFX/Player Sounds/ZagreusGunShellDrop
+{1c610317-5b86-4a7d-8eea-2df42799e54a} event:/SFX/Player Sounds/ZagreusGunTriggerClickNoAmmo
+{0ad29758-f689-41c7-93a1-0a0ec4a071ac} event:/SFX/Player Sounds/ZagreusHeavyShieldStomp
+{5b096511-34d3-4029-abec-6e43354c0a08} event:/SFX/Player Sounds/ZagreusLuciferAttackEnd
+{b688597e-c68d-4256-8209-50faabc0b6c8} event:/SFX/Player Sounds/ZagreusLuciferBombLand
+{33582a8b-bb8e-4494-b667-5e941d014e9a} event:/SFX/Player Sounds/ZagreusLuciferBombPulse
+{a90e33d7-bf46-4f6f-b6e9-2e2511d30d69} event:/SFX/Player Sounds/ZagreusLuciferFireStartAndLoop
+{03121f22-a258-45c1-9ab3-a87a1a55a4b2} event:/SFX/Player Sounds/ZagreusLuciferPreAttack
+{10015862-0bf6-4bf0-b929-d96839ac6c96} event:/SFX/Player Sounds/ZagreusLuciferSpecialFire
+{39e1ec22-9f90-4bd8-bb03-4ac37b9ec9d9} event:/SFX/Player Sounds/ZagreusLuciferSpecialSmokeTrail
+{c2555a10-754f-47cb-87de-a6dc6c3bbc17} event:/SFX/Player Sounds/ZagreusLuciferUnlock2
+{a59603ea-1f60-4edf-883b-a3d0b17d2ac9} event:/SFX/Player Sounds/ZagreusLuciferWingReset
+{60f4acd9-c0fd-48ee-92b6-bc56182cd23a} event:/SFX/Player Sounds/ZagreusShieldCatch
+{2892dbca-7091-4ccd-a43a-ac0f50e6363d} event:/SFX/Player Sounds/ZagreusShieldMonsterEmote
+{6e06d0ce-b9d1-44f7-8cb8-0ccf63b94ec7} event:/SFX/Player Sounds/ZagreusShieldProjectileLoop
+{85f79900-793a-468f-ae28-4c198e547eb8} event:/SFX/Player Sounds/ZagreusShieldReturn
+{52e82c2f-4ba0-411f-b0ef-e343857c6e3e} event:/SFX/Player Sounds/ZagreusShieldRicochet
+{8ffe0d89-6465-48ba-9070-155a552ceb63} event:/SFX/Player Sounds/ZagreusShieldRush
+{deee3a68-5e55-4410-83bb-60eb3d746313} event:/SFX/Player Sounds/ZagreusShieldSwipe
+{ac592cdd-3c3e-475e-a62e-98dd508cb306} event:/SFX/Player Sounds/ZagreusShieldThrow
+{83cd4cb2-3899-40a9-b297-75943bf795ba} event:/SFX/Player Sounds/ZagreusSpearReturn
+{8d8e8b97-7690-4287-8c20-59f290a40a91} event:/SFX/Player Sounds/ZagreusSpearSwipe
+{88b518d7-4138-4b59-8d94-5279fd755875} event:/SFX/Player Sounds/ZagreusSpearThrow
+{870b59b2-66b1-4f04-8218-8a9ab44f73de} event:/SFX/Player Sounds/ZagreusSpearThrust
+{5f7f3ef7-4930-4314-97a6-9e23b6f5e6d5} event:/SFX/Player Sounds/ZagreusSplitShotRamaSitar
+{b117f793-591b-4986-a4d3-b0403c911d7a} event:/SFX/Player Sounds/ZagreusSwordLunge
+{f96c9580-92db-421e-b925-2afa5802bcac} event:/SFX/Player Sounds/ZagreusSwordOverhead
+{0aa0b9ac-f7c7-4de1-9d31-a4b4354560ce} event:/SFX/Player Sounds/ZagreusSwordParry
+{65ed389e-c48f-429b-b23f-f59e2290e1f3} event:/SFX/Player Sounds/ZagreusSwordPull
+{8980b78e-8304-4dfd-a2ea-43a8c6e5fbff} event:/SFX/Player Sounds/ZagreusSwordSpearChargeChoirLoop
+{65d9d29a-c603-4ec1-ae02-197d459130c8} event:/SFX/Player Sounds/ZagreusSwordSwipe
+{0ca0701e-35f1-4b85-b62e-0b0a3d1afcdf} event:/SFX/Player Sounds/ZagreusWeaponChargeup
+{cf50b6de-7133-4802-ba84-8790ad050f08} event:/SFX/Player Sounds/ZagreusWetHairShake
+{eb6f4fd8-4708-4028-8d2d-6443d40e5bc8} event:/SFX/Player Sounds/ZagreusWhooshDropIn
+{da055748-9945-49c0-a04a-1425942b5998} event:/SFX/Player Sounds/ZeusLightningDashAttack
+{65eba1a0-0984-4878-8c04-aead74cdc613} event:/SFX/Player Sounds/ZeusLightningImpact
+{f3d4ceea-b802-40f4-958c-7a58a3d75fe4} event:/SFX/Player Sounds/ZeusLightningRangedAttack
+{b9c7cf77-30bf-4741-86d2-48697e4a60ac} event:/SFX/Player Sounds/ZeusLightningShieldRush
+{f0fa27ba-2d76-4912-b6b1-222a78627a62} event:/SFX/Player Sounds/ZeusLightningSlash
+{c07dea38-88c0-466d-a240-475317a3a6bf} event:/SFX/Player Sounds/ZeusLightningWrathImpact
+{8f2dc2e1-a385-4439-9d7b-9d81380fdd74} event:/SFX/PlayerHammerExplosions
+{1abd0c1d-1b0c-42a8-997f-a2b66bf8b832} event:/SFX/PlayerHammerExplosionsTight
+{e75385f4-9127-4b35-a11d-06c420544cc5} event:/SFX/PoisonCureFountainBubbleLoop
+{c877fc1d-6b38-4d1e-b9b4-f921072aadf6} event:/SFX/PoisonCureFountainDrink
+{b16efa96-ee92-4a56-b00d-ad4c0f2b9866} event:/SFX/PomUpgradeChoice
+{b5d194df-ae49-4251-ae9e-33ede0ff312c} event:/SFX/PomegranateLevelUpSFX
+{5b8f0b9f-1356-444d-a4bd-b4112393e86b} event:/SFX/PomegranatePowerUpDrop
+{c72b2ab0-1428-4fb5-bb0b-96a7779d9871} event:/SFX/PomegranatePowerUpPickup
+{dd2fb71b-1f18-46de-b1af-9fe30529af53} event:/SFX/PoseidonBoonChoice
+{f8f0b5af-f906-4d5d-83bb-a6f12bcba68f} event:/SFX/PoseidonBoonWaveCrash
+{71488456-1e6a-4a3a-9fb1-427648b5adf8} event:/SFX/PoseidonEncounterStartBuffSFX
+{a2111107-b9b5-4fde-afbd-233f8093dc6a} event:/SFX/PoseidonWrathWaveCrash
+{a63a3ddc-8cf5-485b-a9cb-f05a50e39f36} event:/SFX/PostBossChains
+{0e3018bf-c1c9-4924-99fc-76a625248e2e} event:/SFX/PostBossGears
+{b0f89538-fc7b-4e06-a000-f3771a1ac065} event:/SFX/QuickSnap
+{dcf1a2f1-3070-4250-be17-9f92df09909e} event:/SFX/SawTrapFireSound
+{9880cc02-cbb9-4521-b851-5b550b60d0b2} event:/SFX/SawTrapPreAttackSound
+{3c3eb7f2-1163-4210-88fd-953255ebcaca} event:/SFX/SawTrapProjectileLoop
+{5b7c6c45-1173-46b2-b503-dd41ce138e07} event:/SFX/ScryingPoolAmbience
+{4d5bbde8-0e64-4ab4-b8bf-aae2ea85206c} event:/SFX/SelfDamageBuffLoopSFX
+{983bf2e6-0242-47a0-90a9-8468469a27a1} event:/SFX/SellTraitShopBloodFountainLoop
+{44b95c54-3e63-4fa7-9601-cc115e8ffe5d} event:/SFX/Shout1
+{9ecd78d8-3f88-4d20-966c-46581217b5ba} event:/SFX/SideHustleSFX
+{3491fa90-7a8b-42fa-82da-899756b58c9d} event:/SFX/SkellyEmoteOnHit
+{6d109041-311e-476c-a551-254216ef28ff} event:/SFX/SkellySummonEmoteOnHit
+{08277f00-7d0f-4e3a-a0da-7d6722de2311} event:/SFX/SlowMovingWaterLocalAmbience
+{2d1f1168-2949-4e5f-97dd-34ffe845b10f} event:/SFX/SmallWhooshShieldSpin
+{abd49bc8-7eb0-4153-912a-b7c419475f1a} event:/SFX/SmallWhooshShieldSpinFast
+{b1e46160-2747-4116-94f3-f3bd6e215399} event:/SFX/SpikeTrapFire
+{438606d2-a0ea-416b-8303-ffe30a28a2bf} event:/SFX/SpikeTrapFireSHIELDCHARGE
+{3f7cdb0f-3d22-4874-9af0-bf3521dcac73} event:/SFX/SpikeTrapFireSPEARRETRACT
+{ba8984ce-7f9b-4b1f-9e77-e11563859906} event:/SFX/SpikeTrapSetWithShake
+{5c0ae1a4-99e9-4018-94e2-3473acb466b4} event:/SFX/SpikeTrapShake
+{11a5f5a0-3205-4318-9af1-ccdf147166cf} event:/SFX/StabSplatter
+{d7bd9c5d-3319-4b80-a94d-7600b48d5d24} event:/SFX/StabSplatterEndSequence
+{ea60683b-c476-40e3-b6ff-4bc74d87de24} event:/SFX/StabSplatterMenu
+{bcdac0e4-1835-4251-9877-32011595a768} event:/SFX/StabSplatterSmall
+{94c705b5-2a38-4ee1-95ea-2c39cca69442} event:/SFX/StyxGrossDoorCloseSFX
+{980e6b4e-17d4-41e5-b4e3-bf1580c29d60} event:/SFX/StyxGrossDoorOpenSFX
+{54d4eab3-3401-4b5e-96da-902974360522} event:/SFX/StyxWingDoorCloseSFX
+{b8277b99-e639-4106-82c6-6079f326808f} event:/SFX/StyxWingDoorOpenSFX
+{6b6f4030-4b9a-43d2-80d1-52deffd883c4} event:/SFX/SuperGemDropSFX
+{28bbd139-10bf-4d0d-988b-fa435790cfb6} event:/SFX/SuperGemPickup
+{52c0088d-2e00-45ad-9c74-b54ddc4fe338} event:/SFX/SuperGiftAmbrosiaBottleDrop
+{3aee69f0-9554-49dc-8881-a4bab12d5cdd} event:/SFX/SuperGiftAmbrosiaBottlePickup
+{522c8585-8fda-423a-8d39-1d1bd4095fb8} event:/SFX/SuperKeyDrop
+{f05971a2-1514-4527-8846-cb573b795d7c} event:/SFX/SuperKeyPickup
+{4c373da6-7e25-4efa-8213-a75c70deb384} event:/SFX/SurvivalChallengeStart
+{47b66c93-1070-4f1d-9cd6-f4f7219253fe} event:/SFX/SurvivalChallengeStart2
+{777fbc38-5f7c-4230-a1c2-6a631861d4d5} event:/SFX/SwordDropClank
+{6055c530-fd66-4599-b854-95da9e736db8} event:/SFX/SwordWallHitClank
+{941b75ae-b6e2-4a19-b812-459f67ddc653} event:/SFX/SwordWallHitClankSmall
+{58e069a7-e53b-44de-b24b-d879970a3328} event:/SFX/ThanatosAOERift
+{7f955217-6eb1-45e6-9248-ac58dfdb37e5} event:/SFX/ThanatosAttackBell
+{096ade0f-2abc-4563-8451-025a538b40fd} event:/SFX/ThanatosCreepyBellLoop
+{64cfae53-7600-42c9-8207-0925ea7996f8} event:/SFX/ThanatosEntranceSound
+{fb5e59f9-a810-413a-a4fe-1d8e7abff6a7} event:/SFX/ThanatosHermesKeepsakeFail
+{4df19f65-d9d6-4553-922a-2428c73af7f8} event:/SFX/TheseusCrowdBoo
+{670449e3-d8d4-4e78-8479-dc3cd5252b87} event:/SFX/TheseusCrowdChant
+{b350176e-f6c7-4130-9a21-8b4418d67852} event:/SFX/TheseusCrowdCheer
+{72ddf343-396d-4fc1-bc5d-374c4274b545} event:/SFX/TimerFlareSFX
+{7a28c65f-b96c-4919-8b63-bf4a848bb89e} event:/SFX/TitanBloodDropSFX
+{cb6f051a-2311-495f-8bac-f7cc697adbe1} event:/SFX/TitanBloodPickupSFX
+{b981102d-9166-4593-b29a-58b176bf864f} event:/SFX/TrapSet
+{1f48dbcb-2e45-4ae6-92f0-5ebb8c0589d2} event:/SFX/TrapSettingLoop
+{ffaa7598-581e-4255-bea1-dedaeb7a207c} event:/SFX/WallSlamMeatyRocks
+{90e6fe8b-73ee-4f8f-ac9e-d1d8d0b150e6} event:/SFX/WeaponUnlock
+{54d27534-afec-4930-850c-e2f3b4a3454f} event:/SFX/WeaponUpgradeHammerDrop
+{f7b3ef6b-07de-40d1-9aa9-b06e97969116} event:/SFX/WeaponUpgradeHammerDrop2
+{bb45928c-e155-426f-9365-21ff93e1a29c} event:/SFX/WeaponUpgradeHammerPickup
+{8b79966c-86a8-452c-8d69-b4a274e254d8} event:/SFX/WellAmbientLoop
+{a2820684-80bc-4f94-8f9e-6b9cf81d2505} event:/SFX/WellShopMenuCreepyWaterAmbience
+{5b3eace1-ebfd-4068-9bdd-a9d50b96c493} event:/SFX/WellShopUnlocked
+{ef73f0cd-a32f-4cdd-b81b-4493286ab6b3} event:/SFX/WrathEndingWarning
+{e5c6077c-7337-4cc7-9041-ebc3415b9be4} event:/SFX/WrathOver
+{6a37a17f-1c42-4503-9be3-b830a3dc6cf6} event:/SFX/WrathOver2
+{04c93cec-db9c-459a-8be6-d2c900740ee2} event:/SFX/WrathPersistentLoop
+{0fd3e011-ed86-464b-9def-0c39afbdf4f9} event:/SFX/WrathStart
+{7119f040-58df-47f1-b177-5e44ad23741e} event:/SFX/WrathStartNoEmote
+{0123ed40-6997-499f-ab5f-59cdfe4776f5} event:/SFX/ZeusBoonChoice
+{701dd116-4528-40ad-ab28-5f9cc9598695} event:/SFX/ZeusBoonThunder
+{d1089623-079a-4631-8d42-cca21b4a08e0} event:/SFX/ZeusLaugh
+{6e4b7822-0340-405e-b03d-85ba1868490c} event:/SFX/ZeusWrathThunder
+{d6b698ef-5ad0-4ef7-bc17-3f65cfcc1538} event:/VO/AltVO
+{2b30dcc5-4cf8-4a92-97e7-77dd73c4097a} event:/VO/AnnouncerVO
+{3e17e75f-2e16-4b81-8f93-4c89b092f8a3} event:/VO/Aphrodite_0075
+{e0dd2b9f-d99e-4a49-96c1-125cc9d0f83c} event:/VO/Aphrodite_0076
+{8fbbb577-a4cb-4ea0-b18a-28bae9e388d8} event:/VO/Aphrodite_0077
+{5332b394-2476-4a44-a0e3-23a47a6c54b2} event:/VO/Aphrodite_0087
+{a39e60ce-77ec-48ec-ab86-6986d310238e} event:/VO/Aphrodite_0088
+{bdb2c9b6-650d-4dc3-8087-e28557a1896a} event:/VO/Aphrodite_0104
+{bab2bd41-487c-469c-ac03-32b5171be717} event:/VO/Aphrodite_0108
+{2219ae3f-4898-4590-b030-c8de2a8ef007} event:/VO/Aphrodite_0110
+{628fbad6-2cc8-4b5d-b121-b629cdbaf23d} event:/VO/Aphrodite_0111
+{7a665b2c-5c88-4ef5-ae87-5229673cac4d} event:/VO/Aphrodite_0112
+{5e85dd7b-196a-4f06-9d88-16f6d9f98f6e} event:/VO/Aphrodite_0113
+{6a41cbf0-35a9-4c6d-b832-9c1a9f4f7410} event:/VO/Aphrodite_0114
+{591eefb9-b7da-420f-ad2e-29576abcd926} event:/VO/Ares_0060
+{9ad785b1-6310-4245-893f-7afce01670ad} event:/VO/Ares_0061
+{26e38f93-5f9a-4045-a708-25dc0b17e402} event:/VO/Ares_0062
+{b871064e-dff9-48b9-b3ad-9d64b670702b} event:/VO/Ares_0076
+{203466df-927c-4ba7-9b7f-0bdb084257a0} event:/VO/Ares_0096
+{f668ab7b-cbd1-4e10-8c32-63b6343ece18} event:/VO/Ares_0098
+{64127796-b7ec-4fbb-a0d8-1b32c2ce768e} event:/VO/Ares_0100
+{9395ef2e-c9c5-42ea-8268-9a88dcaab035} event:/VO/Ares_0101
+{e1832593-854c-497f-83c5-6f3cd57c1d01} event:/VO/Ares_0102
+{8178d21a-925e-4cef-b65d-a17377decd4e} event:/VO/Artemis_0067
+{9b20346a-306f-40b2-bf18-3d6bb9923bed} event:/VO/Artemis_0068
+{244493cc-40d2-4408-baad-fc12696659fc} event:/VO/Artemis_0069
+{5ed77dbd-5656-464e-86ea-99127cc39620} event:/VO/Artemis_0075
+{5f68ee12-a626-4168-a3ea-ced788688dc4} event:/VO/Artemis_0077
+{788bb375-b2c0-4ada-b059-c79951f6606e} event:/VO/Artemis_0078
+{f952610c-01fc-4c6d-a1c2-26140add7cbd} event:/VO/Artemis_0079
+{cf6d8f61-451a-4145-9f55-5a6ba5dfa33e} event:/VO/Artemis_0101
+{fe2314a7-9a2d-4fd1-a86a-11728dce8839} event:/VO/Artemis_0104
+{3c3ec6c0-adfc-47c4-bd9b-03e8506065ff} event:/VO/Artemis_0105
+{cf0a96e9-d4e8-40ba-a32b-9de7161166e4} event:/VO/Artemis_0106
+{77c28fed-a01e-4326-a708-a62c45d0898a} event:/VO/Artemis_0107
+{50de60c5-d56d-427c-a8c9-5e9c6148e691} event:/VO/Athena_0065
+{3acd64eb-1340-42d2-a16a-43d160903d6c} event:/VO/Athena_0066
+{3d49dd50-0d78-4436-a562-d8e1a5269778} event:/VO/Athena_0067
+{4b5c8160-875e-45c1-bb8a-9f66549a8938} event:/VO/Athena_0078
+{d797b0e5-d28e-41d3-8b66-c46b999df6d5} event:/VO/Athena_0103
+{eeb30442-83e4-479c-912b-87242932c5c3} event:/VO/Athena_0104
+{eaddd4e3-5505-403b-8ccf-d06db4049423} event:/VO/Athena_0105
+{0e818fe6-915e-4d5a-9c7b-a4da631ed960} event:/VO/Athena_0106
+{ad9798a3-a3d9-4b33-ba03-e0275883a457} event:/VO/Athena_0107
+{93904224-2192-4640-90c5-65909c9369b8} event:/VO/CerberusBarks
+{17886f1d-7f86-4456-a777-0c5a70eccf45} event:/VO/CerberusBarks2
+{b022647f-5ec3-49d0-a8fa-4431e543853e} event:/VO/CerberusCry
+{e92320e7-571e-43d6-ab2b-48a16ecc38de} event:/VO/CerberusCuteGrowl_1
+{32b5d700-21e0-4094-9e43-92ce4ab23a8e} event:/VO/CerberusCuteGrowl_2
+{7095259e-8618-46b9-9134-614536640f7c} event:/VO/CerberusCuteGrowl_3
+{bd943378-8c61-4cb2-aaa9-e0f618d5f5b1} event:/VO/CerberusCuteGrowl_4
+{a27150be-8ebc-4414-966a-ea005786c381} event:/VO/CerberusCuteWhine_1
+{2fd1c5df-f8c9-40eb-bfe3-09aa7d6a484d} event:/VO/CerberusCuteWhine_2
+{32cd3493-9e4b-42b1-83ba-1dae6ecd409c} event:/VO/CerberusCuteWhine_3
+{99e7debd-8657-4c03-89b2-3b775554a55d} event:/VO/CerberusExtraGrowl_1
+{cbb359d2-5481-468f-8064-c2cd1d423e7f} event:/VO/CerberusExtraGrowl_2
+{fa8440ca-aa4f-4db0-a776-3f49236572d2} event:/VO/CerberusGrowl
+{6451cb1c-8c2a-414e-864e-eca57b59d5fb} event:/VO/CerberusLongGrowl
+{51de9c37-52e4-458a-8b51-a864d3a03099} event:/VO/CerberusPant_1
+{0f2f9aa9-e260-4074-8c45-ab04affcad11} event:/VO/CerberusPant_2
+{822b0019-52e3-4886-bec1-b7ae9e2cae50} event:/VO/CerberusSnarls
+{b8628959-4841-4d7a-afe5-d451c5948af2} event:/VO/CerberusSniff
+{3641edd2-20fc-487f-982e-103a89e3dc57} event:/VO/CerberusWhine
+{63f40d3d-df43-485d-9bef-b29882a7fdf9} event:/VO/CerberusWhineHappy
+{47656820-77f2-4315-9acb-7442a520194f} event:/VO/CerberusWhineSad
+{f4ac0bb0-3768-4a94-b5ea-3705bf7e416f} event:/VO/CerberusWhine_1
+{ad6c2718-f755-44b6-815c-f325eb044b59} event:/VO/CerberusWhine_10
+{99840712-81cf-4c0c-a222-00f1cdb566c6} event:/VO/CerberusWhine_2
+{931a1a97-1a4e-4c9c-b29c-ab4356699ad7} event:/VO/CerberusWhine_3
+{3892a32f-33ad-4e93-a56f-f17f37be515d} event:/VO/CerberusWhine_4
+{eacfb345-eb91-4cab-819c-3662103f4931} event:/VO/CerberusWhine_5
+{20b1488f-961e-4f28-8994-32c83fdb72ab} event:/VO/CerberusWhine_6
+{39a78e82-1948-4874-afd9-d28785c9d650} event:/VO/CerberusWhine_7
+{e9c599d1-d3b8-4172-b41a-0cee9c9651e2} event:/VO/CerberusWhine_8
+{e42dd18f-ddf5-444b-9987-7bfb9c9c6b12} event:/VO/CerberusWhine_9
+{5ecf8053-ea6c-4d70-b799-0069021450df} event:/VO/DadOcclusion
+{4bfec527-3001-420c-a68d-63baa6d0310c} event:/VO/Demeter_0123
+{31e6201e-eab3-49e0-8e6f-7b8b2051af8f} event:/VO/Demeter_0124
+{c773e02e-5e24-40b0-854b-c0fe9529d0c7} event:/VO/Demeter_0125
+{9a0a55e5-5666-4739-8ce8-c2e5b2b7de75} event:/VO/Demeter_0126
+{c0ededa3-53ab-476a-9675-6b31139c3e8c} event:/VO/Demeter_0127
+{6c8898fb-27bc-4a97-b602-ad2328d6abeb} event:/VO/Demeter_0128
+{ed5d30d8-e337-418d-b167-1cf4fef90d01} event:/VO/Demeter_0129
+{36e3c5f1-d03e-47b6-b347-29108bc89aeb} event:/VO/Demeter_0130
+{0c62ba94-53f0-4fab-a382-d3f60ef89fc1} event:/VO/Demeter_0131
+{10a12378-aba2-46cb-981d-82382b2eb441} event:/VO/Demeter_0132
+{ae912053-eef0-457c-95c8-dd1a54cffdb6} event:/VO/Dionysus_0062
+{58bf35f8-a50d-4821-a4ac-e3c4872d344a} event:/VO/Dionysus_0063
+{a30cb84d-ea0b-45b4-ae6c-de58fc1d6134} event:/VO/Dionysus_0064
+{215fc354-95ca-46de-93c8-5250abdf4b1a} event:/VO/Dionysus_0074
+{54e2fc9a-5acf-40e2-a6a6-3a69f5e84b4e} event:/VO/Dionysus_0075
+{521644a7-58f7-435a-97f6-925367ad2e9b} event:/VO/Dionysus_0086
+{ef7253f0-891e-4a4b-ba6a-5cec34a2fb5b} event:/VO/Dionysus_0097
+{f707cf95-3143-4786-b38f-e90e45267cc4} event:/VO/Dionysus_0099
+{d1a71627-a975-4c81-8004-5dc92922551e} event:/VO/Dionysus_0100
+{0d958a17-8173-46a8-a80d-a39bd489850f} event:/VO/Dionysus_0101
+{59c8287f-1f6d-4f21-8883-2ae83f29d6cb} event:/VO/Gods/Aphrodite Template
+{923e975b-3b3a-499f-8430-13fb234facde} event:/VO/Gods/Ares Template
+{37c20ca0-abeb-4f89-a43e-dd5e26b11ff0} event:/VO/Gods/Artemis Template
+{d6d14985-471f-47d4-ad03-d3cd98b87e5c} event:/VO/Gods/Athena Template
+{dd4405b0-b3d2-46df-b315-e74fa3b51122} event:/VO/Gods/Demeter Template
+{7821ff9e-c262-47c7-8c5a-ae24df4f0ec5} event:/VO/Gods/Dionysus Template
+{d5ccd857-1a3b-41b6-a615-6f1bbe8087a0} event:/VO/Gods/Hermes Template
+{3d8a39e4-00e5-4b6d-b531-8e5ae79d52f9} event:/VO/Gods/Poseidon Template
+{79dbd137-5277-4c24-abeb-462a629d872d} event:/VO/Gods/Zeus Template
+{84b94fdf-b3df-4fd7-b657-68b5153cf5bf} event:/VO/Hades Template
+{1826a9a3-8bee-498d-b87f-23c8177a6bb6} event:/VO/HadesLaughMenu
+{7f39f345-016e-4fd4-9530-fe9e6915bee3} event:/VO/HadesLaughSingle
+{166008ad-0bef-4391-ba5d-a35531115d17} event:/VO/Intercom Template
+{987e1ad3-1ac5-4215-a642-6d0bb965486d} event:/VO/NPCs/Achilles Template
+{579045f8-bf67-45d7-8980-72058345c896} event:/VO/NPCs/Alecto Template
+{c1917c44-e5fa-4089-8919-7e38c562c320} event:/VO/NPCs/Chaos Template
+{2f8be5a9-14bc-4690-abed-db41ac3e08cd} event:/VO/NPCs/Charon Template
+{b2f4bdd3-2990-417c-8fd2-f0a5297a59a6} event:/VO/NPCs/Dusa Template
+{4109df74-064d-4f15-9219-c5c3f89a2ed9} event:/VO/NPCs/Eurydice Template
+{5a59eb1a-d25a-4ff0-89c9-9026812529f6} event:/VO/NPCs/GossipOcclusionD
+{d4b4d621-61a5-44a7-9b3f-afc4a2ad086b} event:/VO/NPCs/GossipOcclusionM
+{c8041a0f-9efa-49b0-8787-4271511241e3} event:/VO/NPCs/Hypnos Template
+{ff4107e3-bfa9-4a4f-a45a-9aa8bce72819} event:/VO/NPCs/Megaera Template
+{23998452-6e8b-40d4-a7d4-7f7f3ad4d315} event:/VO/NPCs/Minotaur Template
+{702478bf-62d1-4626-9029-d7015dec79ee} event:/VO/NPCs/Nyx Template
+{56df1201-36a1-466b-9ba6-11b95d90fa1c} event:/VO/NPCs/Orpheus Template
+{a2e3d75a-0bc8-4b2e-88cf-094fc1dc58b6} event:/VO/NPCs/Patroclus Template
+{bb7f8d89-b3b4-4407-9345-d91ea23c6444} event:/VO/NPCs/Persephone Template
+{44e43ee3-8912-45d8-988c-9abf41400e7c} event:/VO/NPCs/Sisyphus Template
+{e2f86eac-c139-411a-8c1e-46ff4dbd7c38} event:/VO/NPCs/Skelly Template
+{f79d7145-0692-4932-bd5c-45c3cf74a794} event:/VO/NPCs/SleepyBoyOcclusion
+{ecc04ba5-481e-414b-a4a6-63263e5d37c2} event:/VO/NPCs/Storyteller Template
+{9a779bb1-6cc1-41a0-bb8a-6ed97b8c456e} event:/VO/NPCs/StrangerOcclusionP
+{8c23c65f-1911-4ad8-81b5-5b0490a74c78} event:/VO/NPCs/Thanatos Template
+{dbe92875-4388-4af3-bb36-0c927d7e1bcf} event:/VO/NPCs/Theseus Template
+{f5bd6dd1-56f9-4144-a9e4-4085bbc862c0} event:/VO/NPCs/Tisiphone Template
+{7ea2545e-26d9-4901-950a-da176ca014d3} event:/VO/Nyx_0057
+{0236fd06-a505-41f4-86bb-cdc44230fe98} event:/VO/Patroclus_0030
+{b7fcae8d-4019-45ef-8f85-455c6b34e34f} event:/VO/Patroclus_0031
+{ff596556-824f-4e97-8171-43c4f6e1b10b} event:/VO/Patroclus_0032
+{a676c161-9982-4a43-9fad-9e0fef8e9d00} event:/VO/Patroclus_0033
+{d03e6a96-fd00-49e7-a25a-a4274f7585d2} event:/VO/Patroclus_0034
+{cad71010-11f1-47d2-8395-ee0ddeafe9ef} event:/VO/Patroclus_0035
+{03cf863b-93f8-4c42-b157-be340dc06137} event:/VO/Patroclus_0036
+{6e2175e7-cdf6-45de-b35c-0d1472b08854} event:/VO/Patroclus_0037
+{95bae61a-f80e-465d-ac08-ac6bc9116234} event:/VO/Patroclus_0144
+{fbae5391-51f3-4987-ba4e-a40dd28dcf81} event:/VO/Patroclus_0145
+{f315d211-244a-4295-925e-daca592aab07} event:/VO/Patroclus_0146
+{26bb7c67-88b6-4a41-8571-f30902046582} event:/VO/Patroclus_0147
+{6fff259f-533a-492b-a3f2-282d2c6eb784} event:/VO/Patroclus_0148
+{d3b9b4ff-c7d5-4e84-9ff4-81ac3e03718e} event:/VO/Patroclus_0149
+{beefc6b3-7f41-49d4-8150-8f270d72a766} event:/VO/Patroclus_0150
+{2f57087a-154f-416f-b24e-93a0c09c6989} event:/VO/Patroclus_0151
+{c99cfc5a-373d-4bff-b969-e7f4d83a6d10} event:/VO/Poseidon_0070
+{1535cdbb-6e4b-4ac0-8852-5257733a8a4e} event:/VO/Poseidon_0071
+{b8fb7a8e-f072-4009-9e21-0104016c7064} event:/VO/Poseidon_0072
+{32517f5b-b251-41e3-ba99-b95b8669c9d8} event:/VO/Poseidon_0080
+{eb2f2880-07d9-41a9-ac5f-e33f13ead958} event:/VO/Poseidon_0082
+{db1f58e2-34a2-4f8d-9bf0-b378f5153c6d} event:/VO/Poseidon_0083
+{9854a18a-5757-4c89-a0a5-70d5df0b3c2b} event:/VO/Poseidon_0105
+{482381f5-d0b3-49f9-a90f-1f6aa70ff411} event:/VO/Poseidon_0106
+{e0e9b95b-0823-45e6-812d-9d40586ebe84} event:/VO/Poseidon_0107
+{9c310ead-9707-423e-8ab4-6f3fa1b89620} event:/VO/Poseidon_0108
+{7617387a-4d68-42d0-9c3e-86e948925415} event:/VO/Poseidon_0109
+{3ea6afbb-2e94-448f-a061-134a94aa0806} event:/VO/VO TEMPLATE
+{c26f9be9-f103-4b87-a666-8f77751f72bf} event:/VO/Zagreus Template
+{07eebd03-c210-4110-acb9-a05db7f108b6} event:/VO/ZagreusEmotes/EmoteAttacking
+{c4a4d9fd-0836-4ce0-8a10-578f45884ca4} event:/VO/ZagreusEmotes/EmoteAttacking_Bow
+{b50b187a-dc23-4cb1-bd5d-1e7695032b07} event:/VO/ZagreusEmotes/EmoteAttacking_BowPowerShot
+{5643e0b0-4e9a-4e39-afba-7a8ca7326f14} event:/VO/ZagreusEmotes/EmoteAttacking_BowRapidShot
+{e9275167-2bae-48eb-b096-096b5b4f072c} event:/VO/ZagreusEmotes/EmoteAttacking_DashPunch
+{882d25e4-0af2-4947-acfc-931bd91b0a29} event:/VO/ZagreusEmotes/EmoteAttacking_DashUppercut
+{e21a6eab-1c00-4693-8677-0971aaca8ff8} event:/VO/ZagreusEmotes/EmoteAttacking_Fist1
+{4ec0b508-e1df-48eb-9d95-defcf449f5cb} event:/VO/ZagreusEmotes/EmoteAttacking_Fist2
+{a7790f6b-2f96-4452-b776-30f4808eb274} event:/VO/ZagreusEmotes/EmoteAttacking_FistKick
+{5eed8b79-b45b-48d9-a4cf-dc705420cb89} event:/VO/ZagreusEmotes/EmoteAttacking_Shield
+{f344d814-942d-4c0a-a4b9-30818275e7a5} event:/VO/ZagreusEmotes/EmoteAttacking_ShieldCatch
+{052bd14d-fc29-44a7-9795-6641b58443ea} event:/VO/ZagreusEmotes/EmoteAttacking_ShieldCharge
+{a74c50e5-0814-4b4f-8834-e527ea49d514} event:/VO/ZagreusEmotes/EmoteAttacking_ShieldThrow
+{2c9b55bb-3e63-43b5-9650-bbd4618468a5} event:/VO/ZagreusEmotes/EmoteAttacking_Spear
+{0968515e-dacf-45b2-a65b-74134722f367} event:/VO/ZagreusEmotes/EmoteAttacking_Sword
+{7b436782-42ba-4be8-a898-f94005c7cfcf} event:/VO/ZagreusEmotes/EmoteCharging
+{cb4dad7e-d44b-450c-b2e8-6d6335e1e1df} event:/VO/ZagreusEmotes/EmoteCharging_Bow
+{40d43a4e-af29-4c91-9704-83a7652017de} event:/VO/ZagreusEmotes/EmoteChoking
+{464a2823-9085-413d-bc7b-06a756c1edca} event:/VO/ZagreusEmotes/EmoteDarkness
+{9f4b28f7-d08f-4983-b6e5-28e12ce77523} event:/VO/ZagreusEmotes/EmoteDodging
+{d018de98-21b0-43c1-a69d-d19010ec551f} event:/VO/ZagreusEmotes/EmoteDodgingAlt
+{4d07f394-5fa8-4852-822c-4a6e9202b106} event:/VO/ZagreusEmotes/EmoteEvading
+{86e7bd5f-52d1-4cdd-8928-a598cab2f51e} event:/VO/ZagreusEmotes/EmoteHeavyAttacking
+{280355c7-b3dd-443f-a235-dfd0f4777891} event:/VO/ZagreusEmotes/EmoteHeavyBowAttack
+{5099725a-332f-4a0b-87ad-21a382644ae1} event:/VO/ZagreusEmotes/EmoteHeavyBowCharge
+{63fb8332-db32-4ad7-a9d4-5ad9a4dcfd3c} event:/VO/ZagreusEmotes/EmoteHeavyBowFlurry
+{6e46acb5-e020-4f28-bc93-755f36c030dc} event:/VO/ZagreusEmotes/EmoteHeavyBowPowerAttack
+{3cafdfb1-f11f-49a3-9cbf-1bbc4b1496a5} event:/VO/ZagreusEmotes/EmoteHeavyCharging
+{73058535-fdf9-4395-b03d-96665b24eb0b} event:/VO/ZagreusEmotes/EmoteHeavyFistDash
+{15b3a1eb-bc61-4037-985b-9c5e721e7b68} event:/VO/ZagreusEmotes/EmoteHeavyFistDashAttack
+{a23f7b4d-a92c-4b65-9817-a02bad9dded5} event:/VO/ZagreusEmotes/EmoteHeavyFistDashUpper
+{3f272219-22ff-4632-9f9e-15a9a9b2e6ed} event:/VO/ZagreusEmotes/EmoteHeavyFistSpecial
+{3f772c7a-7afe-41fd-b9d1-19987ee69e2d} event:/VO/ZagreusEmotes/EmoteHeavyFistSwipe
+{18aa500f-2781-4132-83b1-9a77994046ea} event:/VO/ZagreusEmotes/EmoteHeavyGunCharge
+{88acd88b-aa03-48dd-85e1-874a3fbc7c9b} event:/VO/ZagreusEmotes/EmoteHeavyGunFire
+{8a8b428c-8133-404f-92de-05303c67ecc2} event:/VO/ZagreusEmotes/EmoteHeavyGunFire2
+{52e52f04-1750-44a8-871e-06b884b47309} event:/VO/ZagreusEmotes/EmoteHeavyGunLob
+{faa5488a-94be-4d90-a73f-7cccab902198} event:/VO/ZagreusEmotes/EmoteHeavyShieldAttack
+{b9e7967c-e427-4c4b-ac15-f6b069bc0bae} event:/VO/ZagreusEmotes/EmoteHeavyShieldBlock
+{7e5057f4-ac16-4223-b97a-68e7cfe825d1} event:/VO/ZagreusEmotes/EmoteHeavyShieldCharge
+{3c7c6c1f-d83c-4744-84ab-9b207765ecf9} event:/VO/ZagreusEmotes/EmoteHeavyShieldRush
+{479236cc-7ee8-485d-8020-4905b2a5d683} event:/VO/ZagreusEmotes/EmoteHeavyShieldThrow
+{f5732736-15d1-4689-a2fa-97ad62523aff} event:/VO/ZagreusEmotes/EmoteHeavySpecialAttack
+{c5b51b1a-9523-4b41-9932-e1dcc72d449a} event:/VO/ZagreusEmotes/EmoteHurt
+{56e5b2d9-87cb-481c-b9ad-5bcee42c7593} event:/VO/ZagreusEmotes/EmoteMartialSpearAttack
+{b52a821d-885f-4775-b810-4d83c0171933} event:/VO/ZagreusEmotes/EmoteMartialSpearSpinAttack
+{e5183bc0-3829-4d72-849c-db0c8b12047c} event:/VO/ZagreusEmotes/EmoteMartialSpearThrow
+{5493f8a7-8795-49ff-9ce0-c2e8b3564cf3} event:/VO/ZagreusEmotes/EmoteParry_Sword
+{95a2748f-f4ce-4bba-88fd-fef3793931be} event:/VO/ZagreusEmotes/EmoteParrying
+{881d8faf-1759-4c21-95d9-aab2f72214eb} event:/VO/ZagreusEmotes/EmotePerfectEvade
+{04f18ab4-fd7b-4aef-8541-0e068c77f5a3} event:/VO/ZagreusEmotes/EmotePetrified
+{963cb075-c026-45f2-b029-6da18c240748} event:/VO/ZagreusEmotes/EmotePowerAttacking
+{6495f93c-708d-4039-861a-90142605d044} event:/VO/ZagreusEmotes/EmotePowerAttacking_Fist1
+{e04a00b4-cad5-4911-a626-5ee8e9eaec2b} event:/VO/ZagreusEmotes/EmotePowerAttacking_Fist2
+{86ee6e75-7811-4eee-a903-ceed5a92d41f} event:/VO/ZagreusEmotes/EmotePowerAttacking_Fist3
+{3ead9317-3917-452c-a9b6-5dedebd377ec} event:/VO/ZagreusEmotes/EmotePowerAttacking_Fist4
+{fadac3aa-fe3a-4d9e-a9cd-bb8785cdc971} event:/VO/ZagreusEmotes/EmotePowerAttacking_Fist5
+{4b79b97c-12d6-4ac8-80e4-8ccac383efca} event:/VO/ZagreusEmotes/EmotePowerAttacking_Spear
+{29625378-1582-41b8-92a8-0175213248d0} event:/VO/ZagreusEmotes/EmotePowerAttacking_Sword
+{dce45495-49b6-4ef8-9fee-de1e2fdca44d} event:/VO/ZagreusEmotes/EmotePoweringUp
+{5ee7b1f1-171d-4c72-b295-923eb6fdb801} event:/VO/ZagreusEmotes/EmoteRanged
+{495956ef-a625-4c06-910e-c65ec70f6201} event:/VO/ZagreusEmotes/EmoteRangedALT2
+{0730e6b5-5614-46f9-a7dd-73a7dd8acaf7} event:/VO/ZagreusEmotes/EmoteRangedALT3
+{d3397d7b-b904-4b12-9874-fbaab9d9e67d} event:/VO/ZagreusEmotes/EmoteRangedALT4
+{5138df4b-9843-42ac-91e8-b6e4f57e2263} event:/VO/ZagreusEmotes/EmoteRangedALT5
+{c71a994f-9686-45cc-8a89-708a6e5ef719} event:/VO/ZagreusEmotes/EmoteRangedALT6
+{6f1cd878-14d7-45ee-8ea7-c89743aa2139} event:/VO/ZagreusEmotes/EmoteRangedALT7
+{c09ec6df-45fc-4764-82f1-e0327fceac92} event:/VO/ZagreusEmotes/EmoteRangedALT8
+{26e05b09-9f21-4e72-9160-9c0d7b0dd3fa} event:/VO/ZagreusEmotes/EmoteRangedCharging
+{1b435981-8271-420d-bfd7-2a294af31d92} event:/VO/ZagreusEmotes/EmoteRangedFOO
+{fc74bedf-1ae7-44db-b9f4-fd73dff698e5} event:/VO/ZagreusEmotes/EmoteRangedNew
+{d4ba0e21-b1cc-4156-8f6d-4fd5b675fd51} event:/VO/ZagreusEmotes/EmoteSpearThrow
+{bb47273a-8545-4056-b7e7-0f4e883aa150} event:/VO/ZagreusEmotes/EmoteSuperSpecial_Fist
+{01f70b71-5249-4762-b820-84e33d9d2490} event:/VO/ZagreusEmotes/EmoteUnpetrified
+{f6d98397-eb6f-4f95-a506-6a218ecc6d0b} event:/VO/ZagreusField_2234
+{39265a33-14e5-4d58-a8a2-9202a5b4ac84} event:/VO/ZagreusField_2236
+{17eafc5f-8f88-481e-9e48-2d0a7b5812e2} event:/VO/ZagreusField_2238
+{0434fe32-60a5-4bf8-a6b0-9a9354aa82e9} event:/VO/ZagreusField_2240
+{6664a70c-a516-4406-b2b8-e78cda625f48} event:/VO/ZagreusField_2242
+{7f4ecf65-263f-4c83-9057-4d0ce2517cfa} event:/VO/ZagreusField_2244
+{8ae006af-1746-4ef4-9eef-2d7ea700402b} event:/VO/ZagreusField_2246
+{5ef18d1a-1a36-4b80-85f1-6c296881e536} event:/VO/ZagreusField_2997
+{f37e47f4-8b5d-4b96-bf5e-6990b54e3409} event:/VO/ZagreusField_4345
+{8b16a830-4c66-45e9-bedb-de59340eb4ac} event:/VO/Zeus_0069
+{740ddc45-1549-42de-842e-6d911b8f76d2} event:/VO/Zeus_0070
+{ce844597-71bb-4d4b-a15b-7fd4437a7fa5} event:/VO/Zeus_0071
+{825793b8-9893-4b56-af71-e2f2c388955a} event:/VO/Zeus_0082
+{a292d028-809e-4f22-993d-f5dc72fa4270} event:/VO/Zeus_0083
+{6cc29baf-c490-44ac-918b-17e7250cb322} event:/VO/Zeus_0084
+{5d7f6810-20c9-4a51-a056-e1d27fced472} event:/VO/Zeus_0105
+{4976f229-ffe0-4057-b163-6bc22035dce9} event:/VO/Zeus_0106
+{3f908c19-26f9-4f5d-bfdf-b9d6f12aedab} event:/VO/Zeus_0107
+{0fd49388-0ce0-4837-b88e-1221faa865b5} event:/VO/Zeus_0108
+{1ba327bf-3eb0-41da-ab8e-7f82f399d892} event:/VO/Zeus_0111
+{67636a91-1e48-47ea-a986-80af621730b6} parameter:/BardVocals
+{7cd11674-7977-4f58-9bf4-21cc2f95e097} parameter:/Bass
+{ed526d11-b0da-46e4-9f14-b3e1c7a0a7f2} parameter:/ChaosBass
+{39692726-4632-42dd-b5cc-81473bf1677a} parameter:/Control/MixingControl/Glitch
+{2eebe2d8-db93-4336-9e30-5dd41e3c5734} parameter:/Control/MixingControl/Pause
+{777a9475-c7c1-40ef-8c31-08a32cd231f7} parameter:/ControllerVoice
+{1ae32d6e-fa15-4e2a-9e53-08dcf4b77af1} parameter:/Distance
+{19da977e-b68e-4e2c-9d3d-45347f48bc23} parameter:/Drums
+{ab1fd216-6eeb-4040-8a67-fa11cbe44ccf} parameter:/Duel
+{270b733a-3f4e-4a57-bb3e-e45f6e3ed7b0} parameter:/Guitar
+{bad39701-c5a9-4720-8cbe-8ccab784e3e5} parameter:/Guitars
+{d0ab9a8f-892c-4fcc-bfa8-60e23b9b6e3d} parameter:/Harp
+{c6e01039-98f3-49f7-9bdd-1c6350fc2355} parameter:/Health
+{39d1af25-9e79-480f-90b0-8636ddcbd1fc} parameter:/Keys
+{c298695a-e543-4336-b578-360581bd22d9} parameter:/Keys2
+{181cd9f3-1e49-413f-ae62-236af7a074fb} parameter:/Leftovers/SFX/FireAmbientLoopMATCH/FireSizeA
+{62ba0313-7863-4482-b9e3-14c673f0e42e} parameter:/Leftovers/SFX/FireAmbientLoopMATCH_2/FireSizeB
+{997329d5-3ef0-42c9-8e4a-a74625215516} parameter:/Leftovers/World Sounds/CaravanAmbience1/Uphill
+{57bda026-47ef-4ab6-ab50-72f825e502e4} parameter:/Loop
+{e145491c-b697-4af3-945c-03f85f21d54b} parameter:/LowPass
+{006eaf29-49a3-498d-8d21-16ef74f5cc6d} parameter:/Migration Name Conflict (1)/Section
+{a16decfd-22c2-42b8-a58b-52876757bf1f} parameter:/Music/OrpheusSong1/Vocals2
+{183d8113-0d72-4cea-94a3-209466a9e447} parameter:/Music/OvermapTemplate/Drums
+{e1ac25e2-e27c-45a1-93d2-9c063813a75a} parameter:/Music/OvermapTemplate/End
+{3fd4c6dc-826a-42fa-a4e6-b4b43bc1742b} parameter:/Music/OvermapTemplate/Filter
+{d7b143ad-1584-4823-92f2-e492fa55ff1e} parameter:/Music/OvermapTemplate/Flutes
+{ba441c8b-eb39-4edf-b9ad-8432a7d0127f} parameter:/Music/OvermapTemplate/Mandolins
+{80977b0a-c0af-44f4-9f3d-cd757578e9b7} parameter:/Music/OvermapTemplate/Misc
+{9a34a8f2-99ab-47ce-b974-06842a42340b} parameter:/Music3D
+{26877be5-18b7-48ce-8e02-660b7d4b70aa} parameter:/Percussion
+{07f8dac9-6ae9-4604-a86b-4c4934579294} parameter:/Pitch
+{93561ce1-e762-431a-95e2-13767aed02f9} parameter:/Primary/Glitch
+{aa1f9583-5d16-4a5f-a3de-4ad076eeecfc} parameter:/Primary/Pause
+{08e3b137-9075-4447-ab44-20deb8063cc1} parameter:/Primary/VoiceOcclusion
+{704580e3-c15b-4051-98d6-18440a8055e1} parameter:/Reverb
+{5c3f36c8-2126-4456-80a5-a5be55e719d1} parameter:/RivalBardVocals
+{6adeaeb4-816f-4c8e-94dc-7b95d4fb42ce} parameter:/Room
+{aa7c1a28-c582-46c7-b389-fba00590f38e} parameter:/Section
+{57bc46a3-6bad-47f0-a07c-3f66d9a235e5} parameter:/Strings
+{096dae52-43b2-4e54-b332-301db4f96781} parameter:/Trombones
+{7f5d9122-1b88-47bc-9d5c-c4bba6580702} parameter:/VO/AltVO/Distance
+{77b63af1-0568-4875-b15c-2b626a8be28e} parameter:/Vocals
+{e8bfa87d-8865-4b00-a79b-1b92c8256256} parameter:/Vocals2
+{9125f18c-100b-4842-b7c7-9682d009b7d6} parameter:/VocalsAltState
+{f6cd3469-939a-4f4d-b3c5-e7ec26d8a2cd} parameter:/VocalsAltStateFX
+{93fb080c-0967-40f5-aa0e-753d10ffdfee} parameter:/Wagon
+{c9ef8982-8865-4e8a-874f-f09b925abef6} parameter:/WoodWinds
+{38472610-ad7d-419b-b7d5-00f86e820ecd} snapshot:/Primary

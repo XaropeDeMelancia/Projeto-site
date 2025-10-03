@@ -1,0 +1,21 @@
+2025-01-10 22:39:11.0365|INFO|DS4Windows version 3.2.11
+2025-01-10 22:39:11.0520|INFO|DS4Windows exe file: DS4Windows.exe
+2025-01-10 22:39:11.0520|INFO|DS4Windows Assembly Architecture: x64
+2025-01-10 22:39:11.0520|INFO|OS Version: Microsoft Windows NT 10.0.22631.0
+2025-01-10 22:39:11.0520|INFO|OS Product Name: Windows 10 Pro
+2025-01-10 22:39:11.0520|INFO|OS Release ID: 2009
+2025-01-10 22:39:11.0520|INFO|System Architecture: x64
+2025-01-10 22:39:11.0520|INFO|Logger created
+2025-01-10 22:39:12.4471|INFO|Running as User
+2025-01-10 22:39:13.5639|INFO|Starting...
+2025-01-10 22:39:15.5645|INFO|Some applications may block controller inputs. (Windows UAC Conflictions). Please go to https://docs.ds4windows.app/troubleshooting/kb-mouse-issues/#windows-not-responding-to-ds4ws-kb-m-commands-in-some-situations for more information and workarounds.
+2025-01-10 22:39:15.5645|INFO|Using output KB+M handler: SendInput
+2025-01-10 22:39:15.5645|INFO|Connection to ViGEmBus 1.16.112.0 established
+2025-01-10 22:39:15.5645|INFO|Searching for controllers...
+2025-01-10 22:39:15.5645|INFO|Using Shared Mode
+2025-01-11 02:14:34.3820|INFO|User Session Ending
+2025-01-11 02:14:34.4366|INFO|Stopping Virtual Output Controllers
+2025-01-11 02:14:34.4366|INFO|Closing connection to ViGEmBus
+2025-01-11 02:14:34.4366|INFO|Stopping DS4 Input Controllers
+2025-01-11 02:14:34.4366|INFO|Stopped DS4Windows
+2025-01-11 02:14:34.4531|INFO|Closing connection to output handler SendInput
